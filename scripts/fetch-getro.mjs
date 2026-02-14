@@ -73,7 +73,6 @@ for (const config of configs) {
   }
 
   const withJobs = companies
-    .filter((c) => c.active_jobs_count > 0)
     .filter((c) => isIndianCompany(c))
     .map((c) => ({
       name: c.name,

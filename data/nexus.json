@@ -86,7 +86,6 @@
       "domain": "jumbotail.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3336709b24501e08bba381f7e4cbde19_274_160?Expires=1861920000&Signature=BE1LEh6oOSJqfO2BK-2VTRvPqIfMk3qYAgvUPMFLpFfzhcTpVzG9Cfk1scEneuNUvpyR7LytB0m23dm7r29s9SnkBOE2lus82T5MYAoe~-UWsmp~TF-5kDw3FMCQJCKM50nwFC7he9BgiJToKbSVZxl5EBBa-gkdCxuLbBfq4pVdPlHN0qae6r5NqVmSAGmsHa7bneCy8RsZ3lkF-na9pz6Fgx7xTQN6d9qeXt82gu3gz9JCNx8mmr3Fm6DJlLl~djbxISAEGtaBDmxGupCp~kEAtkoTwsRUYZxZZBmB5fu9V-uoYrROPUmWT9Y5S8f5mFU6tQQ3yNeTnUCN2TYsug__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "FoodTech"
       ]
     },
@@ -109,9 +108,7 @@
       "activeJobCount": 16,
       "domain": "zeptonow.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/1cd9940be74683bdea9716c2c9580d75_160_160?Expires=1861920000&Signature=oNkOfyyIlq4MuqY4vqVYm~boO-1-hWzWh2FrtItGBAbNGwIGU2OV15NY~uiKu6pLyv2rqGg3EaomeKLoTepk5n8s0QAHbINTPfkmhOolI5EBSh6uwd7iCqbAbWlxTtntGnuNEgBnbc2JN~v~NRQBDnUs5wxd2NUcAbsCjI80Cbb~l4fOKtfBhHu2tY6MmUD9uPK1ignmozALgOjeYKZC4v7ViloOyiTIwolHZV6Xtdd6crnsrbESFCys2e3Cr54rS0-uS0kfxVkwBglqHe2WuRudcMhEV4DK7mRTKmCpgKexVEzG0pA66tcDW6sExkDZ5NMKtYCSCYSR767w19dgGA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "AssetPlus",
@@ -302,10 +299,7 @@
       "activeJobCount": 5,
       "domain": "venwiz.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/5c00fd17423a481931ce77614deaa0e7_288_160?Expires=1861920000&Signature=Tt5okrQMeXMzNBbA4q6sEl7zVV7PY6S~~xj7N13R-QMgJmgjSAWHihIEh5uzuVVdCFAe~V38VofTA7PZ0ojpq~GRhRBk7ofnzyIagNm6ejJ5~Vl~9-Xmy1xqC5MP9XyfyYRVgt8aZZNysk5nQ-UH3LLOCII~jAAD5btRVFwVKD6qr~6UO~iO8-l2orBWn-KQ2lCPEWSrma3kUzaJB6gm9GA4B96nIOwbXjS8XmgXb5tUbcKX6vUdO2Ripj7OcjTHZb2e~BgJjE5CUG5218Ck05mD7cb42VNb4vVmA76vod9qjY6ongjCZZvtOqZTJKc9vyp8qWGB3CMozUumm03KsQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C",
-        "Manufacturing & Hardware"
-      ]
+      "sectors": []
     },
     {
       "name": "Aryaka",
@@ -349,7 +343,6 @@
       "domain": "mugafi.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/6b1389c68a49b2090c8ae50814544c91_272_160?Expires=1861920000&Signature=TLlanMiGFXVSmWhIOg7BukIatLnx5HXo0WH~f8XWIHGAUj4a8hgFxEppXvbYbu4lgIodaPy~1vKBz4PCS2nfN2UIyx~IkUu9uuV2yMm4DkAuw3T2S4zwlhMTrdCi2F-1tgWwnZaXw0mhzQTOfjLM0Maiq41pQVluJxkC1EIWtEKJCA3WV0rBlPhjf53BhEkID5DrHoHLPQfZxfe0YRQuFlVw~HgfC49Hg5WTZhmhQzS-faaTbOPk-sKTPRzNFecuTVgA-6Y3oH83eP1zhSEDcUEg9uBFRpAJr5ogxnj5DF2RvmxhqPxkR7lFURB4n4u~Tz1Dee2RPnt5UMqeCLEnFQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "Media & Entertainment"
       ]
     },
@@ -384,8 +377,7 @@
       "domain": "animall.in",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/e62615f6e88535cf1173c955c0d30c2d_288_160?Expires=1861920000&Signature=mBHVUNJGLRciJqEHUfwS5cdiR-BxSSO3nTe49Jz4fIC4K3sIim9AnqVm~dGW~oUlPMS-ZVe5dBNCjwua1kQ254as2Ixdekw7PYu6o7EGA-5arKTIHsXkzGOB4ROJjtDD1505qzaJyjgWApHqGAuwi-rIAyd1dTUC7jSJYoXitxjCyUdWBBZXrBVnguQvfLO~3kcaYM~foxqEW9ZeWHNsxc7BBsY~PDbgQNhwgMqNPN8bp9KCMkB1tQuOxUEqAmXoeQs46FmZZkEL7hw361r3ElApLCCGdLuLADUC6ATFZFjx8yfgtkA6Cy1YPZiy0I5sXlNZX745YQET9yqAcfzUnQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "AgriTech",
-        "E-Commerce & D2C"
+        "AgriTech"
       ]
     },
     {
@@ -396,7 +388,6 @@
       "domain": "maximl.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/cb119c64fcc4223f963314a00a5cbd4f_100_100?Expires=1893456000&Signature=dhYuVUY3Goz45EaRva6frLIbTSCavMXfkBKKC7Zztdd5JMcECltV6yfEv29lg56Gdn28hDs~mab9nSjD8I71n2Vb5JRo7Nm0W2fQH3~fSyISjFC0LtdFI7AbH9yizCHuHUez8ElMVndi2iNz9T2tn~wKZNgXPeSbcRh7xQz7pAcZH2wzihIbZGDprWSbvSO8vgY49gWD0eO2yWSC-qu10t9h5ia6-nYx8dN7xPGDw7CF5bcwGmFj7rR500yb1rpNDxLEl32yypvq24FJzRUFv~6kDAg7XN5Q9KsVdf1LlMmv0lP6VCWFrQmQUautL~WmjBadR0NOqHeSqfFmiw-ScQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "Manufacturing & Hardware",
         "SaaS"
       ]
     },
@@ -453,7 +444,6 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/d60e00c9efa54a1a712ba38b2beb0f93_288_160?Expires=1861920000&Signature=Ur8YDpBn2nVyGl7yDBdsmz46mZvXQvBgzbu-PYLacb9qr3F5LHUeCjCbsrf2cLkCGhyi2yTC33FBEUZ68KSWh9UIvM9pGLYpf3~zrMeqO1la9nNcWxJYeOwLG1qayRCPV6vwyslMkO9CgFQmeu0JiscP2MGQH0L5Xbban40ZNakNyAxcCtbri-aRJOCDIiqedLRZKBlLtwwS084SNC24VXmkZ-HoVzlMuiku~cQ6PvKSxD~7nGi3wBHxkiHXuU9bcFIJKJMZWt-oj6Q~2rfPQ9F3zk1MxC~PDRAZDTOqghAUjgSiBJJWb47yLD8t4jqLbdLEAXKbTybPhNivaHh0EQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "Real Estate"
       ]
     },
@@ -508,9 +498,7 @@
       "activeJobCount": 0,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/7a4db47a744b02fa746d5fd009506413_100_100?Expires=1893456000&Signature=BLl8J~u1uvkEhg6KYZBc~9GF3rj8TKBqh5A-BE9BWR1ueIMfJgkFa2G-U3tOlNAymz6dzA5pYgKhDMf7xxSLY15t~E~4VPxhGPJVAvR7IqbeEO7a4qHTQk6WK-b-Lf~mqC~JzwC3Wn-z2VZPkKV~CyDoRCzYX4vbyQy1i8R~MpkusKVGnq5SgUkBbvCI8XLKCCtnCcBjN08uMzrVmiODwlcO2lUTcFCHGgqgHtEtR3osm3KFG5gTs5uR1XZA77JTSKyCsa~GMzaoRB1rwa1IbNtTW7yv1~GkHPnRHElSIoLFZxy2Xs8Arlpfq0ulKqXoycQE8GE97CCn6Xkn4drdMw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Manufacturing & Hardware"
-      ]
+      "sectors": []
     },
     {
       "name": "Finarkein Analytics",

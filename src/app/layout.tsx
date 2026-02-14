@@ -19,6 +19,15 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.svg",
   },
+  openGraph: {
+    title: "Indian Startup Jobs Board",
+    description:
+      "Browse jobs at top VC-backed startups in India. Companies from PeakXV, Accel, Lightspeed, Nexus VP, and General Catalyst — all in one place.",
+    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: "summary_large_image",
+  },
 };
 
 export default function RootLayout({

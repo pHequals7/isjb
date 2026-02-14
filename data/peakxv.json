@@ -42,7 +42,6 @@
       "domain": "homelane.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/77503e4cb52ae8798b437e86d827ac74_320_160?Expires=1861920000&Signature=Pi845rykE2tntJw4yeDJonUYMaDAyqW8kI4shQAJrs9DENIUX0DE2QW2VpoAxlW6XBTD6BYLV9hVf5Bi~~LM~Q~VaC-~TLQXkFIcFikBOxDh2765vFMQJQ2Mmpua4bmoDt0-jENF8Rkwc9QYX1ZsFrOgdmD081LadclMvVkbJWlcZSnlSRWxCqkLRL9tIhg4M5tEwvtYu97~8LQum6phHhvWEc5AsEoyeJgOg05tS6OqtQvrKMUL4uWLoEGXcnZRgtk~XeNIUagHJUBFopYu8iRS2YtzV4FI7bq5H6RLo5Ey-L59MPyx9RkpbVczoEtwr1me6pwMdqJEPFG8j2LOUA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "Real Estate"
       ]
     },
@@ -65,7 +64,6 @@
       "domain": "capillarytech.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/605963d8857990a34cca526ea9178757_304_160?Expires=1861920000&Signature=PTtTt-Vv8qySFVL13SY-B7DavAaQv~63q79t3TLtAv6xSRJGvZyGj-wmT8I2MCF-~vO9ETb30CkHJSeq5RRPowU9WwrKGKi2crbNNkX4uIzZECY~RxFX7EUdGVSuN3r2Ly6AnExSeBGFGAHDg4yHrRyT-u7epFlDxuoqPOG85FZG-vTw3S~o6NLOYq15iUCsFg6rPCtyYc1u7EgQVEi8DZyGCI8hJKUs9rVSMWdYF12dIvrRI79kd6tn3jRZBTwpxeC-U2XC0av9Kh~aaTlvaqwlmSaaDg7s2kNFUVZ9Mpaphle5fyv-Rp993NEAEamiqTdwRGyOqhzQgF8AeFZRaA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "SaaS"
       ]
     },
@@ -122,9 +120,7 @@
       "activeJobCount": 61,
       "domain": "meesho.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/b32aae1d4ff16d585613bc74c741e702_208_160?Expires=1861920000&Signature=XtL3lZQOnxzL~EllBqUfdl7l7d8upjodROKQiHANPmnTw4eHs3qgJHapuUGkyz1AcdwYDAeQEJyKenOnkN6ldno8-Ooe~c1MvE0avAUq-qFIKxyz2dKdMMYDpXkuDGpZNFvCJ4IVIigpV9IjuSlfizIdnpwSaGe9ip5acqC225HPr9DROUKfrEGQb-4FmiXRUXb~H8ddr2c1LAFSaw5JmsdhoIfYGnV1D0SCaI~DpJhRTGnAXAMC-I589jp7kZO2hFrcBCDJfYGFL6FcVoFqJWXe2QolEjU6FITVWN4h7XmbLTnnPLtE8bsr~du~ene-c7Dv9enYhNT0IXEHduB8qQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "Scaler",
@@ -167,9 +163,7 @@
       "activeJobCount": 46,
       "domain": "purplle.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/b781c95b6c07b60721124bab18b59f1a_192_160?Expires=1861920000&Signature=mi5p9Y7Fjezx65DcYTuC3VqyJzDPFXc-H5oeAeTeMDi7gGmkQxyoPCu6e1nInN9glSbrw6vM8XcNrzE1dsIGSbsW2ZlEc4XhTDDLjDapTvkOwE7kRFON9FP92k0VWo3II~gedEvzgCST8mV9HGg9h3kYOuNokNBGYHzy5gjjb5RkAxvJp-ZGXZWhp-fMFWIR-n463e7eTJo0jPa7HQ8zxZ-eDfIdZmME48hAeEXSHcZ8nQS4uDPMe0iL4NcJ0sk9qTHR08N-ri3rztInJX7zTQThhY3akj~HzOEICmeE9NJTgrh9IZbIPckQNyrgKwHfv4wIYy1ECF6DC9fUvMjjhQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "Zetwerk",
@@ -178,10 +172,7 @@
       "activeJobCount": 42,
       "domain": "zetwerk.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/c4aad6d578435c5950c7e7aab821a8cc_288_160?Expires=1861920000&Signature=l~BwHtHwywOgsxjKvs~UAjXM1nXoO-lRNjM2aCBZQ1UX2UUjDFJMSYXcnMn~3jI4q6WthsyGyWPe4~VdjVrKs-uEMtsVtJe3kbfsIEx1VmOLIIVHAXG1yJysF7taEqpYmLCoauG0KvS4ljbc96LXzS8LnP1ZhLO9J24I1ibjuBX4lqB7HKgyotwsDKHlTCSRxtH2XTrdD2xzf9DrBwKUZJnScdB-LXTwe-j6LsroJx-qesLqOpnjdoZCyBb3Q3j8CcWKutcInSlRzlL6F39pFE5z8NB91FAbNOGNO2YIPtq3zbAIqxn0zZUAGf-kUjFT8pfoQ1buQKUzh-0oWYjbUA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C",
-        "Manufacturing & Hardware"
-      ]
+      "sectors": []
     },
     {
       "name": "Razorpay",
@@ -224,7 +215,6 @@
       "domain": "1mg.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/fd36a0c88d6c80b93bd864af0505d732_288_160?Expires=1861920000&Signature=FvOnOXhF0~V-Qxv6ib9D~KOcJFgmvNj9sS7RuopZT6Y83WxsREGolpK23gqejb5mQgwlD2MBviSLaDXgkQlyaqVNdHABZO1w9WsueDrU8Li~LjVMkepXB34Ad2H7OphskPmFH3dSuX--Jqr08X4intypsS0yuxIlXuvUimUjlytoiych~3sFNDaVaZRfp-Z3qoYPD91x-gWM9HlzSKT~uLLwMJzU1pTpaQNA7kKetLbBpqCjLEwBGzFl535k7E-AIiE7jp5140~I7F42WJnX95ReePCfMIczd6yj9lLI-pKX9UbPVQt0eH4JXlMAadddn5pQ9sSfzmdCSMu98ekP5w__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "HealthTech"
       ]
     },
@@ -236,7 +226,6 @@
       "domain": "drinkprime.in",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/eaf3e2fd355844e8809448d696e5712a_273_160?Expires=1861920000&Signature=rh2SRnryLmX3agLBuAiLu~Z0J4Jf~uE58Mbbqn9MwI-4sJ8TVihC2ezxn4Ttrrmy8TBKWhoPWfR5wCUlByLBxWBwp9e9JCAMxF2wKAzRB-SF5FxHYcy7d7PG03sBk9yX2~ysmBtptVUFt6PdH9cpIeaoyCujowMLtEkcmsZMZKikPvzLWgYd0q-5R1l9ivw6GRyJgpNokBBA39BA1malFHxXHu0AUSvNAEP44RHR6DwBEMibLTIvYcMsqlvirolLwk7aCSPg5SLc24GnCWNECuMHtrd1rj6NKrbt7sxdw0Pixu5hHDCTjbakHFODOLQsyVobdOpoIijcqAI4dKc6gw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "CleanTech & Energy",
         "Consumer Services"
       ]
     },
@@ -258,9 +247,7 @@
       "activeJobCount": 21,
       "domain": "log9materials.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/9a3f7bcd2760c5b6689ed11f68a02023_320_160?Expires=1861920000&Signature=DaHAlPzhAuea~CS1cl3PQYAngOpiN8rxnhkn4lyKRBf9djHfUrZ9yewO-X4NNz1WCS5ZQ0Bfr4-yom8PzuU779n6BPm0WRltbcmxXMWRhXGd2JjPwOA3QOgumxabnzbGxooVocebwMEdvqo-k8UNVcNt239fhSiV5-hfUw~O3CNj9D5OViDCm0C8FG24HI~7pE8LiXetjs8bOmVKJw5OsYPFJxN7kao2TXcnrB6gr~6lIq2F-m6R8NajCZ2AqhJ9A3NlYaqU8fg12wejPgQgF~sMLgZpPzibiGDMyJg2q1SilgMBhKs-BDiEzKx53RQvC-YnNYlErnhrMGuj4AMpcQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "CleanTech & Energy"
-      ]
+      "sectors": []
     },
     {
       "name": "Mosaic Wellness",
@@ -270,7 +257,6 @@
       "domain": "mosaicwellness.in",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/8a44d6da8cbfb1e32eb61ac74dbc61e8_288_160?Expires=1861920000&Signature=crr2-MqGRNg1Fz413~bQwN3vuu5JrNRXpKqaKcI~hFjSAzaAsaVPJm5uOKmzwDOfk2xuZuyI6yODeJFbx41iLuenUyHDcqxd4zIRCL8SzWWvM6xiIYu~JnxLj6aSHMxzFhxlZjxEaM2qP814nnaXtN9Bu7p04U7LQA2GAQ7V3IkdXZXwiAi4-liu2IUWXid3QGQIpB0Z7rFpMxmHsLwCd39LR0DHqNeLI88WU00VWRw5HvNRPuraYp7sVDdCk5SGOBVuONava16TX7nBfc1k8KOZiMOu2VeakVbMS3gy2Vo8La2m0lLaVM53MaPNiA9IPnqFWJuacXu6qFA9~dUA4Q__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "HealthTech"
       ]
     },
@@ -336,9 +322,7 @@
       "activeJobCount": 14,
       "domain": "nathabit.in",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/78424dfaf8672c67a291c381303f2988_208_160?Expires=1861920000&Signature=FSRbj9ausarGHRDTO6l9EKdSQzHKdfa6R3rh~5lblVBVSOBmhUsBG50TCWea7D-Sg74omaZooThaUTRH6yOAMkcDFdEyrjOelBO~3um-IgRggZffKIrX36TNfchHkL01SJ8cPp5MOOq~tF~3rUwdOzR-crVXDTW6PYf-k1ElOAfrZthUNVxQ2H35xLSowD3LmblqEhgiBSM8KXocJV1bdxYjRN8K645jV9Of~4ffix1F1jT2T9wV1Klk3EYD~xpLQuOijVBONl9zSwwY7ge~zA2hE1gP4vpMQwu~-8bFYKgrg~Er15DFXzv4ou7-RbJl8BC9CbYC0q~tH1pK8XBOpw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "smallcase",
@@ -402,9 +386,7 @@
       "activeJobCount": 10,
       "domain": "ixigo.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/326a3ba914f5f8e97658e9e7ae0f0401_156_160?Expires=1861920000&Signature=ECqaxfcYRV3bi-Ve5WiRo4gAuPAljKwoAhV~euz4C9pop-rB8Wy0ZjcyJte16VzeEB4cV72Wyv9rqTrhNbgfOoNhiRM~G06GOr1sd1rbpZY-xk-E0rO9Purm3lqPKav154z0ROwzBuS98m39E8E6RKqBbfE69Xh-Njl1FhAO0cdCVVGY6kVExPlCJk1x0lN-PtNH90V5J49CwL8xg~P7oJeLLAcwU8ZEssWFn7FuXCINKPdwpXPeIaQIK9p4s9E~Vbi-Ge9l9NSvf3Rp94w~3hoJ57VRRO~qsMhdKUykwcLTD5DWl4ZAm2BDnGo4eroB~Cz1VDz1qrlKf7BCuy7mQA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Travel & Hospitality"
-      ]
+      "sectors": []
     },
     {
       "name": "CRED",
@@ -503,8 +485,7 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/856f4d9f5e63b30b365d4c321b17fabe_320_160?Expires=1861920000&Signature=kzqgH-IBDFuTG9Enugj5~OjXXLAgqhu0JHmwPdk~MTGIyylAGBBMPs9yhV-2gm8MXqrwdnTHrjlKAYdL4ElqBxgQqTv-DGEjhvMl78vwIx0uEHtUEmQQ1bBZ4TJKUcjwiF-aQ5F~T0fMKEUkmKXXnR331mOBccDUWmneaVWodKXinn~yaC52IUE3OVlCVuHYNblvhShxaM-smFhMe9hlVzF~USgZjzoEAjAUkVHQhZTagQxANoPYVvp1KPtukL9btC8swtsbkHwhq7jZCH0yUjVgt22I3ulC3nRxEXj1OPKNXuOV73~V-Y1b5D3-hnlmL0lZ6ZGzafnjC~RCrKfy1A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "Consumer Services",
-        "E-Commerce & D2C"
+        "Consumer Services"
       ]
     },
     {
@@ -538,8 +519,7 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/e62615f6e88535cf1173c955c0d30c2d_288_160?Expires=1861920000&Signature=mBHVUNJGLRciJqEHUfwS5cdiR-BxSSO3nTe49Jz4fIC4K3sIim9AnqVm~dGW~oUlPMS-ZVe5dBNCjwua1kQ254as2Ixdekw7PYu6o7EGA-5arKTIHsXkzGOB4ROJjtDD1505qzaJyjgWApHqGAuwi-rIAyd1dTUC7jSJYoXitxjCyUdWBBZXrBVnguQvfLO~3kcaYM~foxqEW9ZeWHNsxc7BBsY~PDbgQNhwgMqNPN8bp9KCMkB1tQuOxUEqAmXoeQs46FmZZkEL7hw361r3ElApLCCGdLuLADUC6ATFZFjx8yfgtkA6Cy1YPZiy0I5sXlNZX745YQET9yqAcfzUnQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "AgriTech",
-        "E-Commerce & D2C"
+        "AgriTech"
       ]
     },
     {
@@ -561,7 +541,6 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/f4d8e57e7fa47aa41c87ac53be13961a_320_160?Expires=1861920000&Signature=LeE-lYpy8d6nGGkfHafm1iJVgu~2fcciZans~RZODTcU0aUAZMXLr84w2tet3JBU5LIuXj2Qx2Hxr53cK37tfLhYCZ3eVhruMjwl1dvyysfh6GNOFBZXKS1NjRB7d61zDYbsGZbmW~nDz4Cl3Qeqmqf9ReBTb0ob1podgsmMior14JyPlY1-5Ii84xrJ9R0yEb44u1ta~P3mhkzXpD-bFRvn9tXHMMAAia-6YdLxVuexQnVe19ICSjHwUB7gfIgmbXPklPLrt7M8YlM8HL0qaWl5STmtMtVNqw~~SQBTcAFKCF25uxOn2n2yKlwtGTVTBVtMymoyEeIgBmKtNtEWsQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "HealthTech"
       ]
     },
@@ -594,10 +573,7 @@
       "activeJobCount": 3,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/fd66ce3d7334fd68f50a40779c9f58fa_176_160?Expires=1861920000&Signature=re0QfUzkf6vTjmBi1Tl~Yo8Z3R7O98dTP9Pw6oNjey5jso7c7CxcmKPNLnoE3q6wFB2tFgIxutEQM5C~1b6BYSOgsVOuggFygVSF2JxFP1XgB8F-psHf8p78-NHYjQRIjGYhZActmPySg6fqx7IxFsQZMiW9Vt3wUv7Pi8rm7L3jbyyGWUUHDN4y1nZ5oU385vbURF7kngJGKJx9doDlEJUP0WrihE1QBFwRgr8Vf2jYEJM7~FyjU8Gd9jP0I2eucfTPdw2zzPx7FKMDyYScvwNGlEjKwNvDUSMc1~ElDwGimYLDpIfPMKxEhYDdGJFVf4xPONjWcpM0pT8R-ebU-w__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C",
-        "Manufacturing & Hardware"
-      ]
+      "sectors": []
     },
     {
       "name": "Nimbbl",
@@ -639,9 +615,7 @@
       "activeJobCount": 2,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/c35680545ad0ebf5dddfb43107415a0b_160_160?Expires=1861920000&Signature=ppjrmzlJiqmxog~bFihaUHApcYVgcwxTwqF~P7dbtTYq9s48SPkRVFYKVHa3-0gp0dV8fOZuMFWAnrhLkblYreeq1euHBV0NrNsQyooDtiFtsRAJn5qgfJ9V4TWLP1KJMxMTotniL-5q9eSttweDacmEmgEIitKDVFlkgrUgNqwfZCn4il8iyPahvuvpMcxMVSFjozQq4pfgDuTI~EIHob~39tnQYxP0tTFA3OES~ISwC7lsBBxGK2Wvay3C6NJ5mPtVUPA8VyRQsG-usa17MoneVMZXwnz93kY291Mvgvc18V67S2EgbYe0NRzhQCkwKis63Eu~d84~rCNB8ES67g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Manufacturing & Hardware"
-      ]
+      "sectors": []
     },
     {
       "name": "India Shelter Finance",
@@ -707,8 +681,7 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/7e494f607d096245628c3c64894267da_240_160?Expires=1861920000&Signature=lQ26KZGd1XlAelc-SjWvSGhzNuibOdKIcVlV4mNgV~ygcegp36HXnRwI9psFKPopDqNpdB1kSB-x8XGGgk1SSrg5~7tlLaEd4Hz3XKht5q5tY8UWKolFxVFCfXxIufvzNWRipHu7fWpPPuJS7~ch4Gb0Wjc~EcnZAe8hbsE60KK0D6ONRpTZIofLo9C8GI47DqPM925XpprdCXbnb5DQkOHRCXBklt~tKdcrKEtOWkOokdhO-a8hh9kOSYSgBAvrP2WBrR8nniTk~gIYY1BGVMJgkUsaFX6~OQXmHVTdo0XijpcsfzZ00bZTM3G70GmrAUpSWE~-EAhiKxYu9kL3qA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "SaaS",
-        "Travel & Hospitality"
+        "SaaS"
       ]
     },
     {
@@ -718,9 +691,7 @@
       "activeJobCount": 1,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/ba2700da3b0fcadfda04d034947ef078_307_160?Expires=1861920000&Signature=eiNGweZ44386QZh7Tdv-nzHRaN3Yppb0GUq3ivkw6DOdnK0R4~G0oWHJCoan~yCEW33OHTAPOgF22GuEpwpmAVjwWFZIxMVa1if7qym1YEzYwfzs~5Od9wpiCS302-luw3JLddu7uZbwzfqncswW94dssaQ8vBT9oo-vKi2Nt12aOyH2~2C9GdYQH6tuKu5hCmzFb85~El7MlLA3J3W8OuiIbeoxJUcqxI2LOwoeI~vqbn1AiLa9qfY8YenlyjS5np3OzMO-zHE8zDRPN0bUn3pEsdal7WKdHQpxn0GdSipUu75iGZiugVJmRmJ66Ga4igd0ElISWlKY9s7vVqxk7w__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "MedGenome",
@@ -751,9 +722,7 @@
       "activeJobCount": 1,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/b9ba821545d83745b9b5695cc321f3df_160_160?Expires=1861920000&Signature=b3v2ye1FpQWSO14OW2SQChKsyE18NeDPbHXlDAtE7myk~Q6k~8a8U84VRn-Dj1e2LLGaR5wQb~5naHILPzWjGMEmyVl4~TLBhz1WMlIBG1Q~x8XrhcYbCqv0aeS-WfyGAWmFk9D83eVV8zvEIoniQHtlCgc4Jz-8Bp-cppYSZqZyo-UVLMa9AcYZEujo1SliAdV2Fm-HvJEZJKfoxIHUYt1mioDM5uq4HnVc3MFEdeKUPxUz6ptSvZP7dShYSTZqNLKboFx46BOvsoB6lxQp86IGKRxV8v4QdHLBkrb0MSQYFKd3pfw~HpZEIXwZQLyYn-DLLQxr3i800a6fiApbzw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Travel & Hospitality"
-      ]
+      "sectors": []
     },
     {
       "name": "Progcap",
@@ -773,9 +742,7 @@
       "activeJobCount": 1,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/8d7145af1eafc052af773be88244857c_256_160?Expires=1861920000&Signature=IBguXo4rYE3CbCxDi9NNQhRJK5cmnbZ3WqgOqrquVmONApWiYoN6wjxb61a4O1~EASHJvdNMTN3TV6ECV5wcKuU9CLi4j2ni3KLJGkjm8BLF3~amt1u30v2LIvTqPLkPm6aniuUzxuaMKyVjxX5huCW2ZxHcPeAIPduml3ho~N~E4EWEq738ZMhHO0OeZgY3h4~IHLqrkiDG1WHh15vl6gU7Uz6th4P793pjPY~jtNfHx-RaRpr6AbQbJgIMekRHtYSEh6JA-dml8kNUJ00IotPuWVP4axYboLkdL2ZbV6JhfN3IQW~~dOymSvau1~hJAlX3RffhxOHJrCLaYdV6uQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "Bijak",
@@ -785,8 +752,7 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/8e5e11d7f77803acf8f217d706621179_240_160?Expires=1861920000&Signature=GyoOHcEIB4uIxI7penOoO51MqtJpakPWZIxbhOLBGrFAKrakEnY2yfhNOpzpgE8J3EnY7a1oZG9gZiwIqnc2tuAzG9AIxr8xlU4xX~lp7oVnKmtOM-lHDIPoS9hmDGfTt6NpJDQfX9zG5v4s4VEm1yEhGgfL14aPYuUXOr916Le~qTnV2ok23M7jyNczro9vRKs4Em9-cbCBZxhpTSletL0-WGT1LK1xeq4UVM2KBeeMzBeDOC7lJf6dNbNvhBU0uMsvcKvVF417UoNOzviLgMs2W1LIdQCi4fcT~hOC~RPyZpxpCwnR~GJurcJPbdkWOcEy8CBxSw964ghaFOpeZQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "AgriTech",
-        "E-Commerce & D2C"
+        "AgriTech"
       ]
     },
     {
@@ -796,9 +762,7 @@
       "activeJobCount": 0,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/41b59d1958a802d2a66e4ac23d2ccb70_160_160?Expires=1861920000&Signature=GLCb9a3pVmiIUfgCtxgb6ynCDGOeqvSLdnbrpdWbgHfS4xBoqVY3y~pruSV8PJUyZJ8RksQJKkOLUV0DjhQMOfI32yqHSOJBEPztgVwEv8lTp18~RvXphXIwXRcTt-cMs8zDUmE6KhfrgNrGAoLALlfihHMNDlgy6qiE85X7KVcLg16eFtEgkkl44PTPIyRsBvE-cj~EK0Alo3DkVwuO1do~7ds0iVOZe9-nR~W-BIbd~8BDFIeH8xCr8WTu~nBCiWjWSSWptYH0ZTYalBexa603zUdogZ8HFbdqn8HkIptDr0ZX7gwzFroaVQQvqy58aEugnf~NFAl-zhXghfaO2w__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "Bira 91",
@@ -808,7 +772,6 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/ab35ad8ea3a77ae1576c1e6782292216_176_160?Expires=1861920000&Signature=GPyBDB8mD9N47ao3Q2iGU-AyCKHl~3kWWMPOrXWhR-F-EXdpS6Kg2dFM5O9TCJzOJV3XXvSVEKQD5TcBY-3L8On0aK0qaROfmF~3bCG7LRkcQ6dBATHd-Vr8~LxjWHllSs6iP-86pAu5ecr0mQGvqiQ2gZkgTC5LXKWU2KI7p1ARYAc9pZiyoAmOm2cqtfO72WFEEQPIHvBQLw1xaJR91CyuVCHL6UJmT258r3gV~bwVAOw5Ct7R5Z9ouVoObZdULExr1~aT1FMuIUdCwP7pEXGlFpHpj546N4AEDevD70FndNm5vbzOsiVIpMoxJihsZGNOOdF0rdjflkPsNRkjLA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "FoodTech"
       ]
     },
@@ -831,7 +794,6 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/ff979639b162e3b7e6bd5235f5586122_208_160?Expires=1861920000&Signature=V1NeJ8C78kEXdJG4OCkgbsUXFMBbKN0Rh2ol-PjImurqgTdhA1e3GW3ZolADWcO739B91j~Kx4o1rqwf~Ok-C6oTkTp5io0z1Jv8b0v3ME6Y-woHUyIXr-SEzht0FeDlA-h4-7VCCq180asbfkegAKPpevDC-D4fMh8bc~F-s1Hig8Q7qsE-kV2kppR1gRVbC~SgsdnKXjolNL6AH4Jj5MRGcfI5ajlY~~oYgQZNFk492eBoRzPZ6Wb3tRnQUkN6eo3DpU5tQANSSp-DkppXvpyt3HmXQE~bxJ1Mww6zzXo~633phi1Xvb4Yz046SrEH~xAy76uXauAfURdo3shkOQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "CleanTech & Energy",
         "Logistics"
       ]
     },
@@ -843,8 +805,7 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/309ee027a163b5586820c02f36572873_144_160?Expires=1861920000&Signature=AiB5KZBe-ergRc3vSmrWYpoBYGgj72IbhuETcGOQNN2-tPQ9-8VF9Jc9d-xfDoLohkIqUZFcizoermDujL6wkdaf8ye677mY~7iAWbQBgTKsB-DEWxzxBfH6sBHMqUgIrImOGma5RQ6FKC-wSuHTlf4ML6~zojhRlnqEkZUNysy2q7VDITWE58dNU1EFUntYozpHdU~-pjh8wzSv7Ks29iAK-Vxd8gB3WHQddUiuyjwv~Z58H081GUH0RLpdlIKkqJipN8AyB5q2bvbmDsCWJpNV~00DWcmgOR2PyiDUhFKL1~l1FMpfjcNtEB7n-nwcTcAgYo0SBg45es4Ysaf1Ow__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "Consumer Services",
-        "E-Commerce & D2C"
+        "Consumer Services"
       ]
     },
     {
@@ -899,9 +860,7 @@
       "activeJobCount": 0,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/fa327fb39b22d928d99ac047acf20758_320_160?Expires=1861920000&Signature=fthM9cf3mbWpJ7gpyQkEesTdnwXctk~bsaEfD48AyvLsvwzsDo1o3dGBm~XZbZ-9PFrVEbpUtGl0ToDoIT0KwJB-VUa6RW4PbKdACLK2EbRVULj3Nw42lnZPJl6GoRcjh8mIM7vpcbbrDRtaosTWjIhLofqbxFeRBf~wFPy7fIbEGGI5FboPLdedu5WxAxTnrsiVLQcurGCxVbotAIjJr5rf6ZdX-i1Gadm5thV4~1RSnzw9qfLIMMMRAChC2miyn6Rn9YIenUTNQT9iOxysvIy~X-nLPiksr~10rkqNC4GqBOV2qglZNhMm2iF3WM97x7AMvUV80A02smn2BM6oAg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "Fi",
@@ -943,9 +902,7 @@
       "activeJobCount": 0,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/1db334e2d2b2ed5808388a8a4c4e47fa_160_160?Expires=1861920000&Signature=BeBRydCOdu1Ibknd9vGWiiZHtqbUQCMnB-Eri7BB3adpNKFdKoz9KNA1CtfB~TIW0iZ5WtlZYRBFdi32GhawiAMSATU1WL8HaJUwkWOEd-1VwN9bFlOL6o9Ez5-6PQBu~kOXdXTokalmDuFS8SLz21nj9Gl1exExtlCkf3QmDoUqQAXSVhm8EIzbjCOXxBoh5-9A8R2DQ0rzkUKNcFDq2XJqjiKF-kXJTprtWlDjZZDiom~t9PJY-QB0iisUs-PdtbzWQBIcwZYQ1gNvkakvIOORAhtYlxUrZyldZXnPJPdeETZCZZGzIwoa8n0FIkpfUdv1dUhHHalznRb8J~LO-Q__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "GoMechanic",
@@ -1033,8 +990,7 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/d3243b7864ef81ca1c7f50bf6dcdb008_240_160?Expires=1861920000&Signature=GpEGA8oU8lKfNpahU2pb6YN-JLu6TybVnThzx-b445dOPcWYwlkyC94~cCmIPev6fkxoBOJy1LFTrYlbv0795wz0Q6Zl~pTN-N0Ce0Qh9G6cVTRt4bTOtotYLVIeNAUhQ~bMaUDX8EfskyXnR2B9ZrdVp2Cy95gbuYRGoa434Hwq13iaQe8sQ~y31jCcUZOyFpwmuyEJjJTussR4BaLaRyXR21BQMr51Q~cyI4qG53onJYPUGa4RBY~zMTY9Kkes-qbv84Iz93mQjVQi0C5F6yXh381e3EjNNSPfKOb3zrSeJcPutxplCm-Ee9Qtc3blFWCE98e8j5KsW~r7ZFXSKw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "Logistics",
-        "Manufacturing & Hardware"
+        "Logistics"
       ]
     },
     {
@@ -1045,8 +1001,7 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/543a05a38fd06c375207abc033ac3652_160_160?Expires=1861920000&Signature=AVbWbflz2XZ04eBORIfTqKLUj2yvracqHhPsoL0p0~4VkvrO5iBvef1q1k85v2Yq2rSWsHs~EIc8n8ntePypUEWJFBTxei7xXPioF86J9TtFVf88cGqDvDfoEtF3yofitvHI91IW4GeqppA4BsR2QpUq0eXxW~Sbg2yE30JdxfuXqR2Dy12Yi4yzKaee6qQ8yZO0yp6sEyjq7CB-hT~OAEHJnTxXxda1hg71egQTxifklQAL69HBi9bhOiplg8HWzbez9-6XQVRBI~6HpuGzBMiDYYobc3vitbbCcUV1qigtk8pJSQJIH~rYUibjeYAxmagT-zZyY6MXouG1b7vHdg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "AI & Data",
-        "E-Commerce & D2C"
+        "AI & Data"
       ]
     },
     {
@@ -1114,7 +1069,6 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/adc502f0bf7ddc79a32b4db994750613_144_160?Expires=1861920000&Signature=cdPv36v32mWR0-abhe4cpHblsQeSsfdBqCHp3nVzAIGPy3vBTUVCXXyHEUOyxJBaBoJGj5i4MSiheB8xQehxJ4jmWKp7UKT6Rn40y~BHRIEYAY2FeSqQbVoIfXvCaLGUR--NIusY069KqYZyqwCp3w0k1iwXChoer2zd4i0jMNDgKzAa9UPXe1WRzXvwcv7Ml2xCPpeAKr75HAdxkJKFW6U~Yot1HS6Q-IYlE6SvlzjkEiNR-t-z9IjUGBBQENme3zKDcQKRIp69hCbKtD1GV1pG8cmAnHd8zzxWG6z6jBGnwify3JW9pW9jnyoiNT5SvQQ7ueMx0zAe-PUmUi0nOQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "FoodTech"
       ]
     },
@@ -1171,7 +1125,6 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/9839ce7af6ae7411aeb28f8506859091_256_160?Expires=1861920000&Signature=HIZJT7zNXTvDzqg~sIIKOhlgD-7OxxTabu1cuA-t3xkgtiTO1MeHtv1qLlPwroPSJlREqAfjLde2AuPWCWWk3ioDwbxPyNB~07S-BtlrWIf0VNO1z~NYHOJFJ8uavSBZLRsSiDJpoobtlWXnTNlc2OImBIBrJQ54j~bWi2NrfqdoZH6Wv4ubxJr2e2zsKtE6HZmnoXu0AZMH2gS2Z~4pTPZmbhvyI1Ylah7cAAZgsqkhWJ3jrHqL1JeDjyCUfAMYXHhofcl4PwMKIvF21SZZCDS6GsyteZv3woDqwoBu~Wkhb0QJnneAlDbsGB14uR9hvYYCH5uE1t2q-EO9OBbhLg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "EdTech"
       ]
     },
@@ -1205,7 +1158,6 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/f98241449c0b768ff7c99b519fbe3f4c_112_160?Expires=1861920000&Signature=OIj4RC-oyDILbRYKIY~a5vyfLtRFeOc999It2sM-ezdvIQGcuX48DLYO7Fl8TPJmcUwL0aEyvu-c81tEJWioZK7cs-Oo0gbfaZQ6uhta9PRzYptpyJrj4097c4cReEbVOuKTGHCosDfA2j7M2vD9zQYc9TeTQMPRyAW1WxI5I0qycWHJ1YL42b3ufxlg5fY57uYt1TB-SErMFDgPySo5qQQigUpMirxY-pxwRWLtBunneznfdxXBz63~ZzISl8inyndId4sjLlwKyvCnpb8jbWzgi5VlOU~04EIv2~dr-o9RrcuguAxCPxSuPKxHCW4KwY5IIO~lJPjvN8YXADz6iw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "Media & Entertainment"
       ]
     },
@@ -1239,9 +1191,7 @@
       "activeJobCount": 0,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/4d46f2c3d9381828cdb3a9a284fb647e_176_160?Expires=1861920000&Signature=TsHz-4O0l4B5WFdIxhl~2e2ALVkbq9x~WObzHpw4vndTj4ttNIwYacKqIYjKmiMQ2Bi7N37WKKoP1uUbuYnmKkCqKnkoc5aeqC3Q-iph9y3gQtt0RqSMu-LVdntJ8YCWPdb5IlRhNoAKc5-uux4D6lToYThYfCqq7b7dfonhxk0MOLFtKwER-euf4wbcCytqpQI5UEZRquFCsKc7saGuxDxqWYckBRzBiLX5Q-~BVpUqAToRy1T~gcvzc8Ifi6v~wadN3erakFEod-TzfUTzxhuhNZEGOjInCL-G-LNkK~RIRYGPDu0GeT9Uv2udwLFoe26tqgB7YZUTevtE59u5hQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": []
     },
     {
       "name": "Wingreens Farms",
@@ -1251,7 +1201,6 @@
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/98dcdb01fa103fa63a8bad6ffa5a86e5_256_160?Expires=1861920000&Signature=T6LSek2DCaJ8wPtl31yX5wNHWU7clibHyreg~m8gDjZy1hhaK9oDZY4x7M3WavIFitqALwXwEoA1AtHHK6E34JQdSYpuBlNAr22ZcBkOFlUdnhDsA9m~2ENHCqeBNtMhmc9WIgmtb~hDdBxtRSNyEMTwpwrWbvkV6LrdE5yXOB~Hyi8bN459isjYFWPoIiLU8Xn~7TnU~fXpMyA5zHIQ9Bq84NZVpPcI6MsHK~YHrhNd1bqq0rr8bjZaKDei6Agu30JHF1lpOdjGynppXIIgzKkAdFRdrdqQuiRk44pTKFiDIu-ZWbFp-9bsfr3JBCbQDAMHRhW3e04mmbx~n8A5SA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
         "FoodTech"
       ]
     },

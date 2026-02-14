@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastUpdated": "2026-02-14",
-    "totalCompanies": 19,
+    "totalCompanies": 29,
     "source": "https://jobs.generalcatalyst.com"
   },
   "companies": [
@@ -12,7 +12,29 @@
       "activeJobCount": 58,
       "domain": "amigo.ai",
       "logoUrl": "https://cdn.getro.com/companies/2003f185-13b5-50d2-9dbf-a3f7d9a4e735-1733314828",
-      "sectors": []
+      "sectors": ["AI & Data"]
+    },
+    {
+      "name": "axiTrust",
+      "slug": "axitrust",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/axitrust#content",
+      "activeJobCount": 0,
+      "domain": "axitrust.com",
+      "logoUrl": "https://cdn.getro.com/companies/e8b35eb1-8e7e-5096-86a4-86b082a6b7a3-1756556164",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Billion Hearts",
+      "slug": "billion-hearts",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/billion-hearts#content",
+      "activeJobCount": 0,
+      "domain": "billionhearts.co",
+      "logoUrl": "https://cdn.getro.com/companies/be5e8d1f-9835-4558-8285-cfac183eed23-1762738802",
+      "sectors": [
+        "Consumer Services"
+      ]
     },
     {
       "name": "Cashflo",
@@ -43,9 +65,7 @@
       "activeJobCount": 3,
       "domain": "citymall.live",
       "logoUrl": "https://cdn.getro.com/companies/c13ab628-1d1f-40a3-87b4-b2a82af5c156-1760665299",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
+      "sectors": ["E-Commerce & D2C"]
     },
     {
       "name": "CRED",
@@ -56,6 +76,17 @@
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
         "FinTech"
+      ]
+    },
+    {
+      "name": "Fitmint",
+      "slug": "fitmint",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/fitmint#content",
+      "activeJobCount": 0,
+      "domain": "fitmint.io",
+      "logoUrl": "https://cdn.getro.com/companies/f70fc25c-99b9-4018-aebc-6ac1f169b022-1762133989",
+      "sectors": [
+        "HealthTech"
       ]
     },
     {
@@ -70,6 +101,26 @@
       ]
     },
     {
+      "name": "GetSupp",
+      "slug": "getsupp",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/getsupp#content",
+      "activeJobCount": 0,
+      "domain": "getsupp.com",
+      "logoUrl": "https://cdn.getro.com/companies/771f3f58-c2f3-460e-b304-def341e43358-1765849136",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "JEH Aerospace",
+      "slug": "jeh-aerospace",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/jeh-aerospace#content",
+      "activeJobCount": 0,
+      "domain": "jeh.aero",
+      "logoUrl": "https://cdn.getro.com/companies/f801dba9-fc56-4b5a-9fb3-cd81a36fbbcb-1769219134",
+      "sectors": ["Manufacturing & Hardware"]
+    },
+    {
       "name": "Loop Health",
       "slug": "loop-health",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/loop-health#content",
@@ -78,6 +129,26 @@
       "logoUrl": "https://cdn.getro.com/companies/aecb599a-f58b-4e81-9be9-214e0d445ad9-1760578066",
       "sectors": [
         "HealthTech"
+      ]
+    },
+    {
+      "name": "Magma",
+      "slug": "magma-2-f4434f75-a991-45d8-baaf-526857a56cf3",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/magma-2-f4434f75-a991-45d8-baaf-526857a56cf3#content",
+      "activeJobCount": 0,
+      "domain": "magmagroup.in",
+      "logoUrl": "https://cdn.getro.com/companies/706bc5ee-5b40-4aea-b67c-f04cab24b37d-1764072942",
+      "sectors": ["FinTech"]
+    },
+    {
+      "name": "Meolaa",
+      "slug": "meolaa",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/meolaa#content",
+      "activeJobCount": 0,
+      "domain": "meolaa.com",
+      "logoUrl": "https://cdn.getro.com/companies/ec41b9d6-9b88-4a77-8e15-5496beb2db45-1760012152",
+      "sectors": [
+        "SaaS"
       ]
     },
     {
@@ -90,6 +161,15 @@
       "sectors": [
         "Consumer Services"
       ]
+    },
+    {
+      "name": "Omli Technologies",
+      "slug": "omli-technologies",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/omli-technologies#content",
+      "activeJobCount": 0,
+      "domain": "omli.in",
+      "logoUrl": "https://cdn.getro.com/companies/47ab6a46-2042-4336-9a3f-7ee3131d960a-1766060343",
+      "sectors": ["AI & Data"]
     },
     {
       "name": "Orange Health Labs",
@@ -112,6 +192,26 @@
       "sectors": [
         "Real Estate"
       ]
+    },
+    {
+      "name": "Pronto",
+      "slug": "pronto-3-8f1c0d79-ff59-4809-a0aa-e86b2ff36f4f",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/pronto-3-8f1c0d79-ff59-4809-a0aa-e86b2ff36f4f#content",
+      "activeJobCount": 0,
+      "domain": "withpronto.com",
+      "logoUrl": "https://cdn.getro.com/companies/df449902-ac65-4038-968f-a807958071ef-1763688892",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Raphe mPhibr",
+      "slug": "raphe-mphibr",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/raphe-mphibr#content",
+      "activeJobCount": 0,
+      "domain": "raphe.com",
+      "logoUrl": "https://cdn.getro.com/companies/33524c61-02ff-4a98-8d2d-2fc24dcc3784-1762911537",
+      "sectors": ["Manufacturing & Hardware"]
     },
     {
       "name": "Shyft",
@@ -155,9 +255,7 @@
       "logoUrl": "https://cdn.getro.com/companies/3ff662b2-2b95-484f-9f47-25ddacb04810-1768235130",
       "sectors": [
         "Consumer Services",
-        "E-Commerce & D2C",
         "FinTech",
-        "Manufacturing & Hardware",
         "SaaS"
       ]
     },

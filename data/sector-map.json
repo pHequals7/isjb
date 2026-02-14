@@ -211,5 +211,14 @@
 
   "Application Performance Management": "SaaS",
   "Automotive": "Consumer Services",
-  "Services": "Consumer Services"
+  "Services": "Consumer Services",
+
+  "Advertising": "SaaS",
+  "Marketing and Advertising": "SaaS",
+  "Professional Training & Coaching": "EdTech",
+  "Food Production": "FoodTech",
+  "Investment Management": "FinTech",
+  "Luxury Goods & Jewelry": "E-Commerce & D2C",
+  "Packaging and Containers": "Manufacturing & Hardware",
+  "Renewables & Environment": "CleanTech & Energy"
 }
