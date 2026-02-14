@@ -13,11 +13,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://isjb.pages.dev"),
   title: "Indian Startup Jobs Board",
   description:
     "Browse jobs at top VC-backed startups in India. Companies from PeakXV, Accel, Lightspeed, Nexus VP, General Catalyst, and Blume Ventures — all in one place.",
   icons: {
     icon: "/favicon.svg",
+  },
+  alternates: {
+    canonical: "/",
   },
   openGraph: {
     title: "Indian Startup Jobs Board",
