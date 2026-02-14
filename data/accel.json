@@ -1,0 +1,860 @@
+{
+  "meta": {
+    "lastUpdated": "2026-02-14",
+    "totalCompanies": 77,
+    "source": "https://jobs.accel.com"
+  },
+  "companies": [
+    {
+      "name": "100ms",
+      "slug": "100ms-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/100ms-2#content",
+      "activeJobCount": 20,
+      "domain": "100ms.live",
+      "logoUrl": "https://cdn.getro.com/companies/22722c7a-5937-4b6f-b173-34fe545c7a07-1766367161",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Accacia",
+      "slug": "accacia",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/accacia#content",
+      "activeJobCount": 10,
+      "domain": "accacia.ai",
+      "logoUrl": "https://cdn.getro.com/companies/06ccfc9a-847b-5198-b2d3-040e32a3f707-1724247409",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "ACKO",
+      "slug": "acko-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/acko-2#content",
+      "activeJobCount": 26,
+      "domain": "acko.com",
+      "logoUrl": "https://cdn.getro.com/companies/c7df8904-b887-40da-b7b6-6763251b1a80-1760923907",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "ANSR",
+      "slug": "ansr-2-f6172078-8c3d-4766-b5fd-070c311d5369",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/ansr-2-f6172078-8c3d-4766-b5fd-070c311d5369#content",
+      "activeJobCount": 10,
+      "domain": "ansr.com",
+      "logoUrl": "https://cdn.getro.com/companies/f0364ad6-e85c-46d1-8889-30aca83f5713-1761442902",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Apna Mart",
+      "slug": "apna-mart",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/apna-mart#content",
+      "activeJobCount": 4,
+      "domain": "apnamart.in",
+      "logoUrl": "https://cdn.getro.com/companies/5ca486a3-77c9-4b29-8a5f-005c5be8f2a5-1761442903",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Atlassian",
+      "slug": "atlassian",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/atlassian#content",
+      "activeJobCount": 88,
+      "domain": "atlassian.com",
+      "logoUrl": "https://cdn.getro.com/companies/ce0c4184-9f5a-4478-b462-97a9d6c7b99a-1768234272",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Axio Biosolutions",
+      "slug": "axio-biosolutions-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/axio-biosolutions-2#content",
+      "activeJobCount": 7,
+      "domain": "axiobio.com",
+      "logoUrl": "https://cdn.getro.com/companies/224d1c5c-f4a0-41a5-8248-c50e1bae6a7f-1761702383",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "BestDoc",
+      "slug": "bestdoc-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/bestdoc-2#content",
+      "activeJobCount": 3,
+      "domain": "bestdocapp.com",
+      "logoUrl": "https://cdn.getro.com/companies/a02d5239-24fe-4629-8e84-e2d8ca3182c4-1761355871",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "Blackbuck",
+      "slug": "blackbuck",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/blackbuck#content",
+      "activeJobCount": 13,
+      "domain": "blackbuck.com",
+      "logoUrl": "https://cdn.getro.com/companies/663b2880-79e6-47dd-bc8d-11fce8393d96-1760751760",
+      "sectors": [
+        "Logistics"
+      ]
+    },
+    {
+      "name": "BookMyShow",
+      "slug": "bookmyshow-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/bookmyshow-2#content",
+      "activeJobCount": 9,
+      "domain": "bookmyshow.com",
+      "logoUrl": "https://cdn.getro.com/companies/fb6a5951-146a-4bb1-9d25-c451c1a1d509-1761442905",
+      "sectors": [
+        "Media & Entertainment"
+      ]
+    },
+    {
+      "name": "Breathe Well-being",
+      "slug": "breathe-well-being",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/breathe-well-being#content",
+      "activeJobCount": 1,
+      "domain": "breathewellbeing.in",
+      "logoUrl": "https://cdn.getro.com/companies/febef85e-a793-4786-b1ae-30837350b139-1760837555",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "Brick&Bolt",
+      "slug": "brick-bolt-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/brick-bolt-2#content",
+      "activeJobCount": 6,
+      "domain": "bricknbolt.com",
+      "logoUrl": "https://cdn.getro.com/companies/aad3da3c-8c52-4e4f-9eec-ef0d73af5a7c-1761355885",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "BrowserStack",
+      "slug": "browserstack",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/browserstack#content",
+      "activeJobCount": 45,
+      "domain": "browserstack.com",
+      "logoUrl": "https://cdn.getro.com/companies/d5b88abe-45b9-451c-b292-ecf785a53b5e-1760664911",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Captain Fresh",
+      "slug": "captain-fresh-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/captain-fresh-2#content",
+      "activeJobCount": 3,
+      "domain": "captainfresh.in",
+      "logoUrl": "https://cdn.getro.com/companies/f8ca05de-c79e-49b9-b0a4-f77f0be6f630-1761355888",
+      "sectors": [
+        "Logistics"
+      ]
+    },
+    {
+      "name": "Chargebee",
+      "slug": "chargebee",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/chargebee#content",
+      "activeJobCount": 9,
+      "domain": "chargebee.com",
+      "logoUrl": "https://cdn.getro.com/companies/ff082f2b-3fde-4a06-a06b-616dfc670849-1761961150",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "CityMall",
+      "slug": "citymall-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/citymall-2#content",
+      "activeJobCount": 3,
+      "domain": "citymall.live",
+      "logoUrl": "https://cdn.getro.com/companies/c13ab628-1d1f-40a3-87b4-b2a82af5c156-1760665299",
+      "sectors": [
+        "E-Commerce & D2C"
+      ]
+    },
+    {
+      "name": "Coverfox Insurance",
+      "slug": "coverfox-insurance-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/coverfox-insurance-2#content",
+      "activeJobCount": 24,
+      "domain": "coverfox.com",
+      "logoUrl": "https://cdn.getro.com/companies/451c5c70-cb1d-418f-aca9-f7030ecc453c-1761355924",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "Credgenics",
+      "slug": "credgenics-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/credgenics-2#content",
+      "activeJobCount": 4,
+      "domain": "credgenics.com",
+      "logoUrl": "https://cdn.getro.com/companies/0dd3f5fc-47ab-43ce-a13f-99b8f4361f6e-1761442904",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "CrowdStrike",
+      "slug": "crowdstrike",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/crowdstrike#content",
+      "activeJobCount": 607,
+      "domain": "crowdstrike.com",
+      "logoUrl": "https://cdn.getro.com/companies/f8ec71cd-69c4-4f9b-ba84-adfdd68ee343-1768234689",
+      "sectors": [
+        "AI & Data",
+        "Cybersecurity",
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Curefit - house of cult",
+      "slug": "curefit-house-of-cult",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/curefit-house-of-cult#content",
+      "activeJobCount": 126,
+      "domain": "cult.fit",
+      "logoUrl": "https://cdn.getro.com/companies/09e75c14-cb2d-40ec-8f3a-863707bc696e-1761356098",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "Curefoods",
+      "slug": "curefoods-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/curefoods-2#content",
+      "activeJobCount": 1,
+      "domain": "curefoods.in",
+      "logoUrl": "https://cdn.getro.com/companies/64e6216b-5756-5371-af55-d316f02d3db9-1748482417",
+      "sectors": [
+        "FoodTech"
+      ]
+    },
+    {
+      "name": "Detect Technologies",
+      "slug": "detect-technologies-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/detect-technologies-2#content",
+      "activeJobCount": 6,
+      "domain": "detecttechnologies.com",
+      "logoUrl": "https://cdn.getro.com/companies/1a1a43fa-6273-4e9d-b8b5-3ea2fa21d87c-1761355942",
+      "sectors": [
+        "CleanTech & Energy"
+      ]
+    },
+    {
+      "name": "EduPristine",
+      "slug": "edupristine-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/edupristine-2#content",
+      "activeJobCount": 2,
+      "domain": "edupristine.com",
+      "logoUrl": "https://cdn.getro.com/companies/f906ac0e-575d-475c-b293-e9d23c4a90d0-1761355947",
+      "sectors": [
+        "EdTech"
+      ]
+    },
+    {
+      "name": "Fabheads Automation",
+      "slug": "fabheads-automation",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/fabheads-automation#content",
+      "activeJobCount": 4,
+      "domain": "fabheads.com",
+      "logoUrl": "https://cdn.getro.com/companies/6e7c060b-c791-55c3-85be-8c53c5b2c5fb-1758111353",
+      "sectors": []
+    },
+    {
+      "name": "FabHotels",
+      "slug": "fabhotels",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/fabhotels#content",
+      "activeJobCount": 6,
+      "domain": "fabhotels.com",
+      "logoUrl": "https://cdn.getro.com/companies/597708b7-2bc1-41c3-90dd-fbbc038d9dee-1761355950",
+      "sectors": [
+        "Travel & Hospitality"
+      ]
+    },
+    {
+      "name": "Fashinza",
+      "slug": "fashinza-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/fashinza-2#content",
+      "activeJobCount": 4,
+      "domain": "fashinza.com",
+      "logoUrl": "https://cdn.getro.com/companies/83831508-f773-4398-9b8e-7878054c1bc9-1761355950",
+      "sectors": [
+        "E-Commerce & D2C"
+      ]
+    },
+    {
+      "name": "Fibr",
+      "slug": "fibr-2-525dca2f-d0e4-469e-8d3f-7a6bf77d8f32",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/fibr-2-525dca2f-d0e4-469e-8d3f-7a6bf77d8f32#content",
+      "activeJobCount": 8,
+      "domain": "fibr.ai",
+      "logoUrl": "https://cdn.getro.com/companies/061110bc-6067-429d-91dd-f8aa5bf37547-1761528959",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Flipkart",
+      "slug": "flipkart-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/flipkart-2#content",
+      "activeJobCount": 106,
+      "domain": "flipkart.com",
+      "logoUrl": "https://cdn.getro.com/companies/0ff5cd4f-92a3-492d-a587-31c352c8bc96-1761355961",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Freshworks",
+      "slug": "freshworks",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/freshworks#content",
+      "activeJobCount": 162,
+      "domain": "freshworks.com",
+      "logoUrl": "https://cdn.getro.com/companies/ed1bf45d-0348-4334-ab27-5c2bc542bd3b-1760577852",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Haber",
+      "slug": "haber-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/haber-2#content",
+      "activeJobCount": 4,
+      "domain": "haberwater.com",
+      "logoUrl": "https://cdn.getro.com/companies/a024562d-c303-4d20-8282-0129bd865c61-1761701873",
+      "sectors": [
+        "Manufacturing & Hardware"
+      ]
+    },
+    {
+      "name": "HomeLane",
+      "slug": "homelane-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/homelane-2#content",
+      "activeJobCount": 143,
+      "domain": "homelane.com",
+      "logoUrl": "https://cdn.getro.com/companies/1667c697-e084-42ca-b041-d639bca9730c-1761788625",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Hotelogix",
+      "slug": "hotelogix-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/hotelogix-2#content",
+      "activeJobCount": 7,
+      "domain": "hotelogix.com",
+      "logoUrl": "https://cdn.getro.com/companies/7268fa1f-76ff-4924-96dc-16b2403842b6-1761355975",
+      "sectors": [
+        "Travel & Hospitality"
+      ]
+    },
+    {
+      "name": "Indifi Technologies",
+      "slug": "indifi-technologies-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/indifi-technologies-2#content",
+      "activeJobCount": 7,
+      "domain": "indifi.com",
+      "logoUrl": "https://cdn.getro.com/companies/60319b00-c9a0-4e8a-b04c-efbf0ee71b62-1761961115",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "KGEN",
+      "slug": "kgen",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/kgen#content",
+      "activeJobCount": 8,
+      "domain": "kgen.io",
+      "logoUrl": "https://cdn.getro.com/companies/0569d512-a0db-4670-bc47-60ad6a8006d7-1762998156",
+      "sectors": [
+        "Media & Entertainment"
+      ]
+    },
+    {
+      "name": "Knight FinTech",
+      "slug": "knight-fintech-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/knight-fintech-2#content",
+      "activeJobCount": 12,
+      "domain": "knightfintech.com",
+      "logoUrl": "https://cdn.getro.com/companies/e8cf2235-8c9a-45ce-81f1-c7362297e77c-1766453950",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "Meragi",
+      "slug": "meragi-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/meragi-2#content",
+      "activeJobCount": 15,
+      "domain": "meragi.com",
+      "logoUrl": "https://cdn.getro.com/companies/d07a0924-3323-4719-b8f6-7b4e066b88be-1766108140",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Mihup",
+      "slug": "mihup-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/mihup-2#content",
+      "activeJobCount": 4,
+      "domain": "mihup.ai",
+      "logoUrl": "https://cdn.getro.com/companies/67c35302-25e2-4ea9-be31-453ced11edb1-1761701883",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Mindtickle",
+      "slug": "mindtickle",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/mindtickle#content",
+      "activeJobCount": 35,
+      "domain": "mindtickle.com",
+      "logoUrl": "https://cdn.getro.com/companies/26ed51b2-ecd4-4a96-8e90-5d8d92da7398-1760577255",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Mirana Toys",
+      "slug": "mirana-toys-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/mirana-toys-2#content",
+      "activeJobCount": 1,
+      "domain": "miranatoys.com",
+      "logoUrl": "https://cdn.getro.com/companies/fd15bb9f-546a-483c-babb-f2b3dc964124-1766108151",
+      "sectors": [
+        "Media & Entertainment"
+      ]
+    },
+    {
+      "name": "moneyview",
+      "slug": "moneyview",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/moneyview#content",
+      "activeJobCount": 12,
+      "domain": "moneyview.in",
+      "logoUrl": "https://cdn.getro.com/companies/61ba2884-ba73-4a5e-a886-da0d548be78b-1762998104",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "MyGlamm",
+      "slug": "myglamm-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/myglamm-2#content",
+      "activeJobCount": 2,
+      "domain": "myglamm.com",
+      "logoUrl": "https://cdn.getro.com/companies/4feeec58-766c-4ae0-b673-09b39e22876d-1761355964",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Myntra",
+      "slug": "myntra-2-5a54e630-c916-458e-98a0-7af9b9491120",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/myntra-2-5a54e630-c916-458e-98a0-7af9b9491120#content",
+      "activeJobCount": 14,
+      "domain": "myntra.com",
+      "logoUrl": "https://cdn.getro.com/companies/bac0456a-bf8a-49b7-ab37-645c127583c7-1761701889",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "New Relic",
+      "slug": "new-relic",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/new-relic#content",
+      "activeJobCount": 61,
+      "domain": "newrelic.com",
+      "logoUrl": "https://cdn.getro.com/companies/fe666759-babe-449b-aeb7-cea4843a08ca-1768234952",
+      "sectors": [
+        "AI & Data",
+        "Consumer Services",
+        "Cybersecurity",
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Ninjacart",
+      "slug": "ninjacart-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/ninjacart-2#content",
+      "activeJobCount": 23,
+      "domain": "ninjacart.com",
+      "logoUrl": "https://cdn.getro.com/companies/712fcdc7-7538-4ad3-aae5-4a24b2d911db-1761356000",
+      "sectors": [
+        "Logistics"
+      ]
+    },
+    {
+      "name": "Niyo ",
+      "slug": "niyo",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/niyo#content",
+      "activeJobCount": 17,
+      "domain": "goniyo.com",
+      "logoUrl": "https://cdn.getro.com/companies/7eb9a135-8d15-4e55-b418-1643ac7aaa90-1762998117",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "Onco",
+      "slug": "onco-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/onco-2#content",
+      "activeJobCount": 8,
+      "domain": "onco.com",
+      "logoUrl": "https://cdn.getro.com/companies/d8aded8f-2a7b-4046-8965-6f516134d3e8-1761355998",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "Onsitego",
+      "slug": "onsitego-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/onsitego-2#content",
+      "activeJobCount": 40,
+      "domain": "onsitego.com",
+      "logoUrl": "https://cdn.getro.com/companies/f54b8621-47ba-48a2-83bb-9e6fbfa53bcc-1761356005",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Openhouse",
+      "slug": "openhouse-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/openhouse-2#content",
+      "activeJobCount": 3,
+      "domain": "openhouse.study",
+      "logoUrl": "https://cdn.getro.com/companies/129b0f06-c529-4630-bfb8-9e59316bfd72-1769046276",
+      "sectors": [
+        "EdTech"
+      ]
+    },
+    {
+      "name": "Orange Health Labs",
+      "slug": "orange-health-labs",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/orange-health-labs#content",
+      "activeJobCount": 5,
+      "domain": "orangehealth.in",
+      "logoUrl": "https://cdn.getro.com/companies/1b21260b-3a0a-4c0e-9493-2f37de8ba2dd-1760837559",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "Portea Medical",
+      "slug": "portea-medical-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/portea-medical-2#content",
+      "activeJobCount": 6,
+      "domain": "portea.com",
+      "logoUrl": "https://cdn.getro.com/companies/46becfce-3f69-4c05-b303-afda65606eb3-1761356005",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "Power2SME",
+      "slug": "power2sme-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/power2sme-2#content",
+      "activeJobCount": 7,
+      "domain": "power2sme.com",
+      "logoUrl": "https://cdn.getro.com/companies/ff0034aa-17a0-4691-9714-b8d32825579b-1761356014",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Probe42",
+      "slug": "probe42",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/probe42#content",
+      "activeJobCount": 3,
+      "domain": "probe42.in",
+      "logoUrl": "https://cdn.getro.com/companies/5bf77227-8e83-4c5e-af0e-d29dd7b1b613-1761356015",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Propeller",
+      "slug": "propeller-2-d4f96b45-93f1-41c0-8615-150ff09b65b9",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/propeller-2-d4f96b45-93f1-41c0-8615-150ff09b65b9#content",
+      "activeJobCount": 16,
+      "domain": "propelleraero.com",
+      "logoUrl": "https://cdn.getro.com/companies/0ec222cc-877b-44b0-8166-de9940a8fb2a-1760751696",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Rentomojo",
+      "slug": "rentomojo-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/rentomojo-2#content",
+      "activeJobCount": 10,
+      "domain": "rentomojo.com",
+      "logoUrl": "https://cdn.getro.com/companies/660b21b3-359b-4e1c-a221-212cbb5631d6-1761701897",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "RetainIQ  ",
+      "slug": "retainiq-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/retainiq-2#content",
+      "activeJobCount": 1,
+      "domain": "retainiq.io",
+      "logoUrl": "https://cdn.getro.com/companies/10d040e4-f4d2-4cc9-8766-4412546b384a-1763688952",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Rigi",
+      "slug": "rigi-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/rigi-2#content",
+      "activeJobCount": 3,
+      "domain": "rigi.club",
+      "logoUrl": "https://cdn.getro.com/companies/747e8e4e-1083-5a83-8244-08e8874a6e0f-1748482536",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Rupeek",
+      "slug": "rupeek-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/rupeek-2#content",
+      "activeJobCount": 14,
+      "domain": "rupeek.com",
+      "logoUrl": "https://cdn.getro.com/companies/731ae0ee-ce4f-4db2-91b5-81d26d27575f-1761356020",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "Sarla Aviation",
+      "slug": "sarla-aviation",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/sarla-aviation#content",
+      "activeJobCount": 28,
+      "domain": "sarla-aviation.com",
+      "logoUrl": "https://cdn.getro.com/companies/03e0a123-6781-4908-848f-8bef2dcd15e0-1762997950",
+      "sectors": [
+        "Manufacturing & Hardware"
+      ]
+    },
+    {
+      "name": "Sayre Therapeutics",
+      "slug": "sayre-therapeutics",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/sayre-therapeutics#content",
+      "activeJobCount": 2,
+      "domain": "sayretherapeutics.com",
+      "logoUrl": "https://cdn.getro.com/companies/d74f6609-69e0-4eae-999b-02c3434b5fb8-1761701898",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "Scimplify",
+      "slug": "scimplify-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/scimplify-2#content",
+      "activeJobCount": 39,
+      "domain": "scimplify.com",
+      "logoUrl": "https://cdn.getro.com/companies/ad7637ca-0084-4688-acd9-7217ff3cec7c-1762393212",
+      "sectors": [
+        "Consumer Services",
+        "Manufacturing & Hardware"
+      ]
+    },
+    {
+      "name": "Scripbox",
+      "slug": "scripbox",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/scripbox#content",
+      "activeJobCount": 5,
+      "domain": "scripbox.com",
+      "logoUrl": "https://cdn.getro.com/companies/ab92b63c-78a8-46d3-8a3e-434d07448a10-1761961123",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "Shivalik Bank ",
+      "slug": "shivalik-bank",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/shivalik-bank#content",
+      "activeJobCount": 1,
+      "domain": "shivalikbank.com",
+      "logoUrl": "https://cdn.getro.com/companies/a1d85e12-f870-4dca-a29b-0ca6ad7da13b-1761356030",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "Spinny",
+      "slug": "spinny",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/spinny#content",
+      "activeJobCount": 3,
+      "domain": "spinny.com",
+      "logoUrl": "https://cdn.getro.com/companies/94576e65-be03-4138-8369-e472e4d6f50b-1760837649",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Sprinto ",
+      "slug": "sprinto-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/sprinto-2#content",
+      "activeJobCount": 16,
+      "domain": "sprinto.com",
+      "logoUrl": "https://cdn.getro.com/companies/20bfd522-8f85-4834-ae79-1b992dc30588-1761616137",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Spyne",
+      "slug": "spyne-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/spyne-2#content",
+      "activeJobCount": 35,
+      "domain": "spyne.ai",
+      "logoUrl": "https://cdn.getro.com/companies/3d3035a8-b4b4-412d-b7a3-26e1a3b4fa98-1761356043",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Teabox",
+      "slug": "teabox-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/teabox-2#content",
+      "activeJobCount": 7,
+      "domain": "teabox.com",
+      "logoUrl": "https://cdn.getro.com/companies/62f54586-6f7c-400d-94a1-fb5699b708e7-1769046279",
+      "sectors": [
+        "FoodTech"
+      ]
+    },
+    {
+      "name": "Testsigma",
+      "slug": "testsigma-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/testsigma-2#content",
+      "activeJobCount": 10,
+      "domain": "testsigma.com",
+      "logoUrl": "https://cdn.getro.com/companies/a2cf97b9-18ce-42bf-b659-620a1983a789-1761269853",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Trinkerr",
+      "slug": "trinkerr-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/trinkerr-2#content",
+      "activeJobCount": 2,
+      "domain": "trinkerr.com",
+      "logoUrl": "https://cdn.getro.com/companies/81549a91-7458-49e2-9742-5b79573f90e9-1761356063",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "Truemeds India",
+      "slug": "truemeds-india-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/truemeds-india-2#content",
+      "activeJobCount": 27,
+      "domain": "truemeds.in",
+      "logoUrl": "https://cdn.getro.com/companies/16199a63-41ab-4aca-9966-5c93008a3c90-1766626501",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "Uni Cards ",
+      "slug": "uni-cards-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/uni-cards-2#content",
+      "activeJobCount": 4,
+      "domain": "uni.cards",
+      "logoUrl": "https://cdn.getro.com/companies/3d9f456e-7798-4a31-a4c5-945b16385de2-1761013590",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "Urban Company",
+      "slug": "urban-company-2-1b07cc2a-6c2f-410c-971e-1e150726b8e5",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/urban-company-2-1b07cc2a-6c2f-410c-971e-1e150726b8e5#content",
+      "activeJobCount": 6,
+      "domain": "urbancompany.com",
+      "logoUrl": "https://cdn.getro.com/companies/9ebdfa48-adf7-40e2-bc77-9efca2ccef00-1761702019",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Vedantu",
+      "slug": "vedantu",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/vedantu#content",
+      "activeJobCount": 2,
+      "domain": "vedantu.com",
+      "logoUrl": "https://cdn.getro.com/companies/ec0d0bc7-0b97-4a4c-b3d6-0e508706db4a-1762047788",
+      "sectors": [
+        "EdTech"
+      ]
+    },
+    {
+      "name": "Venwiz",
+      "slug": "venwiz-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/venwiz-2#content",
+      "activeJobCount": 5,
+      "domain": "venwiz.com",
+      "logoUrl": "https://cdn.getro.com/companies/803217af-1132-47e2-b300-623a0c10d6ad-1761356070",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Wiom",
+      "slug": "wiom-2",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/wiom-2#content",
+      "activeJobCount": 8,
+      "domain": "wiom.in",
+      "logoUrl": "https://cdn.getro.com/companies/8e5d3408-f9df-4051-b67e-90cb7465d634-1766626499",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Zenoti",
+      "slug": "zenoti",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/zenoti#content",
+      "activeJobCount": 81,
+      "domain": "zenoti.com",
+      "logoUrl": "https://cdn.getro.com/companies/0e6c7a28-bbb5-49e4-9d5b-fd6947d3649f-1760837339",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Zetwerk",
+      "slug": "zetwerk",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/zetwerk#content",
+      "activeJobCount": 40,
+      "domain": "zetwerk.com",
+      "logoUrl": "https://cdn.getro.com/companies/16e3564d-2c6f-46db-a6b7-43ef9519c071-1761615700",
+      "sectors": [
+        "Manufacturing & Hardware"
+      ]
+    },
+    {
+      "name": "Zolve",
+      "slug": "zolve",
+      "jobsBoardUrl": "https://jobs.accel.com/companies/zolve#content",
+      "activeJobCount": 18,
+      "domain": "zolve.com",
+      "logoUrl": "https://cdn.getro.com/companies/96897da6-faca-4394-9a6b-64b65133371e-1760578625",
+      "sectors": [
+        "FinTech"
+      ]
+    }
+  ]
+}

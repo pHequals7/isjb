@@ -1,0 +1,20 @@
+{
+  "accel": {
+    "mode": "denylist",
+    "slugs": [
+      "atlassian",
+      "crowdstrike",
+      "new-relic",
+      "propeller-2-d4f96b45-93f1-41c0-8615-150ff09b65b9"
+    ]
+  },
+  "gc": {
+    "mode": "denylist",
+    "slugs": [
+      "general-catalyst",
+      "stripe",
+      "wag-2",
+      "windsurf"
+    ]
+  }
+}
