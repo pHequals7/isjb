@@ -15,14 +15,14 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Indian Startup Jobs Board",
   description:
-    "Browse jobs at top VC-backed startups in India. Companies from PeakXV, Accel, Lightspeed, Nexus VP, and General Catalyst — all in one place.",
+    "Browse jobs at top VC-backed startups in India. Companies from PeakXV, Accel, Lightspeed, Nexus VP, General Catalyst, and Blume Ventures — all in one place.",
   icons: {
     icon: "/favicon.svg",
   },
   openGraph: {
     title: "Indian Startup Jobs Board",
     description:
-      "Browse jobs at top VC-backed startups in India. Companies from PeakXV, Accel, Lightspeed, Nexus VP, and General Catalyst — all in one place.",
+      "Browse jobs at top VC-backed startups in India. Companies from PeakXV, Accel, Lightspeed, Nexus VP, General Catalyst, and Blume Ventures — all in one place.",
     images: [{ url: "/og-image.png", width: 1200, height: 630 }],
   },
   twitter: {

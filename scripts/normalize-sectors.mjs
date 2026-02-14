@@ -4,7 +4,7 @@ import { readFileSync, writeFileSync } from "fs";
 const sectorMap = JSON.parse(readFileSync("data/sector-map.json", "utf-8"));
 delete sectorMap._comment;
 
-const files = ["accel", "gc", "peakxv", "lightspeed", "nexus"];
+const files = ["accel", "gc", "peakxv", "lightspeed", "nexus", "blume"];
 const unmapped = new Set();
 
 for (const f of files) {

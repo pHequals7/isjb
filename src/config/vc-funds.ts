@@ -42,4 +42,13 @@ export const vcFundsConfig: VCFundConfig[] = [
     platform: "getro",
     color: "#059669",
   },
+  {
+    id: "blume",
+    name: "Blume Ventures",
+    logoPath: "/logos/vc/blume.svg",
+    jobsBoardBaseUrl: "https://jobs.blume.vc",
+    platform: "getro",
+    color: "#14305A",
+    logoDark: true,
+  },
 ];

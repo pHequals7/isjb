@@ -163,7 +163,7 @@
       "name": "Blackbuck",
       "slug": "blackbuck",
       "jobsBoardUrl": "https://jobs.accel.com/companies/blackbuck#content",
-      "activeJobCount": 13,
+      "activeJobCount": 12,
       "domain": "blackbuck.com",
       "logoUrl": "https://cdn.getro.com/companies/663b2880-79e6-47dd-bc8d-11fce8393d96-1760751760",
       "sectors": [
@@ -313,7 +313,7 @@
       "name": "Credgenics",
       "slug": "credgenics-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/credgenics-2#content",
-      "activeJobCount": 4,
+      "activeJobCount": 3,
       "domain": "credgenics.com",
       "logoUrl": "https://cdn.getro.com/companies/0dd3f5fc-47ab-43ce-a13f-99b8f4361f6e-1761442904",
       "sectors": [
@@ -324,7 +324,7 @@
       "name": "CrowdStrike",
       "slug": "crowdstrike",
       "jobsBoardUrl": "https://jobs.accel.com/companies/crowdstrike#content",
-      "activeJobCount": 597,
+      "activeJobCount": 609,
       "domain": "crowdstrike.com",
       "logoUrl": "https://cdn.getro.com/companies/f8ec71cd-69c4-4f9b-ba84-adfdd68ee343-1768234689",
       "sectors": [
@@ -470,7 +470,7 @@
       "name": "Freshworks",
       "slug": "freshworks",
       "jobsBoardUrl": "https://jobs.accel.com/companies/freshworks#content",
-      "activeJobCount": 160,
+      "activeJobCount": 165,
       "domain": "freshworks.com",
       "logoUrl": "https://cdn.getro.com/companies/ed1bf45d-0348-4334-ab27-5c2bc542bd3b-1760577852",
       "sectors": [
@@ -596,7 +596,7 @@
       "name": "KGEN",
       "slug": "kgen",
       "jobsBoardUrl": "https://jobs.accel.com/companies/kgen#content",
-      "activeJobCount": 8,
+      "activeJobCount": 9,
       "domain": "kgen.io",
       "logoUrl": "https://cdn.getro.com/companies/0569d512-a0db-4670-bc47-60ad6a8006d7-1762998156",
       "sectors": [
@@ -662,7 +662,7 @@
       "name": "Mirana Toys",
       "slug": "mirana-toys-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/mirana-toys-2#content",
-      "activeJobCount": 1,
+      "activeJobCount": 0,
       "domain": "miranatoys.com",
       "logoUrl": "https://cdn.getro.com/companies/fd15bb9f-546a-483c-babb-f2b3dc964124-1766108151",
       "sectors": [
@@ -863,7 +863,8 @@
       "domain": "getpowerplay.in",
       "logoUrl": "https://cdn.getro.com/companies/0c62a51c-bb20-462c-b6a0-bb2dc6365359-1761701893",
       "sectors": [
-        "Consumer Services"
+        "Consumer Services",
+        "EdTech"
       ]
     },
     {
@@ -1133,7 +1134,9 @@
       "activeJobCount": 0,
       "domain": "surewaves.com",
       "logoUrl": "https://cdn.getro.com/companies/89861179-8015-4b3c-b83a-d0bcbdbe1b2e-1761356056",
-      "sectors": []
+      "sectors": [
+        "SaaS"
+      ]
     },
     {
       "name": "Swiggy",

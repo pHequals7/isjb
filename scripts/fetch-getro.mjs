@@ -6,6 +6,7 @@ import { join } from "path";
 const configs = [
   { id: "accel", collectionId: "8672", baseUrl: "https://jobs.accel.com" },
   { id: "gc", collectionId: "222", baseUrl: "https://jobs.generalcatalyst.com" },
+  { id: "blume", collectionId: "32333", baseUrl: "https://jobs.blume.vc" },
 ];
 
 // Load Indian-origin override list

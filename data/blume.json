@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "lastUpdated": "2026-02-14",
+    "totalCompanies": 14,
+    "source": "https://jobs.blume.vc"
+  },
+  "companies": [
+    {
+      "name": "Ati Motors",
+      "slug": "ati-motors-2",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/ati-motors-2#content",
+      "activeJobCount": 0,
+      "domain": "atimotors.com",
+      "logoUrl": "https://cdn.getro.com/companies/c34ae5fe-c6a4-5757-b661-4a350efa9cd7-1739364695",
+      "sectors": ["Manufacturing & Hardware"]
+    },
+    {
+      "name": "Classplus",
+      "slug": "classplus",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/classplus#content",
+      "activeJobCount": 0,
+      "domain": "classplusapp.com",
+      "logoUrl": "https://cdn.getro.com/companies/d5762e57-1915-4433-a8c7-edd5d19ac1b5-1761269764",
+      "sectors": [
+        "EdTech"
+      ]
+    },
+    {
+      "name": "DPDzero",
+      "slug": "dpdzero-2",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/dpdzero-2#content",
+      "activeJobCount": 13,
+      "domain": "dpdzero.com",
+      "logoUrl": "https://cdn.getro.com/companies/b9b792c1-7276-53dc-bb03-e75aa77df66f-1751700835",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
+      "name": "IDfy",
+      "slug": "idfy-2",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/idfy-2#content",
+      "activeJobCount": 17,
+      "domain": "idfy.com",
+      "logoUrl": "https://cdn.getro.com/companies/8ca2031f-1907-57d0-9e64-1125225c3d87-1750388719",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Optimized Electrotech",
+      "slug": "optimized-electrotech",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/optimized-electrotech#content",
+      "activeJobCount": 2,
+      "domain": "optimizedelectrotech.com",
+      "logoUrl": "https://cdn.getro.com/companies/6d4b7a36-0cd6-5c57-b9b0-fb75f2abbfd9-1751609981",
+      "sectors": ["Manufacturing & Hardware"]
+    },
+    {
+      "name": "OZi",
+      "slug": "ozi-2",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/ozi-2#content",
+      "activeJobCount": 0,
+      "domain": "ozi.in",
+      "logoUrl": "https://cdn.getro.com/companies/68310a8f-c907-4517-b73d-74e932d48589-1767696158",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Purplle",
+      "slug": "purplle",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/purplle#content",
+      "activeJobCount": 0,
+      "domain": "purplle.com",
+      "logoUrl": "https://cdn.getro.com/companies/63808f01-a351-491d-843a-60449001959e-1767748336",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "SiftHub",
+      "slug": "sifthub-2",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/sifthub-2#content",
+      "activeJobCount": 12,
+      "domain": "sifthub.io",
+      "logoUrl": "https://cdn.getro.com/companies/720716c8-6fa8-55b6-bd1d-e6a705abe2d4-1748926475",
+      "sectors": ["AI & Data"]
+    },
+    {
+      "name": "slice",
+      "slug": "slice-2-d27d9e60-95e3-467a-b6c7-f3b32fa8c113",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/slice-2-d27d9e60-95e3-467a-b6c7-f3b32fa8c113#content",
+      "activeJobCount": 0,
+      "domain": "slice.bank.in",
+      "logoUrl": "https://cdn.getro.com/companies/cea0ab98-1465-465d-9936-f5aaa0b535d0-1767096959",
+      "sectors": ["FinTech"]
+    },
+    {
+      "name": "SquadStack",
+      "slug": "squadstack",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/squadstack#content",
+      "activeJobCount": 22,
+      "domain": "squadstack.com",
+      "logoUrl": "https://cdn.getro.com/companies/6ac7839f-6ede-418c-995c-eea567a20117-1759801149",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Ultrahuman",
+      "slug": "ultrahuman",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/ultrahuman#content",
+      "activeJobCount": 18,
+      "domain": "ultrahuman.com",
+      "logoUrl": "https://cdn.getro.com/companies/d025db82-b65d-49ae-a0f7-b858b3ec5f7c-1760837775",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
+      "name": "Vecmocon Technologies",
+      "slug": "vecmocon-technologies-2",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/vecmocon-technologies-2#content",
+      "activeJobCount": 22,
+      "domain": "vecmocon.com",
+      "logoUrl": "https://cdn.getro.com/companies/88a8ef1e-d297-54c3-8716-4dec20101f8e-1757074551",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Vutto",
+      "slug": "vutto",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/vutto#content",
+      "activeJobCount": 0,
+      "domain": "vutto.in",
+      "logoUrl": "https://cdn.getro.com/companies/8e083fc5-4113-4a13-bf6c-e022b4a4e200-1767696156",
+      "sectors": [
+        "Consumer Services"
+      ]
+    },
+    {
+      "name": "Zopper",
+      "slug": "zopper-2",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/zopper-2#content",
+      "activeJobCount": 21,
+      "domain": "zopper.com",
+      "logoUrl": "https://cdn.getro.com/companies/13fbdbde-f399-5a73-bc9f-2d93c2171d2e-1748145200",
+      "sectors": [
+        "FinTech"
+      ]
+    }
+  ]
+}
