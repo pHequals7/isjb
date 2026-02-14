@@ -1,4 +1,12 @@
+import { LogoTicker } from "@/components/logo-ticker";
+import { vcFundsConfig } from "@/config/vc-funds";
+
 export function Header() {
+  const logos = vcFundsConfig.map((f) => ({
+    name: f.name,
+    logoPath: f.logoPath,
+  }));
+
   return (
     <header className="bg-primary text-primary-foreground">
       <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 sm:py-16 lg:px-8 text-center">
@@ -18,6 +26,7 @@ export function Header() {
           venture capital firms — all in one place.
         </p>
       </div>
+      <LogoTicker logos={logos} />
     </header>
   );
 }

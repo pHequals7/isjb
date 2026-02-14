@@ -14,8 +14,8 @@ export function VCFundSection({ fund }: VCFundSectionProps) {
           <img
             src={fund.logoPath}
             alt={`${fund.name} logo`}
-            className={`w-auto object-contain${fund.logoScale ? "" : " h-8 sm:h-10"}${fund.logoDark ? " brightness-0" : ""}`}
-            style={fund.logoScale ? { height: "81px", maxWidth: "320px" } : { maxWidth: "160px" }}
+            className={`h-8 w-auto object-contain sm:h-10${fund.logoDark ? " brightness-0" : ""}`}
+            style={{ maxWidth: "160px" }}
           />
           <div className="h-8 w-px bg-border" />
           <div>

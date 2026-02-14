@@ -92,7 +92,6 @@ export function JobBoard({ funds }: JobBoardProps) {
     name: f.name,
     logoPath: f.logoPath,
     logoDark: f.logoDark,
-    logoScale: f.logoScale,
   }));
 
   const toggleSector = useCallback((sector: string) => {

@@ -17,7 +17,6 @@ export const vcFundsConfig: VCFundConfig[] = [
     jobsBoardBaseUrl: "https://jobs.accel.com",
     platform: "getro",
     color: "#4f46e5",
-    logoScale: 2,
   },
   {
     id: "lightspeed",

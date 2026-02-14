@@ -7,7 +7,7 @@ interface VCNavItem {
   name: string;
   logoPath: string;
   logoDark?: boolean;
-  logoScale?: number;
+
 }
 
 interface VCNavBarProps {
@@ -67,14 +67,13 @@ export function VCNavBar({ funds }: VCNavBarProps) {
             <img
               src={fund.logoPath}
               alt=""
-              className={`w-auto object-contain${fund.logoScale ? "" : " h-4 max-w-[72px]"} ${
+              className={`h-4 w-auto max-w-[72px] object-contain ${
                 activeId === fund.id
                   ? "brightness-0 invert"
                   : fund.logoDark
                   ? "brightness-0"
                   : ""
               }`}
-              style={fund.logoScale ? { height: "24px", maxWidth: "96px" } : undefined}
             />
             <span className="hidden sm:inline">{fund.name}</span>
           </button>

@@ -28,7 +28,6 @@ export interface VCFundConfig {
   platform: "consider" | "getro";
   color: string;
   logoDark?: boolean;
-  logoScale?: number;
 }
 
 export interface VCFund extends VCFundConfig {
