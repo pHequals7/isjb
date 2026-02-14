@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82" height="91" viewBox="0 0 82 91" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- ISJB Logo - Indian Startup Jobs Board -->
+  <!-- Ascending Growth Blocks (Indian Flag Colors) -->
+
+  <!-- Block 1 - Saffron -->
+  <rect x="0" y="31" width="14" height="23" rx="2" fill="#FF9933"/>
+
+  <!-- Block 2 - Light Saffron -->
+  <rect x="17" y="23" width="14" height="31" rx="2" fill="#FFAD5C"/>
+
+  <!-- Block 3 - White -->
+  <rect x="34" y="15" width="14" height="39" rx="2" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
+
+  <!-- Block 4 - Light Green -->
+  <rect x="51" y="8" width="14" height="46" rx="2" fill="#3CB371"/>
+
+  <!-- Block 5 - India Green -->
+  <rect x="68" y="0" width="14" height="54" rx="2" fill="#138808"/>
+
+  <!-- ISJB Text -->
+  <text x="0" y="82" font-family="Geist, Inter, system-ui, sans-serif" font-weight="700" font-size="37" fill="#FFFFFF">ISJB</text>
+</svg>

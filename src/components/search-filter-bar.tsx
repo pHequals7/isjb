@@ -44,22 +44,22 @@ export function SearchFilterBar({
 
   return (
     <div className="border-b bg-card">
-      <div className="mx-auto max-w-7xl px-4 py-4 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl px-4 py-5 sm:px-6 sm:py-6 lg:px-8">
         {/* Search input */}
         <div className="relative">
-          <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+          <Search className="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-muted-foreground" />
           <input
             ref={inputRef}
             type="text"
             value={searchQuery}
             onChange={(e) => onSearchChange(e.target.value)}
             placeholder="Search companies..."
-            className="h-10 w-full rounded-lg border border-input bg-background pl-10 pr-10 text-sm shadow-xs outline-none transition-[color,box-shadow] placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px]"
+            className="h-12 w-full rounded-lg border border-input bg-background pl-12 pr-12 text-base shadow-xs outline-none transition-[color,box-shadow] placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px]"
           />
           {searchQuery && (
             <button
               onClick={() => onSearchChange("")}
-              className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+              className="absolute right-4 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
               aria-label="Clear search"
             >
               <X className="h-4 w-4" />
@@ -68,14 +68,14 @@ export function SearchFilterBar({
         </div>
 
         {/* Sector pills */}
-        <div className="mt-3 flex flex-wrap items-center gap-2">
+        <div className="mt-4 flex flex-wrap items-center gap-2.5">
           {sectors.map((sector) => {
             const isActive = activeSectors.has(sector.name);
             return (
               <button
                 key={sector.name}
                 onClick={() => onToggleSector(sector.name)}
-                className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-medium transition-all duration-150 ${
+                className={`inline-flex items-center gap-1.5 rounded-full px-3.5 py-1.5 text-sm font-medium transition-all duration-150 ${
                   isActive
                     ? "bg-primary text-primary-foreground shadow-sm"
                     : "bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground"
@@ -83,7 +83,7 @@ export function SearchFilterBar({
               >
                 {sector.name}
                 <span
-                  className={`font-mono text-[10px] ${
+                  className={`font-mono text-xs ${
                     isActive
                       ? "text-primary-foreground/70"
                       : "text-muted-foreground/60"
@@ -97,7 +97,7 @@ export function SearchFilterBar({
           {hasActiveFilters && (
             <button
               onClick={onClearAll}
-              className="ml-1 text-xs font-medium text-muted-foreground underline-offset-2 hover:text-foreground hover:underline"
+              className="ml-1 text-sm font-medium text-muted-foreground underline-offset-2 hover:text-foreground hover:underline"
             >
               Clear all
             </button>

@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "Indian Startup Jobs Board",
   description:
     "Browse jobs at top VC-backed startups in India. Companies from PeakXV, Accel, Lightspeed, Nexus VP, and General Catalyst — all in one place.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
