@@ -5,7 +5,8 @@
       "atlassian",
       "crowdstrike",
       "new-relic",
-      "propeller-2-d4f96b45-93f1-41c0-8615-150ff09b65b9"
+      "propeller-2-d4f96b45-93f1-41c0-8615-150ff09b65b9",
+      "borqs-technologies-2"
     ]
   },
   "gc": {
@@ -15,6 +16,26 @@
       "stripe",
       "wag-2",
       "windsurf"
+    ]
+  },
+  "blume": {
+    "mode": "denylist",
+    "slugs": []
+  },
+  "peakxv": {
+    "mode": "denylist",
+    "slugs": [
+      "trusting-social"
+    ]
+  },
+  "lightspeed": {
+    "mode": "denylist",
+    "slugs": []
+  },
+  "nexus": {
+    "mode": "denylist",
+    "slugs": [
+      "daloopa"
     ]
   }
 }

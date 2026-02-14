@@ -1,0 +1,23 @@
+{
+  "description": "Indian-origin companies that are publicly listed on stock exchanges",
+  "companies": [
+    { "slug": "swiggy", "exchange": "NSE", "ticker": "SWIGGY" },
+    { "slug": "zomato", "exchange": "NSE", "ticker": "ETERNAL" },
+    { "slug": "freshworks", "exchange": "NASDAQ", "ticker": "FRSH" },
+    { "slug": "groww", "exchange": "NSE", "ticker": "GROWW" },
+    { "slug": "delhivery", "exchange": "NSE", "ticker": "DELHIVERY" },
+    { "slug": "tracxn-2", "exchange": "NSE", "ticker": "TRACXN" },
+    { "slug": "ixigo", "exchange": "NSE", "ticker": "IXIGO" },
+    { "slug": "mobikwik", "exchange": "NSE", "ticker": "MOBIKWIK" },
+    { "slug": "mamaearth", "exchange": "NSE", "ticker": "HONASA" },
+    { "slug": "truecaller", "exchange": "OMX", "ticker": "TRUE B" },
+    { "slug": "blackbuck", "exchange": "NSE", "ticker": "BLACKBUCK" },
+    { "slug": "awfis", "exchange": "NSE", "ticker": "AWFIS" },
+    { "slug": "meesho", "exchange": "NSE", "ticker": "MEESHO" },
+    { "slug": "pine-labs", "exchange": "NSE", "ticker": "PINELABS" },
+    { "slug": "physicswallah", "exchange": "NSE", "ticker": "PWL" },
+    { "slug": "capillary-technologies", "exchange": "NSE", "ticker": "CAPILLARY" },
+    { "slug": "bluestone-2-1dabef42-ddfb-4675-8f7f-527d771fac69", "exchange": "NSE", "ticker": "BLUESTONE" },
+    { "slug": "urban-company-2-1b07cc2a-6c2f-410c-971e-1e150726b8e5", "exchange": "NSE", "ticker": "URBANCO" }
+  ]
+}

@@ -7,6 +7,9 @@ export interface Company {
   domain?: string;
   logoUrl?: string;
   sectors?: string[];
+  isPubliclyListed?: boolean;
+  isStale?: boolean;
+  latestJobDate?: string; // YYYY-MM-DD
 }
 
 export interface VCDataFileMeta {

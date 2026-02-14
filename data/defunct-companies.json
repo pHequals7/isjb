@@ -1,0 +1,17 @@
+{
+  "description": "Companies that are shut down, insolvent, or bankrupt — filtered out at load time",
+  "companies": [
+    { "slug": "byju", "reason": "NCLT insolvency proceedings" },
+    { "slug": "byju-s", "reason": "NCLT insolvency proceedings (alternate slug)" },
+    { "slug": "gomechanic", "reason": "Founders admitted financial fraud; sold via slump sale" },
+    { "slug": "trell", "reason": "Financial irregularities found by EY audit; shut down 2023" },
+    { "slug": "fashinza-2", "reason": "Shut down operations 2023" },
+    { "slug": "citymall-2", "reason": "Shut down 2023; unsustainable unit economics" },
+    { "slug": "anar", "reason": "Ceased operations; returned capital to investors 2023" },
+    { "slug": "oslash", "reason": "Failed to reach product-market fit; shut down 2023" },
+    { "slug": "frontrow", "reason": "Poor unit economics; shut down 2023" },
+    { "slug": "myglamm-2", "reason": "Good Glamm Group — lenders enforced charge on assets 2025" },
+    { "slug": "log-9-materials", "reason": "Mounting debt exceeding Rs 200 crore; unsustainable 2025" },
+    { "slug": "investmint", "reason": "Could not find reliable business model; wound down 2024" }
+  ]
+}

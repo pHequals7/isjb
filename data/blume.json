@@ -12,7 +12,9 @@
       "activeJobCount": 0,
       "domain": "atimotors.com",
       "logoUrl": "https://cdn.getro.com/companies/c34ae5fe-c6a4-5757-b661-4a350efa9cd7-1739364695",
-      "sectors": ["Manufacturing & Hardware"]
+      "sectors": [
+        "Manufacturing & Hardware"
+      ]
     },
     {
       "name": "Classplus",
@@ -34,7 +36,8 @@
       "logoUrl": "https://cdn.getro.com/companies/b9b792c1-7276-53dc-bb03-e75aa77df66f-1751700835",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "latestJobDate": "2026-01-20"
     },
     {
       "name": "IDfy",
@@ -45,7 +48,8 @@
       "logoUrl": "https://cdn.getro.com/companies/8ca2031f-1907-57d0-9e64-1125225c3d87-1750388719",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "latestJobDate": "2025-09-23"
     },
     {
       "name": "Optimized Electrotech",
@@ -54,7 +58,10 @@
       "activeJobCount": 2,
       "domain": "optimizedelectrotech.com",
       "logoUrl": "https://cdn.getro.com/companies/6d4b7a36-0cd6-5c57-b9b0-fb75f2abbfd9-1751609981",
-      "sectors": ["Manufacturing & Hardware"]
+      "sectors": [
+        "Manufacturing & Hardware"
+      ],
+      "latestJobDate": "2025-10-13"
     },
     {
       "name": "OZi",
@@ -85,7 +92,10 @@
       "activeJobCount": 12,
       "domain": "sifthub.io",
       "logoUrl": "https://cdn.getro.com/companies/720716c8-6fa8-55b6-bd1d-e6a705abe2d4-1748926475",
-      "sectors": ["AI & Data"]
+      "sectors": [
+        "AI & Data"
+      ],
+      "latestJobDate": "2026-01-29"
     },
     {
       "name": "slice",
@@ -94,7 +104,9 @@
       "activeJobCount": 0,
       "domain": "slice.bank.in",
       "logoUrl": "https://cdn.getro.com/companies/cea0ab98-1465-465d-9936-f5aaa0b535d0-1767096959",
-      "sectors": ["FinTech"]
+      "sectors": [
+        "FinTech"
+      ]
     },
     {
       "name": "SquadStack",
@@ -105,7 +117,8 @@
       "logoUrl": "https://cdn.getro.com/companies/6ac7839f-6ede-418c-995c-eea567a20117-1759801149",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "latestJobDate": "2026-02-10"
     },
     {
       "name": "Ultrahuman",
@@ -116,7 +129,8 @@
       "logoUrl": "https://cdn.getro.com/companies/d025db82-b65d-49ae-a0f7-b858b3ec5f7c-1760837775",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "latestJobDate": "2024-12-25"
     },
     {
       "name": "Vecmocon Technologies",
@@ -127,7 +141,8 @@
       "logoUrl": "https://cdn.getro.com/companies/88a8ef1e-d297-54c3-8716-4dec20101f8e-1757074551",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "latestJobDate": "2026-02-12"
     },
     {
       "name": "Vutto",
@@ -149,7 +164,8 @@
       "logoUrl": "https://cdn.getro.com/companies/13fbdbde-f399-5a73-bc9f-2d93c2171d2e-1748145200",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "latestJobDate": "2026-02-11"
     }
   ]
 }

@@ -12,7 +12,10 @@
       "activeJobCount": 58,
       "domain": "amigo.ai",
       "logoUrl": "https://cdn.getro.com/companies/2003f185-13b5-50d2-9dbf-a3f7d9a4e735-1733314828",
-      "sectors": ["AI & Data"]
+      "sectors": [
+        "AI & Data"
+      ],
+      "latestJobDate": "2026-01-31"
     },
     {
       "name": "axiTrust",
@@ -45,7 +48,8 @@
       "logoUrl": "https://cdn.getro.com/companies/259eac4c-cb45-4a1c-8e11-7a8b2ff9cc71-1761013505",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "latestJobDate": "2026-02-12"
     },
     {
       "name": "Chai Shots",
@@ -56,7 +60,8 @@
       "logoUrl": "https://cdn.getro.com/companies/5834c811-89ca-4806-ac06-6f1f51add7ab-1763343374",
       "sectors": [
         "FoodTech"
-      ]
+      ],
+      "latestJobDate": "2025-09-03"
     },
     {
       "name": "CityMall",
@@ -65,7 +70,10 @@
       "activeJobCount": 3,
       "domain": "citymall.live",
       "logoUrl": "https://cdn.getro.com/companies/c13ab628-1d1f-40a3-87b4-b2a82af5c156-1760665299",
-      "sectors": ["E-Commerce & D2C"]
+      "sectors": [
+        "E-Commerce & D2C"
+      ],
+      "latestJobDate": "2025-07-02"
     },
     {
       "name": "CRED",
@@ -76,7 +84,8 @@
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "latestJobDate": "2026-02-13"
     },
     {
       "name": "Fitmint",
@@ -98,7 +107,8 @@
       "logoUrl": "https://cdn.getro.com/companies/cf77a6a4-c643-5733-b194-00841a32fdea-1748395846",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "latestJobDate": "2025-11-07"
     },
     {
       "name": "GetSupp",
@@ -118,7 +128,9 @@
       "activeJobCount": 0,
       "domain": "jeh.aero",
       "logoUrl": "https://cdn.getro.com/companies/f801dba9-fc56-4b5a-9fb3-cd81a36fbbcb-1769219134",
-      "sectors": ["Manufacturing & Hardware"]
+      "sectors": [
+        "Manufacturing & Hardware"
+      ]
     },
     {
       "name": "Loop Health",
@@ -129,7 +141,8 @@
       "logoUrl": "https://cdn.getro.com/companies/aecb599a-f58b-4e81-9be9-214e0d445ad9-1760578066",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "latestJobDate": "2026-02-13"
     },
     {
       "name": "Magma",
@@ -138,7 +151,9 @@
       "activeJobCount": 0,
       "domain": "magmagroup.in",
       "logoUrl": "https://cdn.getro.com/companies/706bc5ee-5b40-4aea-b67c-f04cab24b37d-1764072942",
-      "sectors": ["FinTech"]
+      "sectors": [
+        "FinTech"
+      ]
     },
     {
       "name": "Meolaa",
@@ -160,7 +175,8 @@
       "logoUrl": "https://cdn.getro.com/companies/799e8df4-eae3-4813-836a-c72a4044fc91-1767749870",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "latestJobDate": "2026-01-27"
     },
     {
       "name": "Omli Technologies",
@@ -169,7 +185,9 @@
       "activeJobCount": 0,
       "domain": "omli.in",
       "logoUrl": "https://cdn.getro.com/companies/47ab6a46-2042-4336-9a3f-7ee3131d960a-1766060343",
-      "sectors": ["AI & Data"]
+      "sectors": [
+        "AI & Data"
+      ]
     },
     {
       "name": "Orange Health Labs",
@@ -180,7 +198,8 @@
       "logoUrl": "https://cdn.getro.com/companies/1b21260b-3a0a-4c0e-9493-2f37de8ba2dd-1760837559",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "latestJobDate": "2026-02-13"
     },
     {
       "name": "Primus",
@@ -191,7 +210,8 @@
       "logoUrl": "https://cdn.getro.com/companies/3a455b37-0c05-4987-9706-33c2233d1028-1761528665",
       "sectors": [
         "Real Estate"
-      ]
+      ],
+      "latestJobDate": "2025-11-26"
     },
     {
       "name": "Pronto",
@@ -211,7 +231,9 @@
       "activeJobCount": 0,
       "domain": "raphe.com",
       "logoUrl": "https://cdn.getro.com/companies/33524c61-02ff-4a98-8d2d-2fc24dcc3784-1762911537",
-      "sectors": ["Manufacturing & Hardware"]
+      "sectors": [
+        "Manufacturing & Hardware"
+      ]
     },
     {
       "name": "Shyft",
@@ -233,7 +255,8 @@
       "logoUrl": "https://cdn.getro.com/companies/94576e65-be03-4138-8369-e472e4d6f50b-1760837649",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "latestJobDate": "2025-12-06"
     },
     {
       "name": "Stan",
@@ -244,7 +267,8 @@
       "logoUrl": "https://cdn.getro.com/companies/fbfd926d-e873-4d2b-a6b0-508f6c539829-1761013533",
       "sectors": [
         "Media & Entertainment"
-      ]
+      ],
+      "latestJobDate": "2026-01-31"
     },
     {
       "name": "Stripe",
@@ -257,7 +281,8 @@
         "Consumer Services",
         "FinTech",
         "SaaS"
-      ]
+      ],
+      "latestJobDate": "2026-02-14"
     },
     {
       "name": "Uni Cards ",
@@ -268,7 +293,8 @@
       "logoUrl": "https://cdn.getro.com/companies/3d9f456e-7798-4a31-a4c5-945b16385de2-1761013590",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "latestJobDate": "2025-03-28"
     },
     {
       "name": "Wag",
@@ -279,7 +305,8 @@
       "logoUrl": "https://cdn.getro.com/companies/42a22129-3a54-4692-a0d7-8e3a12c9e12a-1768399998",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "latestJobDate": "2025-09-02"
     },
     {
       "name": "Windsurf",
@@ -290,7 +317,8 @@
       "logoUrl": "https://cdn.getro.com/companies/7d771838-4131-4849-b16c-a8b6098b02fc-1760046959",
       "sectors": [
         "FoodTech"
-      ]
+      ],
+      "latestJobDate": "2026-02-13"
     },
     {
       "name": "XFlow",
@@ -301,7 +329,8 @@
       "logoUrl": "https://cdn.getro.com/companies/cef796ca-4b2c-4a83-8858-c6a21b05b117-1761183688",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "latestJobDate": "2025-11-24"
     },
     {
       "name": "Zepto",
@@ -312,7 +341,8 @@
       "logoUrl": "https://cdn.getro.com/companies/806c6bd8-d0db-44e3-a573-8d0647387d3a-1760837571",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "latestJobDate": "2026-02-09"
     }
   ]
 }
