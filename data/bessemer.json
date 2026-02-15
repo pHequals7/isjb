@@ -1,0 +1,324 @@
+{
+  "companies": [
+    {
+      "name": "Livspace",
+      "slug": "livspace",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/livspace",
+      "activeJobCount": 249,
+      "domain": "livspace.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/866bbe912fa330692fcb6cc53ed7beeb_288_160?Expires=1861920000&Signature=EF14-ro7CM6ZjjHqRWpPi6htkvALdNVoSMtDctFlVkV4ZK5l5p4b8lhU3qZxbIGgR9whCnUCQr1u4PZmj~Hl9CF989~1jwhZ-HmOBRfuRmOZH12LUx8FFT2ZcOREXMhwePENxYgdtWJHQpz1J7ex7V4uSAJM~Z2OV2Y0HFSz7QoQb-4k29DA-HJUgEn9O96nKtoKob0LxVB9n2yO1v~9QJgqBREhspEAH-C2R7i6l6CuUpWZciak9JcIQllyScO8UzTq2UolWfMgjmsDaQHeOT2l5ZDi46uGlr5wbi899dhRtHQ~sRDherJfAKG9Y3XVQsc6y~PGUnclnu7MzaGzEQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2025-06-06"
+    },
+    {
+      "name": "bigbasket",
+      "slug": "bigbasket",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/bigbasket",
+      "activeJobCount": 53,
+      "domain": "bigbasket.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/90ce0fc82d5de553b71deb9283a0cd99_288_160?Expires=1861920000&Signature=E50eaRPFLgMgb-SNPuLEAMvkQ99VYaE71OSQ0pKC3EqbrJ9dimBOecgn7gcm-z5TVXCAQ1Hw8Da3s-dRfiNIV064wRzOi~xnVj0Kj2mCNAQTXvHyG4GtDotdRlkE09vB7zmPv2GCVVgzu1cg4OI~0Re81J9wtDv80KJoWhx~KZEZ4FSagoHIPO9iQRXr8udLqbzODGKTJSoH2ysNvXGshqXLeQWMDWivM1JEwvYAsl4wYxFv9kebxkBiyqeIhAU~VwLVqYlYv4MvES2b7y97yfJQXDlZWg3pyH-OGB5K0WNAT113qS5~jLDbFKAl~VBGCDg5Skjya9abvBwTxsbk6A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-06"
+    },
+    {
+      "name": "Sukino Continuum Care",
+      "slug": "sukino-continuum-care",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/sukino-continuum-care",
+      "activeJobCount": 36,
+      "domain": "sukinohealthcare.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/03072e1375902f32b73f167de4bd8808_272_160?Expires=1861920000&Signature=WRJpSmEtH2mJFc3fHtN1jbsWIyoqCu5kVrSN7B~HEPe83hOQimYKSYU5jxDOzHxkGAmUFWwrDJV22bIPCA8fTBX2m3o3vos97PaoZf3SSYlNlzeQUF098pmiMqR5f9ErqiNlXDJmNoXnkrcg7sxjlw~Tda5FGOPOVSOIoeprB2zftogo06vmtIgWJRMTAqkvU4IDY28RCeUIauGXYT6hXovWlBEv2NS6AyuSPQtjCKFkkwv9RbSx8Vtz67L3poJZqUDC-Q30tRX-KlITP4-qscotmX-NJqDddWJV0V8McNUfxYtbk-MKQeCX4QQScaua2DnpisX6DIlvZvvuSGZyjA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-12"
+    },
+    {
+      "name": "MediBuddy",
+      "slug": "medibuddy",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/medibuddy",
+      "activeJobCount": 33,
+      "domain": "medibuddy.in",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/03bfbd001c26ce02b8858294dc6d276e_320_160?Expires=1861920000&Signature=C1TkWbK5qJwXnvtUBQ-cGzZJJGg5uVd1wh4DNBiyDPDFJjFProYCLhhKZv4Ogk~18cDLK5BRH05xTTkVHuj8Fht7CHrLojdbThiw-61AzNPLmvHP4BakVr5eKRi98yHRzcGPDfeXBEIl-pKddXo--mDOx2NyVS7jdjFXCqx1IpPiT9bCIWeq2EhxYPLYqfb-YYC~Bv9cvGRGCW-n7nMhU~vW1WUIHwDSvOZgtyiiD8KLNkCqJ1E8a80l1J2BUiwSHl2ZocahzUx0zIlc1d59~MTAiJa9mlne2QeNguybQDJx9qrtDmjYYIkY1oNrq8wJKF9Fe549ZF8pZ0AZ7UTVjQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-12"
+    },
+    {
+      "name": "Easebuzz",
+      "slug": "easebuzz",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/easebuzz",
+      "activeJobCount": 31,
+      "domain": "easebuzz.in",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/83a51345ef0df74a2bc777394110b06a_288_160?Expires=1861920000&Signature=Io8JVgZLMcu5Q3cKIUD7biHMe9IvQZ433WIAg5XvLpt6jnFffFhSPab1kv04dHZkNh-TEAZS8c~uzzRZJUzAs2duhb1gt3m~wvjMEnzCwPXYNm3A3jzpbvzTkKSGXhFgl~txxkpRtybS8wK2CtcsQ2sYFmoeJByIO1MdHfDrPseMRRPu6iQJyp6fWauilwIii0G9Dd1p-YFHvYT7uGXjEkHCmH939EBWN5iiE9t0YXP5wvnlcHUNgF0NGlQmK6iiie9NsLhzfd0nnQo4fjyuB6hyJmYyvo0C6MeyBABpRSV5JnN1GSgFsDEljgHk6ZF85gHg~8eAZsWtd7qz1MZMFg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-03"
+    },
+    {
+      "name": "Teleradiology Solutions",
+      "slug": "teleradiology-solutions",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/teleradiology-solutions",
+      "activeJobCount": 20,
+      "domain": "telradsol.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/145dd540ae6294b17dd28dfbfbc161fd_320_160?Expires=1861920000&Signature=L5UWzRQIkdIivuK3maVng74lBVoSFOl5gQ32tkwNPcaDd~ujGHqoka62PovYcZSKrVJdlLwJpmPj10XFHyOF-EEP3nHz5e9MgWoklxtdDZb0PRP~J3cYj8JjIoaKr1ato-599OsOtrNBSFzWnJs7Dxr7nnkVxexXP26GuL-qsTkMq3UItLy1WRRDv65Ov4Ed8JPBLp6M~T7ykFuJtvYj-KA3GFIwZcU-UZ2l0ksiHJ-2DxQhzmUaEHhNwZ85qf~kUXL7St-POVwGsxwciwafWgHiko70RFyiifxmJ5eQa4Qubr40DW74zAIaBHOO-lx3dkvcYtVdnMmg5xtnRkIMqQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-10"
+    },
+    {
+      "name": "Seekho",
+      "slug": "seekho",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/seekho",
+      "activeJobCount": 19,
+      "domain": "seekho.in",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/9d69028832acb87f41c4ea5f60f02217_240_160?Expires=1861920000&Signature=iWZ7puMYPp8ghjIl7t3S3ABUgCnVRnO1-nS2zupZbM1B6vKvP46xpATaMlNHoQJW450PPP3sSebIB2EPyn-c0KQ~DcHuir-7v2tiNkIvuqvnCUQbCe6BZab6Qvut1VTkRO32M020z33X1X5M9PJnTRemm70M9lKQGWpxcBmI4YMF7ors44Nqdla4u9FaL22fHBclQ4CApRoIGAoJRmoG75A5Xk6o9~ESdIDgiY9t5Zybta~kP7QRLZ3ZmfbhRs0~HHeiAhHKh2yvHp75qBz4vHZ0Ys7SfmFd0Jhf5i~mr8lrhuWwAOBpflzXfGEIoBMcuwC-mpcKkBMxU7VuvxJ34g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-02"
+    },
+    {
+      "name": "Aivar Innovations",
+      "slug": "aivar-innovations",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/aivar-innovations",
+      "activeJobCount": 15,
+      "domain": "aivar.tech",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/c3d0a3ae0aea229bbba87552b31af167_320_160?Expires=1861920000&Signature=HoUFwiWYAT3rwWL5V~hm3ST4K5-4~QLStRHf2e8XJ7wk0aT2rc8l2s6mBQyKWfM~U5bM~i3Tgozx52jvSnjYeO-x0niEWt1HEdTPV4WSh0tRfIApCSrFV3lFAFDqQNK9iD5QphLVLHGkgXRnfPJ6rEjofiEt3KDA2f8OtCscW5U0LswS2rY3w81zWrFtNfUy0KS5VpatICJD-akCTUTGHDEKEqzus7oKdem53FOsH27gzv9Cbj-~ishshvkNmOiR~~BwI8hQ0c6Xdqq1A6OybKDXk4g3y45AHzAqUhdPoFob7S4aSGHjEie34tWXQlLSpr-nAMY6OXzWxTQ6UoR6HQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-08"
+    },
+    {
+      "name": "NephroPlus",
+      "slug": "nephroplus",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/nephroplus",
+      "activeJobCount": 11,
+      "domain": "nephroplus.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/5ee6b91a4626b36a5b9fe9ef70a4667c_320_160?Expires=1861920000&Signature=MoAcn~lZPy4KpZnwDO7vbonMJNCotHNyWym~V-EbV2~a2j13cqLPqCh6zFZSnjXEfreL-48IALhawEEnjJBaNWHoPJP7M521n~SeuRlBpQByNo4VBhLhSEPZTwDjrMZ6Hh-CqOtIWdzyh6CsSns~-0ZEkfdyuk5fwPCe3vwd0-NSox4LMzNUc96X0uV9eXkWHDhrqjQZSbKRxgjamlhC0KFOUYBOjcaDV2sl87F~uLBRbu3dLmOmN2tBc-YYDpMwSUNaFc8nbrIJ6N7xeeZAc3uR~XjzV2X4xdzQ0D5moDKefObigLbvx41RWkvkO7rFseYkPVZeFnYapSftDNVH1g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2024-06-26"
+    },
+    {
+      "name": "Anunta Tech",
+      "slug": "anunta-tech",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/anunta-tech",
+      "activeJobCount": 10,
+      "domain": "anuntatech.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/76060d730107f75ae4d34194e551a268_270_160?Expires=1861920000&Signature=RcimJG0m5B-MKeHmHNqcDKXCj9L4~0v2ONKRqwPGBEifTwGK-pSzDbyAFGWZUNQpSryCodOJl8RcFV8wV8acYt5Ydi8zborbVfctAsqeD1BYdiEms~BeOSPlKQxFSg3PFITt3LvK5NYnusobtEIlQlsXXBeOpDrwxlqlaNr4WTs63DefYeBjsXblgzyNHa6~6XQJOyQ0XM8xOW9N4kbP201I-8079WsQdbmptXj4LhJ-PE9brKwkG2gJ4drCXzUYgULlmhIXh8VvmO~E94Jyh8IJ-nepIT9tKA6uCnzXlKhtJreOmGBBpihCQIEuiaCHbs4E8V05eT61~8R~a9iAxA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2025-04-03"
+    },
+    {
+      "name": "Pepper Content",
+      "slug": "pepper-content",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/pepper-content",
+      "activeJobCount": 9,
+      "domain": "peppercontent.io",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/fc98b3a91003f04315f829f9610439d6_320_160?Expires=1861920000&Signature=AlQW9PUpQF1LOk8sXY6AmnFCfeJSftDKm5tGvw0nAKJX~5KWlZutJyQXMdPjqKwUy1lMBM57unuxVoLHeLwU1DKw0H2ASpsezSVFJlrAN7y6IQQ3hvbnxxeQELvdE8vckY2u-uUlb6-LfvdR-D4W84ozTseLXKgdAiquJCGLSJ5MCfxh-QtWGo9tpxol7QfOvrECzUtW18fqIOnwJ0vdQZTDWu2Zwam3lli1V5FwABEIQT12gnyvZA2cmv09RXZdV5~k2U9ZaqBSmc4njdIdTzBAFaUSZ3m~7nVTDIL887GvU9TFWNUZzk~WcazdNjuPw~npi-D6I2ziYFj3teWsEQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2025-08-07"
+    },
+    {
+      "name": "Vetic",
+      "slug": "vetic",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/vetic",
+      "activeJobCount": 9,
+      "domain": "vetic.in",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/fe0a6200e4e7a1ef3ca960a37a75fccd_208_160?Expires=1861920000&Signature=ct7vOJj0RD08frfB5AD9lQVW7orgNUCLcrPy6yEA4pgecwh7DXrTaaf3a4kHljTiuYZDOn2hcYfcngRfqkmwNYoiYyHq1yiib4CCWWLJlcnuNKdglc-~JCVAW4VuzTD4-LSD7EoBo0w7Ta9D9fbSH0O7dXMDBLeLLewmJUCcqSh857Z~aevdtWROxwzQAAfyZKUo18EdYdD6GrnmAxWptxM9VWDsZj3mPf3lhTRUPZ5AuiufvlBlx0gY1YUYf4orMcmFbEDJHIl5A0KY40KgVcxhxgqZ3lPhp~qmOzttApyCLk1ghTDphExeYQ-UzRvW-C5GunZggVmkq7iSKmJtCA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-11"
+    },
+    {
+      "name": "graph ai",
+      "slug": "graph-ai",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/graph-ai",
+      "activeJobCount": 8,
+      "domain": "graphsafety.ai",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/9445c28b77f74ed4b4529cea8d976e4a_208_160?Expires=1861920000&Signature=azDP70TWN~exAHFWQrZSD~qQR-9luislztCe-4WaWCtntSSEQaDT4JYg2nxMW2~0xkhzQ9gkkySe6C~B9b~j1-aJPtC47eues2ijSFAEV9cv43oAxjvNQiE0KEbsRYukdgi~72GhtL3mMS2adWvgpYYPpcUIeOiG1byETVh~0HYuHDZZhMgVi4RE4XLWcnE6s1TAB3j7ax-p10Z7yZG--dOJ3NF9TcLC5j6kI8qJzzXRZ6cetSa74Cne6RuyT9jUG8r75fROeFpCsTuwFRcP8NTr7Kf5Ac6LmRSHP~wMaFF8eKkEDr1wPviMGhcfKobmhQ6jOtEoxKizuuYjokXHuQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2025-10-17"
+    },
+    {
+      "name": "Plobal Apps",
+      "slug": "plobal-apps",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/plobal-apps",
+      "activeJobCount": 6,
+      "domain": "plobalapps.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/d0365816b0a55718b0e8431898dfe307_288_160?Expires=1861920000&Signature=jhh7S6wTxMkHvyO0XquEJxahBpVHg1sqLKHgmqwO7aJX29LfpYCX5lYuPdvBtryZUKNi~jpSZuKv2OXWV3tbjZp9I7b8a3Qh29yi9yqugU~zt~1gNeHZu-97daMpABIz2Motm7g8soOsYx8na~Fe0iWd1OdtYxstY4zzwCg~QIiHYcdwL2vpyIYNwmwmEkD2mqqhHj3aWaHEmRt-fUASYIOJeRhq9DXpRjPUvaMsJHTxDvUPNzRGHEnhjZ45VSSndqt3QNiCQDyhr6Fb0QjjG6kjuMivGq8ddR7cgg7JDMg6I49CGbYByYju5HhfO~88SvAzd4eT69dYxLLvytAZ7A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2024-05-13"
+    },
+    {
+      "name": "Protectt.ai",
+      "slug": "protectt.ai",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/protectt.ai",
+      "activeJobCount": 6,
+      "domain": "protectt.ai",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/98fba8c09ef96c6b3235d983837d59d3_304_160?Expires=1861920000&Signature=VDWrN1lyk7-fWwKUl7ac19TYabDhEdu~HvOkt~tNSy4cTPlxjWT1HV41-XQ-PqLLE9CgP1DLYRWr4Yp8lB2~D6UCAhzcDvupPxNgCrMZbcRXYG9YQXHt8oyi48vRE9RjckY-68ZMtY3wHLmgDSAGPv6MDbj6H7yV9h6ei0e4q1FRmWriY4efU7JZbM4n5vKKJrQFDFuA7fCcSqHEEHJoY03ZAipuX8MKsg~jvf4lIa7J8-yLk8QJwCU9egkGGQ7vm6yd-FtuCJS0Q41hDLduJMZ3iKIKDkoVKxmiqrkXk2aA1feteBNLKU5fRU5x0ytoyUDjAuDa7b6Sun6UCgYsmA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2025-04-01"
+    },
+    {
+      "name": "TransBnk",
+      "slug": "transbnk",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/transbnk",
+      "activeJobCount": 6,
+      "domain": "transbnk.co.in",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/660d66ae1ca2cf68714e6aac246c0be4_288_160?Expires=1861920000&Signature=Z0fUc72G1mz0wxRmgUHsmj6wp~tY6VRChakIIJMd~6kWtDd92RLocyO1i8bTJZfD0im4XBKq-biVjae5JzCchW6GPyGnEhp-qgP6o7f-emV3T4y8QzKUxhG6QMt3pPK3qxJtbiIDqV1dCEjCKVxYgvCv26cErinXKlSmNNdsDmf9ejdCBhgcXwdCPkcSMvVH4ZwijeVkRFuQUTk6Ppkakc9wynPH2epHKbPVtXInQLvM5MjRoXLZNTyAZ7PFwiHozmbFhdz-Ys59-kf9w5HmRD8B6KZVSkU62fqndPD~XWszqoCc4mYjGMIIvEO4ZfZtSt4inYIxWZWJPGlg8Uwf4g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2025-11-14"
+    },
+    {
+      "name": "Perfios Software Solutions",
+      "slug": "perfios-software-solutions",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/perfios-software-solutions",
+      "activeJobCount": 5,
+      "domain": "perfios.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/c940ac466063dd458956a1fb272e3751_192_160?Expires=1861920000&Signature=RzHEDnOTH53FuSoNV1FlbRs0EXSR0WUFJtvFVvTH24DDaWT8dBdF0dq2iFahrXEK4dUdli8t4BGS5fJ~8KUE1qok1nKq9ytHiCPgDaQpe6Y-I1vqigmp1ZLk1gPwXz5q58jQ6SAtbCBPcMG11w7ViU3e7Gtsluhq8d9K8FbGWEHUwRJ8fv3ZLm5gaDJFn3MCmdGLdLQa-bnCEtvieU9RYhXPFRiMfGqHfH2-~NjLFvwn4bU7cJ7AveUyMT0meNlbB7oF~FfO218HhZuWUGUVkwK5k5AHcLZd1i3AEVXYSR41mZvkjizzAexpazACWj~h-AsVp3OrSK0x0qG-au9eFw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-10"
+    },
+    {
+      "name": "PharmEasy",
+      "slug": "pharmeasy",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/pharmeasy",
+      "activeJobCount": 5,
+      "domain": "pharmeasy.in",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/5e65b0ee729278c21cbc9ca002a8ebe4_256_160?Expires=1861920000&Signature=CqxTbGPx6WruVwojNWkdfaHf9hmybXp54bGp5Pa88aOjVrVQcD3-gleJ9sKHF8yxSCNNEwC7UiSN~5qv9qY9ldpfHtXs7bTvPM9F90YmtRiGpmuMlKmxrCQRGy-Nf9nyGPK1KznOUdGYb03IualhXoEFNacJCuq2K017AiTBjBgF-t4TTyOoH7sSH8vV62SbW9OuYMgTLt-Ye8NeKaiCbIBZcI94YpdQIqjFGerJV5~wQTTsrJd7H4-ffHySA6DhEpWKmC44p2AJovVHlE1E-JdJSoTc6jT7rI9zjbVav3HC0Mv5RTgLEWGnvM32zfwhHFsETFy9E4KebGTPjuGhQg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-01-16"
+    },
+    {
+      "name": "The Good Glamm Group",
+      "slug": "the-good-glamm-group",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/the-good-glamm-group",
+      "activeJobCount": 4,
+      "domain": "goodglamm.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/f50011a7b69ff27dc6a3b2866bf90103_192_160?Expires=1861920000&Signature=AlBvZ9qmYEatY1K5lVaTshtrn6sxjeFcHYsKQvJ6TSeQXqByuzSMST-g1giHaJOvgzdGalWrDvIO71JF7FdiYZbBgynONaCSGLGAYR1iLG6nNfTrLZ95JbH56x1gGv1V-xO504lgCOudv3-lnV~3mK8pULYKmHLYLfvCzTjIm8mYac9bjods8ZXcH2DLsQu-~FrupW1B5uI5GY8rPDytjkuUbZ4rz5MVFi~GiEBQKWy9p0EZ3uvHPoMFivEiAsXsx9wIxFKpuytVCX8fbXGlk4qK5KT7xWxiyMH6rIsitpj5T4hytxd42ryPoEUo~141CyeEF0qDtvNvf8xUHsTVRw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2021-11-24"
+    },
+    {
+      "name": "Innoviti",
+      "slug": "innoviti",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/innoviti",
+      "activeJobCount": 2,
+      "domain": "innoviti.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/2be66f736b2c486bb9e61030db101924_288_160?Expires=1861920000&Signature=ry31keVmnPGKeEBARS2Zb2sQ0UJbwABiyPu71CppeHTYQFNQB~xJRtjrQZcOrWwEJIgBQTpti3j7qPK3db-IFJH2q7r56g1bZLzQCg2~pLAs4JR9~ej3OQ1CpBtg0CXdltIaLf-aG0tXG3BmxQ0HOBrQ9zxuhcoN9zjgrJ~e0cNF9tagJOp8uQ7fihkiBF6B7DgpwB9KltTBkeOeyTfTN1VH67S1Iwsm7oiL4Dwyj4yncOhJJEx0JPMHjDbAkbpCzP6b7n9g-0RmO~vtzLGviWrCdCmIpUJMIJiVeCquzNnB~Qbh0QW-lNnhw5A1YsZ3EAZpGFeGpcqUMClXUVGwPA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2025-12-17"
+    },
+    {
+      "name": "Lentra",
+      "slug": "lentra",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/lentra",
+      "activeJobCount": 2,
+      "domain": "lentra.ai",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/54b9ac98163ad62e6a6f83d550ece423_240_160?Expires=1861920000&Signature=m6U2h8dp78z6iUX~jdMPk-3MbpGdQJLrPFS9iZ3guy55NPZw-H-5MpVEHkiuc~kxHBDDUei08mesVMlNvfYaCJrP9BkZsKQHb9HjzdQE5eAMSSkdPm1LyCdNlgiFeS3eEee-Cl6QU7c2l7PWTiSkcMr-xSZujJt0a1~FVgai-kR49wADY7r5fdtGqnVIfzQq5ymLS6dgEDHDuRuyBuYCot8r-GhaKmyo7LItOoopzxX0MGsgc4eIj0FHP~vobGWo0nONQrO8YxD9yz4JY8YCd00r2HJR7N75LDeJz2i4IMhL-9fzkMK1G1-bbNJHV-9IsT02J~WqcpUIe3BUMosS4A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2022-04-05"
+    },
+    {
+      "name": "Zenskar",
+      "slug": "zenskar",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/zenskar",
+      "activeJobCount": 2,
+      "domain": "zenskar.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/5d057e3123ef7f0ed2bb3a3d6bb1d1c8_224_160?Expires=1861920000&Signature=i0zImF1~j3I37cjyWSE4db9~kzWn80MphH1m3XcLsb-y-Cy4PWGYoHjMpZ9GjwM81k46aQdVpQSbAR8UwxEjGzXR1S0JfdIUVJ3taqA92X8VLzR2JxxB5dGx8aqTzwsItirPXZs80~3Qqt7d~7iUk~RVeMpnw8zmdvwOIDDvQc80-Ob5LLlehQ2Uz~L8177yH6C5SAqw3lB2adqOIsg0HenUjz~FwQVIGcf98LUU3QpTKDl15tMvvSisOc6nmhjli82zhWL02AHUx~xn-TKNcfb6jsglbhJtj-KEKuHTQENdb4LvYmYfOYVkZq036YdDBdgc9NR9xpPpj6kR5sNacg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2024-07-16"
+    },
+    {
+      "name": "Nova Benefits",
+      "slug": "nova-benefits",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/nova-benefits",
+      "activeJobCount": 1,
+      "domain": "novabenefits.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/b23b37856d230a12477e82e8884cd0bb_256_160?Expires=1861920000&Signature=te52VhHWvPeSPpEo8KQLUGdDBNqpj13Jibh2VUbQJR88j0FBQqP4rNZ13GjmIGCJObgwT1Bi8X2Hwrv935PqfDWtWwKbMKtxE7li5lxfXtFL6NU1-RAX6OFU4fl4NFDSZEUIxn195o2yB0VHb5g7q0gjb35Uh-QwzWs-sPtX1395p5UumWr9BaSVcVno0DZm6QJdDVDU-CH8JOQjo3w1EihJmdmZZqF4N5rTOGoI2Pcj5MZmA7jTO~9tR5uXvHu4QxkTLEL2OUVbU-RHsBlTfALEVXB6Iuk7LyW1oP5v5LXBNgUK3PH92~~1SRx5Z3OGoi0zES~SXPGDg~jHw2BdgA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [],
+      "latestJobDate": "2026-02-06"
+    },
+    {
+      "name": "Boldfit",
+      "slug": "boldfit",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/boldfit",
+      "activeJobCount": 0,
+      "domain": "boldfit.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/e7195f8b9c5a95449be47b098af942d0_160_160?Expires=1861920000&Signature=eff3~0WJ4P6~3dyMjhApXcH151sQHvMFQy9Rht7lAV1C3A~VmkMNz7qk8QqGSCTxqrYzVPynC~UF~1B4gnWooQ1seF3DKjzPZN9Q6r2VTeyICFnLoQexCI3dQYcImVn-Efd1uOudZmEmMDXNuLUukUPG-QfbfqRWgh7WSXaSuU6W1QJUC4SeOmoVOmgtmO0pVygHRlwRo2UqTY24IsQ0feBDoFa5tGGb1fz8ujzM5XpWjwK9-hAhmUdUVCPJSnDe3sa47TiiGzdJkFvl8Znm4CiIlcOw4UcvUHQO6NG4fuNILJw5l9zxJiCkUDYn1h527y3z5rFfnuKFUXWBYGTsOQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    },
+    {
+      "name": "Cashify",
+      "slug": "cashify",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/cashify",
+      "activeJobCount": 0,
+      "domain": "cashify.in",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/38999723d8d375d8ffae0c4aeae98e4b_288_160?Expires=1861920000&Signature=iotPMd3d~OR3Qh1VFQ2Te~dacx2SSvPBCrvijr8t9z8QbUqAP4eft8NDdQ4ljNG-qbvI8uCD-Ld8I6zVheWL579YxjkLVLMa8PnKiSVP6y9NsGNlRq9gBBa3seg2s7pPF4zpAbtlL2f3aM0MEslSaxtM~aUrelT8182XibfjtD5YRwPnxXpcXhw-7Uqbaauv90kBEyrIH2ECzL2Uf-bVpjHpX65KZpSxIrQi0Ac0npfFXFgTIn6o-5YkmRy5vTBNDswE4zmC6eqW-NmoguyfmTxhkAp~KJB9d3IViRo5nI-KDcf-oiEboMLm14f-XGkM13KuumDaJWEQCR6WWGFYtw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    },
+    {
+      "name": "Hungama",
+      "slug": "hungama",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/hungama",
+      "activeJobCount": 0,
+      "domain": "hungama.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/6d457053fe04899c14d31bbd3b275c5f_288_160?Expires=1861920000&Signature=Zek49C7iOxIz1dFB38EsE5cOO9baCCXxnwLPmCO1TqbpjkVnAlMKiO7llru90x7nlF7cCEuFHrzs9dLNi72AuV0sijPOHUM96-gc0ERG8GuXt0mh4JdrB8uoe2DXkHRlVW04ivHFGVng0y2fliVi~Umx0Ttl484B1~iBMLNgaxEszmo~QD-tok7GDjuTVJSY8fVTo7wF7V3ZIs4adWQ4~qFSO2ALIE-hc71FbuJnsy8HmTe4wcVwtUm37Dr4nI8Viia0NmW8nlRkvNu7zQgpToCTKiJCkb-jDaDOuHtdNTLxgrH0UApgJxvlP5nQR7TOH-A6MhVp0TR~za52i~SPNQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    },
+    {
+      "name": "InRisk Labs",
+      "slug": "inrisk-labs",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/inrisk-labs",
+      "activeJobCount": 0,
+      "domain": "inrisk.insure",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/d35d7c98349a5cb9ffe0277388b0f63c_292_160?Expires=1861920000&Signature=Nzz~kPTJCUrgcvqwoh0MqoFGfAiWQguVSkjuhovDlXyurN34eesuy7JbOyiNoGNJz-b-1f0fEGgwxTowWsOfa5Dd5LK7IelsgaQk9oCNg8UIg8dJVGCJ5qCbXXzf3gFV0tXSLWW1Hyv-PB19afPs~-1BSODw5-VEoatg~H2dkqcHgCFz5-rmwPgvhpalf8b9yZy5wtLkJc1BmGRpSXz7BBA5AJjbVWFwo9t9onQzrygjQiT8-tV9jK6dE8WZPg1hCzaMtEegXlKKdYzzo7JjkYTtMlacfJSD0T6qhH~N0tOGME~6MCJ8DwLNG8lMeWRm1qy50fcckAeja4H6cXLlPQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    },
+    {
+      "name": "Leena AI",
+      "slug": "leena-ai",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/leena-ai",
+      "activeJobCount": 0,
+      "domain": "leena.ai",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/fec667faa149a2f082dd8ef66d8ca919_240_160?Expires=1861920000&Signature=OPINVi7ATMsUJkFABt1H8VhLGxrmwcj0ab4177qEYs2Mm5cd2WGflmenNTnHScUKvs-OKGWtBl-o27KSk8yKnFE9Vz35QcV1dzoQhDeATpysOQeHPJ8fSOnGZLqHwbBc~9Yva4xlJVQk-Os2Y2iH8hnOJgjZzCXKcjSBJ1XknMbuKBIs~8pt9X1H8mGwrqG0Du6HZjgQxhm3IrJwDCKTwy6B8ODTcXBjjyvfSK4-372Gsl1GhabB0OOGpA9OFxXB2CKvlT4C54w-4O7009ANf-QIVmNuWgoZtWV31lZ7hQI~5Sgjo7jQ0FcYtiauIapygW98Eqe9pSe81GD3JrZ-Uw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    },
+    {
+      "name": "MediSage",
+      "slug": "medisage",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/medisage",
+      "activeJobCount": 0,
+      "domain": "mymedisage.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/484df8acb09c8ccfa66bacbee3a8be71_272_160?Expires=1861920000&Signature=A6HT0gOUirXt3kFgXfrH7HEXEBuTa9e-h0~ZC38lx3FCY-gYzpaKuazO1E7SZ6oWRdXg2oNbZ1qbuPOVz50d9dPXOJvcqC8QlupnDys6tYq6rqdNYzRoYIGPvs6ufgv~uJ18SJDmj6pJK0dkUb~8u-KXSlMalodULPp5ZNxiXec7I3ZY3ToWofRGBWQZlmXhXvd~KNoTzvamhvsewwyZl1fg0JCIWWNkNCP8ywW7dBrCKIdcr1nmFbHhR2p55dHKXT--cwrehAuTZypd8UhQtr5Q1oUKIqpKR1rnvw7yjL8-K7~64tZO9iRWD5-N~UXQPOvdlE3Kfc0FPEygF4-dpA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    },
+    {
+      "name": "MoveInSync",
+      "slug": "moveinsync",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/moveinsync",
+      "activeJobCount": 0,
+      "domain": "moveinsync.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/85d7d61ab86c26b7e9ab2771300076a5_208_160?Expires=1861920000&Signature=n2L3ugAN6eguUtCoS27StTTz6rQa4Cni9x6lCeQRJcLiw3URJ52VwZjmPSr2yVjQV4SWbV9RndX3TWrvqWPBuJ6xy3Gm8UaA5kBi~q1uxCQldg0MI-Jlr-QEjxDeT5NppTkGTGyZligkhIze0~l4MsvHaxTSUv7PdnRXjuxk9SZVl8IeKhGzKo-JEkUKQCzHWmiTumyToBCaH5~mGe89aXH7CQhdtJxmB~VyQwrleaa0Wq7CDWBxYr91R3tadzhIAcfKyAfxDbFmNBvr4-IynfegXhFRIEsaIffPJu~iSNeKwmtWkFj~K5MBUzlQYbFzGpcj3fKcGB2R5ijlJaG4OQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    },
+    {
+      "name": "Pluro Fertility and IVF",
+      "slug": "pluro-fertility-and-ivf",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/pluro-fertility-and-ivf",
+      "activeJobCount": 0,
+      "domain": "pluro.in",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/0defc887889e36424b773b74e299daca_192_160?Expires=1861920000&Signature=iUCFaOjNbLpiPlbBG13gBjJJ98u3vaGxy1UYToM7Q-0WxR33p0c2UJsmDGdzQ9u-VUvtyysV1eZORqi3vfYANfAjjRAnIRl2P6PYHjMffpksMlKZpeEGGxQ4Tl6s6sfFjwHS0Z7eDPYEB~O37-pbSVN3klMq5bJQb4gbbihKUH-mF0h1jxrNf83DwihZQPHaNlc9PJ2R6AR0GTIzD4PupPdzgjeTb5vhAb4yXUAqW~vHk7xeXMMmNxSf3~9xu32BahXZT1hY4EPreNkABS5eUUqary3Sn5SP6j6fk9upOnnQbqbA~scl5QDFjPsFJLTDg-a-sTR1u1X~cyRWkpeZ7g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    },
+    {
+      "name": "Rupifi",
+      "slug": "rupifi",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/rupifi",
+      "activeJobCount": 0,
+      "domain": "rupifi.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/68f1ec73da177b94491034f7183064b0_256_160?Expires=1861920000&Signature=km6OZ7gcHZxQKc8sw-qM8SxcGJQZ3x5a8yAYfrPnesg~P5jcjH7ou-6kuQz2viY~5seZ1sGFs2ymOMHq21GUFBJF2C7UZzV6F7Fe565fKsEYMRcIRnFY1-WcmZjgxyQw~Y0aqzszF33Q0Z-aPJX-f-b2tOh2d2wWI3HMDGmwZ6xBfWWInanfXrMSMFQw-ZBWCEOA-izHY2BDswes7WcYvG0inzzm6SBcB0TDBux03S4L9vQWqTzhFeI2d6-MwSUcMXTEgq7QfhEAqEvfa8c~H95WZiH~3tdDv4MBrYsEoxAqRMDB9usw4tHfhyD8y9dpACTO6jv-nmrUp4QaEdfkwQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    },
+    {
+      "name": "Zopper",
+      "slug": "zopper",
+      "jobsBoardUrl": "https://jobs.bvp.com/jobs/zopper",
+      "activeJobCount": 0,
+      "domain": "zopper.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/e5b5df3496a927de3c18fe4f79c365df_262_160?Expires=1861920000&Signature=JZZm9xksMsxeOSPknf386TNMZBU3eLm8KvZ1aBnxQna1sxp~xgRdFppKg6ifviZsXqhaDZY2RA-XZNaFh5tNT6eeiAaFq7bO5GNltL6cckAZ1v1BrLbNKyyFCWtgnj9vNKbh-dd1THNsjlYhxUnN63tydWBAPHP19ilWZlKFIO5FgfiJMpKSMIAnden2dIdC-gG3Fji0sLV4fkZZqPuQ-GnKfyY6hijWsXiDgb~nm4HoV3gZe~qaEgxZ5mmhrkxG~XMvXt3DSnD0JDq4k-arkgum~gD8wHAldPpNnR5AVmlOnAu~N85K0rctP3FWatLSc6s4yxjhp15lGs5PulJ5bQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
+    }
+  ]
+}

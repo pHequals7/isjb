@@ -18,6 +18,7 @@
     { "slug": "physicswallah", "exchange": "NSE", "ticker": "PWL" },
     { "slug": "capillary-technologies", "exchange": "NSE", "ticker": "CAPILLARY" },
     { "slug": "bluestone-2-1dabef42-ddfb-4675-8f7f-527d771fac69", "exchange": "NSE", "ticker": "BLUESTONE" },
-    { "slug": "urban-company-2-1b07cc2a-6c2f-410c-971e-1e150726b8e5", "exchange": "NSE", "ticker": "URBANCO" }
+    { "slug": "urban-company-2-1b07cc2a-6c2f-410c-971e-1e150726b8e5", "exchange": "NSE", "ticker": "URBANCO" },
+    { "slug": "nephroplus", "exchange": "NSE", "ticker": "NEPHROPLUS" }
   ]
 }

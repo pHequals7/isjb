@@ -37,4 +37,5 @@ export interface VCFund extends VCFundConfig {
   companies: Company[];
   totalCompanies: number;
   totalJobs: number;
+  freshJobs: number;
 }

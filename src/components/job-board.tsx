@@ -76,6 +76,9 @@ export function JobBoard({ funds }: JobBoardProps) {
             (sum, c) => sum + (c.activeJobCount ?? 0),
             0
           ),
+          freshJobs: companies
+            .filter((c) => !c.isStale)
+            .reduce((sum, c) => sum + (c.activeJobCount ?? 0), 0),
         };
       })
       .filter((fund) => fund.totalCompanies > 0);
@@ -86,6 +89,7 @@ export function JobBoard({ funds }: JobBoardProps) {
     0
   );
   const totalJobs = filteredFunds.reduce((s, f) => s + f.totalJobs, 0);
+  const freshJobs = filteredFunds.reduce((s, f) => s + f.freshJobs, 0);
 
   const navItems = funds.map((f) => ({
     id: f.id,
@@ -120,6 +124,7 @@ export function JobBoard({ funds }: JobBoardProps) {
         totalVCs={funds.length}
         totalCompanies={totalCompanies}
         totalJobs={totalJobs}
+        freshJobs={freshJobs}
       />
       <SearchFilterBar
         searchQuery={searchQuery}

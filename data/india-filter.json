@@ -37,5 +37,9 @@
     "slugs": [
       "daloopa"
     ]
+  },
+  "bessemer": {
+    "mode": "denylist",
+    "slugs": []
   }
 }

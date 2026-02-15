@@ -21,9 +21,10 @@ export function Header() {
             Indian Startup Jobs Board
           </h1>
         </div>
-        <p className="mx-auto mt-4 max-w-xl text-base leading-relaxed text-primary-foreground/60 sm:text-lg">
-          Startups raise funding from India&apos;s top VCs to hire talented
-          folks like you. Make their lives easier.
+        <p className="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-primary-foreground/60 sm:text-lg">
+          Startups raise funding from India&apos;s top VCs to hire talented folks like you.
+          <br className="hidden sm:inline" />
+          Make their lives easier.
         </p>
       </div>
       <LogoTicker logos={logos} />

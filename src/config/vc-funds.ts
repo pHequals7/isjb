@@ -51,4 +51,13 @@ export const vcFundsConfig: VCFundConfig[] = [
     color: "#14305A",
     logoDark: true,
   },
+  {
+    id: "bessemer",
+    name: "Bessemer Venture Partners",
+    logoPath: "/logos/vc/bessemer.svg",
+    jobsBoardBaseUrl: "https://jobs.bvp.com",
+    platform: "consider",
+    color: "#1B3A5C",
+    logoDark: true,
+  },
 ];

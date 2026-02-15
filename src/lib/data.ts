@@ -99,6 +99,9 @@ export function loadVCFunds(): VCFund[] {
           (sum, c) => sum + (c.activeJobCount ?? 0),
           0
         ),
+        freshJobs: companies
+          .filter((c) => !c.isStale)
+          .reduce((sum, c) => sum + (c.activeJobCount ?? 0), 0),
       };
     })
     .filter((f): f is VCFund => f !== null);

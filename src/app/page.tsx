@@ -5,6 +5,7 @@ export default function Home() {
   const funds = loadVCFunds();
   const totalCompanies = funds.reduce((s, f) => s + f.totalCompanies, 0);
   const totalJobs = funds.reduce((s, f) => s + f.totalJobs, 0);
+  const freshJobs = funds.reduce((s, f) => s + f.freshJobs, 0);
 
   const jsonLd = {
     "@context": "https://schema.org",
