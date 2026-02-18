@@ -4,7 +4,28 @@ import { readFileSync, writeFileSync } from "fs";
 const sectorMap = JSON.parse(readFileSync("data/sector-map.json", "utf-8"));
 delete sectorMap._comment;
 
-const files = ["accel", "gc", "peakxv", "lightspeed", "nexus", "blume"];
+const defaultFiles = [
+  "accel",
+  "gc",
+  "peakxv",
+  "lightspeed",
+  "nexus",
+  "blume",
+  "bessemer",
+];
+const fundsArg = process.argv.find((arg, idx) => process.argv[idx - 1] === "--funds");
+const files = fundsArg
+  ? fundsArg
+      .split(",")
+      .map((f) => f.trim())
+      .filter(Boolean)
+  : defaultFiles;
+
+if (files.length === 0) {
+  console.error("No funds provided. Use --funds accel,gc,blume or omit for all.");
+  process.exit(1);
+}
+
 const unmapped = new Set();
 
 for (const f of files) {

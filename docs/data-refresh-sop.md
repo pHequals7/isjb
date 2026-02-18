@@ -185,6 +185,40 @@ node scripts/validate-consider-urls.mjs
 npm run build
 ```
 
+## Automated Weekly Refresh (GitHub Actions)
+
+The repo includes a scheduled workflow at `.github/workflows/data-refresh.yml`.
+
+- **Schedule:** Monday at 06:00 UTC (`0 6 * * 1`)
+- **Manual run:** GitHub Actions → `Data Refresh` → `Run workflow`
+- **Current scope (Phase 1):** Getro funds only (`accel`, `gc`, `blume`)
+- **Output:** Opens/updates PR `bot/data-refresh` only if tracked data files changed
+
+### What the workflow runs
+
+```bash
+node scripts/refresh-getro-ci.mjs
+npm run build
+node scripts/report-data-delta.mjs \
+  --before-dir <snapshot> \
+  --after-dir data \
+  --funds accel,gc,blume
+```
+
+### PR behavior
+
+- No changes in `data/accel.json`, `data/gc.json`, `data/blume.json` → no PR
+- Any changes in those files → PR is created/updated with:
+  - company count delta
+  - job count delta
+  - added/removed company slugs
+  - top job-count movers
+
+### Known limitation
+
+Consider/Bessemer refresh is still manual because current scraper relies on `agent-browser`.  
+A CI-native scraper (Playwright) is the next step to fully automate all funds.
+
 ---
 
 ## Configuration Files

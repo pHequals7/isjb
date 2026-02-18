@@ -1,0 +1,86 @@
+name: Data Refresh
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    name: Refresh Data
+    runs-on: ubuntu-latest
+    concurrency:
+      group: data-refresh
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Snapshot current data
+        run: |
+          mkdir -p "$RUNNER_TEMP/before-data"
+          cp -a data/. "$RUNNER_TEMP/before-data/"
+
+      - name: Refresh Getro data
+        run: node scripts/refresh-getro-ci.mjs
+
+      - name: Build site
+        run: npm run build
+
+      - name: Generate delta report
+        run: |
+          mkdir -p .github/.tmp
+          node scripts/report-data-delta.mjs \
+            --before-dir "$RUNNER_TEMP/before-data" \
+            --after-dir "data" \
+            --funds "accel,gc,blume" \
+            --out-dir ".github/.tmp"
+
+      - name: Publish report to run summary
+        run: cat .github/.tmp/data-delta.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload delta report artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-refresh-delta
+          path: |
+            .github/.tmp/data-delta.json
+            .github/.tmp/data-delta.md
+
+      - name: Detect tracked data changes
+        id: changes
+        run: |
+          if git diff --quiet -- data/accel.json data/gc.json data/blume.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create or update pull request
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: chore(data): weekly refresh (getro)
+          title: chore(data): weekly refresh (getro)
+          body-path: .github/.tmp/data-delta.md
+          branch: bot/data-refresh
+          delete-branch: false
+          add-paths: |
+            data/accel.json
+            data/gc.json
+            data/blume.json

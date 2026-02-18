@@ -10,7 +10,7 @@
  * For Consider-sourced funds (peakxv, lightspeed, nexus), the API doesn't expose
  * individual job dates, so we skip them.
  *
- * Usage: node scripts/fetch-job-dates.mjs [--fund accel|gc|blume]
+ * Usage: node scripts/fetch-job-dates.mjs [--fund accel|gc|blume] [--force]
  */
 
 import { readFileSync, writeFileSync } from "fs";
@@ -26,6 +26,7 @@ const getroFunds = [
 
 // Parse --fund flag
 const fundArg = process.argv.find((a, i) => process.argv[i - 1] === "--fund");
+const forceRefresh = process.argv.includes("--force");
 const fundsToProcess = fundArg
   ? getroFunds.filter((f) => f.id === fundArg)
   : getroFunds;
@@ -48,54 +49,48 @@ async function fetchJobsPage(collectionId, page) {
   return res.json();
 }
 
-// Fetch pages in parallel batches for speed
 async function fetchLatestJobDates(collectionId, targetSlugs) {
+  if (targetSlugs.length === 0) {
+    return new Map();
+  }
+
   const latestBySlug = new Map();
   const remaining = new Set(targetSlugs);
+  let page = 0;
   let totalFetched = 0;
+  let totalCount = 0;
 
-  // First, get total count
-  const first = await fetchJobsPage(collectionId, 0);
-  const totalCount = first.results?.count || 0;
-  const firstJobs = first.results?.jobs || [];
-  for (const job of firstJobs) {
-    const slug = job.organization?.slug;
-    if (slug && remaining.has(slug)) {
-      latestBySlug.set(slug, new Date(job.created_at * 1000).toISOString().split("T")[0]);
-      remaining.delete(slug);
-    }
-  }
-  totalFetched += firstJobs.length;
+  while (remaining.size > 0) {
+    const payload = await fetchJobsPage(collectionId, page);
+    const jobs = payload.results?.jobs || [];
+    totalCount = payload.results?.count || 0;
 
-  const totalPages = Math.ceil(totalCount / 20);
-  const BATCH_SIZE = 10; // concurrent requests
-
-  for (let batchStart = 1; batchStart < totalPages && remaining.size > 0; batchStart += BATCH_SIZE) {
-    const batchEnd = Math.min(batchStart + BATCH_SIZE, totalPages);
-    const promises = [];
-    for (let p = batchStart; p < batchEnd; p++) {
-      promises.push(fetchJobsPage(collectionId, p));
+    if (jobs.length === 0) {
+      break;
     }
 
-    const results = await Promise.allSettled(promises);
-    for (const result of results) {
-      if (result.status !== "fulfilled") continue;
-      const jobs = result.value.results?.jobs || [];
-      for (const job of jobs) {
-        const slug = job.organization?.slug;
-        if (slug && remaining.has(slug)) {
-          latestBySlug.set(slug, new Date(job.created_at * 1000).toISOString().split("T")[0]);
-          remaining.delete(slug);
-        }
+    for (const job of jobs) {
+      const slug = job.organization?.slug;
+      if (slug && remaining.has(slug)) {
+        latestBySlug.set(
+          slug,
+          new Date(job.created_at * 1000).toISOString().split("T")[0]
+        );
+        remaining.delete(slug);
       }
-      totalFetched += jobs.length;
     }
 
+    totalFetched += jobs.length;
     process.stdout.write(
-      `  Pages ${batchStart}-${batchEnd}: ${totalFetched}/${totalCount} jobs, ${latestBySlug.size} found, ${remaining.size} remaining\r`
+      `  Page ${page}: ${totalFetched}/${totalCount} jobs, ${latestBySlug.size} found, ${remaining.size} remaining\r`
     );
 
-    await sleep(100); // Brief pause between batches to be polite
+    if (totalFetched >= totalCount) {
+      break;
+    }
+
+    page += 1;
+    await sleep(100);
   }
 
   console.log(
@@ -111,22 +106,24 @@ for (const fund of fundsToProcess) {
     const filePath = join(dataDir, `${fund.id}.json`);
     const data = JSON.parse(readFileSync(filePath, "utf-8"));
 
-    // Check if data already has latestJobDate from a prior run
-    const alreadyDated = data.companies.filter((c) => c.latestJobDate).length;
-    if (alreadyDated > 0) {
-      console.log(`  ${alreadyDated}/${data.companies.length} already have dates, skipping`);
+    const targetCompanies = forceRefresh
+      ? data.companies
+      : data.companies.filter((c) => !c.latestJobDate);
+    const targetSlugs = targetCompanies.map((c) => c.slug);
+    if (targetSlugs.length === 0) {
+      console.log("  All companies already have latestJobDate, skipping");
       continue;
     }
-
-    const targetSlugs = data.companies.map((c) => c.slug);
-    console.log(`  ${targetSlugs.length} companies to find dates for`);
+    console.log(
+      `  ${targetSlugs.length}/${data.companies.length} companies to fetch dates for`
+    );
 
     const latestDates = await fetchLatestJobDates(fund.collectionId, targetSlugs);
 
     let updated = 0;
     for (const company of data.companies) {
       const date = latestDates.get(company.slug);
-      if (date) {
+      if (date && company.latestJobDate !== date) {
         company.latestJobDate = date;
         updated++;
       }

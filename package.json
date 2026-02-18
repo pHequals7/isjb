@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "refresh:data:getro:ci": "node scripts/refresh-getro-ci.mjs",
+    "report:data:delta": "node scripts/report-data-delta.mjs"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",
