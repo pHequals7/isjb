@@ -75,8 +75,8 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: chore(data): weekly refresh (getro)
-          title: chore(data): weekly refresh (getro)
+          commit-message: "chore(data): weekly refresh (getro)"
+          title: "chore(data): weekly refresh (getro)"
           body-path: .github/.tmp/data-delta.md
           branch: bot/data-refresh
           delete-branch: false
