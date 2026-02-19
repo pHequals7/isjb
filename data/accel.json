@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-02-14",
-    "totalCompanies": 120,
+    "lastUpdated": "2026-02-19",
+    "totalCompanies": 115,
     "source": "https://jobs.accel.com"
   },
   "companies": [
@@ -33,13 +33,13 @@
       "name": "ACKO",
       "slug": "acko-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/acko-2#content",
-      "activeJobCount": 26,
+      "activeJobCount": 23,
       "domain": "acko.com",
       "logoUrl": "https://cdn.getro.com/companies/c7df8904-b887-40da-b7b6-6763251b1a80-1760923907",
       "sectors": [
         "FinTech"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Agrostar",
@@ -110,18 +110,6 @@
       ]
     },
     {
-      "name": "Atlassian",
-      "slug": "atlassian",
-      "jobsBoardUrl": "https://jobs.accel.com/companies/atlassian#content",
-      "activeJobCount": 88,
-      "domain": "atlassian.com",
-      "logoUrl": "https://cdn.getro.com/companies/ce0c4184-9f5a-4478-b462-97a9d6c7b99a-1768234272",
-      "sectors": [
-        "SaaS"
-      ],
-      "latestJobDate": "2026-02-12"
-    },
-    {
       "name": "Axio Biosolutions",
       "slug": "axio-biosolutions-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/axio-biosolutions-2#content",
@@ -177,7 +165,7 @@
       "sectors": [
         "Logistics"
       ],
-      "latestJobDate": "2026-02-03"
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Bluestone",
@@ -186,7 +174,9 @@
       "activeJobCount": 0,
       "domain": "bluestone.com",
       "logoUrl": "https://cdn.getro.com/companies/54512c2e-22b7-4ba6-a026-c2769c42d4d1-1761355878",
-      "sectors": []
+      "sectors": [
+        "E-Commerce & D2C"
+      ]
     },
     {
       "name": "BookMyShow",
@@ -199,17 +189,6 @@
         "Media & Entertainment"
       ],
       "latestJobDate": "2026-01-05"
-    },
-    {
-      "name": "Borqs Technologies",
-      "slug": "borqs-technologies-2",
-      "jobsBoardUrl": "https://jobs.accel.com/companies/borqs-technologies-2#content",
-      "activeJobCount": 0,
-      "domain": "borqs.com",
-      "logoUrl": "https://cdn.getro.com/companies/2bd7eca1-2308-4478-b954-73cd71e021ff-1766367175",
-      "sectors": [
-        "Consumer Services"
-      ]
     },
     {
       "name": "Breathe Well-being",
@@ -239,13 +218,13 @@
       "name": "BrowserStack",
       "slug": "browserstack",
       "jobsBoardUrl": "https://jobs.accel.com/companies/browserstack#content",
-      "activeJobCount": 45,
+      "activeJobCount": 50,
       "domain": "browserstack.com",
       "logoUrl": "https://cdn.getro.com/companies/d5b88abe-45b9-451c-b292-ecf785a53b5e-1760664911",
       "sectors": [
         "Consumer Services"
       ],
-      "latestJobDate": "2026-02-12"
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "Captain Fresh",
@@ -263,7 +242,7 @@
       "name": "Chargebee",
       "slug": "chargebee",
       "jobsBoardUrl": "https://jobs.accel.com/companies/chargebee#content",
-      "activeJobCount": 9,
+      "activeJobCount": 8,
       "domain": "chargebee.com",
       "logoUrl": "https://cdn.getro.com/companies/ff082f2b-3fde-4a06-a06b-616dfc670849-1761961150",
       "sectors": [
@@ -278,7 +257,9 @@
       "activeJobCount": 3,
       "domain": "citymall.live",
       "logoUrl": "https://cdn.getro.com/companies/c13ab628-1d1f-40a3-87b4-b2a82af5c156-1760665299",
-      "sectors": [],
+      "sectors": [
+        "E-Commerce & D2C"
+      ],
       "latestJobDate": "2025-07-02"
     },
     {
@@ -339,20 +320,6 @@
       "latestJobDate": "2026-02-05"
     },
     {
-      "name": "CrowdStrike",
-      "slug": "crowdstrike",
-      "jobsBoardUrl": "https://jobs.accel.com/companies/crowdstrike#content",
-      "activeJobCount": 609,
-      "domain": "crowdstrike.com",
-      "logoUrl": "https://cdn.getro.com/companies/f8ec71cd-69c4-4f9b-ba84-adfdd68ee343-1768234689",
-      "sectors": [
-        "AI & Data",
-        "Cybersecurity",
-        "SaaS"
-      ],
-      "latestJobDate": "2026-02-14"
-    },
-    {
       "name": "Curefit - house of cult",
       "slug": "curefit-house-of-cult",
       "jobsBoardUrl": "https://jobs.accel.com/companies/curefit-house-of-cult#content",
@@ -394,19 +361,22 @@
       "activeJobCount": 6,
       "domain": "detecttechnologies.com",
       "logoUrl": "https://cdn.getro.com/companies/1a1a43fa-6273-4e9d-b8b5-3ea2fa21d87c-1761355942",
-      "sectors": [],
+      "sectors": [
+        "CleanTech & Energy"
+      ],
       "latestJobDate": "2025-09-13"
     },
     {
       "name": "Dezerv",
       "slug": "dezerv-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/dezerv-2#content",
-      "activeJobCount": 0,
+      "activeJobCount": 31,
       "domain": "dezerv.in",
       "logoUrl": "https://cdn.getro.com/companies/63dfc36d-d703-4557-b388-bf0654ff3d87-1761701869",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "EduPristine",
@@ -424,7 +394,7 @@
       "name": "Fabheads Automation",
       "slug": "fabheads-automation",
       "jobsBoardUrl": "https://jobs.accel.com/companies/fabheads-automation#content",
-      "activeJobCount": 4,
+      "activeJobCount": 2,
       "domain": "fabheads.com",
       "logoUrl": "https://cdn.getro.com/companies/6e7c060b-c791-55c3-85be-8c53c5b2c5fb-1758111353",
       "sectors": [],
@@ -437,7 +407,9 @@
       "activeJobCount": 6,
       "domain": "fabhotels.com",
       "logoUrl": "https://cdn.getro.com/companies/597708b7-2bc1-41c3-90dd-fbbc038d9dee-1761355950",
-      "sectors": [],
+      "sectors": [
+        "Travel & Hospitality"
+      ],
       "latestJobDate": "2023-12-15"
     },
     {
@@ -447,7 +419,9 @@
       "activeJobCount": 4,
       "domain": "fashinza.com",
       "logoUrl": "https://cdn.getro.com/companies/83831508-f773-4398-9b8e-7878054c1bc9-1761355950",
-      "sectors": [],
+      "sectors": [
+        "E-Commerce & D2C"
+      ],
       "latestJobDate": "2025-10-31"
     },
     {
@@ -457,7 +431,9 @@
       "activeJobCount": 0,
       "domain": "fibmold.com",
       "logoUrl": "https://cdn.getro.com/companies/0d2d2654-ce9f-4739-b216-b063e64e3846-1761442790",
-      "sectors": []
+      "sectors": [
+        "Manufacturing & Hardware"
+      ]
     },
     {
       "name": "Fibr",
@@ -498,13 +474,13 @@
       "name": "Freshworks",
       "slug": "freshworks",
       "jobsBoardUrl": "https://jobs.accel.com/companies/freshworks#content",
-      "activeJobCount": 165,
+      "activeJobCount": 169,
       "domain": "freshworks.com",
       "logoUrl": "https://cdn.getro.com/companies/ed1bf45d-0348-4334-ab27-5c2bc542bd3b-1760577852",
       "sectors": [
         "SaaS"
       ],
-      "latestJobDate": "2026-02-14"
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Fundly.ai",
@@ -535,7 +511,9 @@
       "activeJobCount": 4,
       "domain": "haberwater.com",
       "logoUrl": "https://cdn.getro.com/companies/a024562d-c303-4d20-8282-0129bd865c61-1761701873",
-      "sectors": [],
+      "sectors": [
+        "Manufacturing & Hardware"
+      ],
       "latestJobDate": "2025-05-16"
     },
     {
@@ -557,7 +535,9 @@
       "activeJobCount": 7,
       "domain": "hotelogix.com",
       "logoUrl": "https://cdn.getro.com/companies/7268fa1f-76ff-4924-96dc-16b2403842b6-1761355975",
-      "sectors": [],
+      "sectors": [
+        "Travel & Hospitality"
+      ],
       "latestJobDate": "2025-05-15"
     },
     {
@@ -590,7 +570,9 @@
       "activeJobCount": 0,
       "domain": "innovist.com",
       "logoUrl": "https://cdn.getro.com/companies/ab310eca-14d5-4670-841d-a797f2dea9b0-1761701880",
-      "sectors": []
+      "sectors": [
+        "E-Commerce & D2C"
+      ]
     },
     {
       "name": "Jetapult ",
@@ -664,13 +646,13 @@
       "name": "Meragi",
       "slug": "meragi-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/meragi-2#content",
-      "activeJobCount": 15,
+      "activeJobCount": 20,
       "domain": "meragi.com",
       "logoUrl": "https://cdn.getro.com/companies/d07a0924-3323-4719-b8f6-7b4e066b88be-1766108140",
       "sectors": [
         "Consumer Services"
       ],
-      "latestJobDate": "2026-02-14"
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Mihup",
@@ -688,13 +670,13 @@
       "name": "Mindtickle",
       "slug": "mindtickle",
       "jobsBoardUrl": "https://jobs.accel.com/companies/mindtickle#content",
-      "activeJobCount": 35,
+      "activeJobCount": 37,
       "domain": "mindtickle.com",
       "logoUrl": "https://cdn.getro.com/companies/26ed51b2-ecd4-4a96-8e90-5d8d92da7398-1760577255",
       "sectors": [
         "Consumer Services"
       ],
-      "latestJobDate": "2026-02-12"
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Mirana Toys",
@@ -717,7 +699,7 @@
       "sectors": [
         "FinTech"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-14"
     },
     {
       "name": "MyGlamm",
@@ -750,7 +732,9 @@
       "activeJobCount": 0,
       "domain": "nabhdrishti.in",
       "logoUrl": "https://cdn.getro.com/companies/f98791be-c7ba-484b-bf4e-ae8215f22768-1766626499",
-      "sectors": []
+      "sectors": [
+        "Manufacturing & Hardware"
+      ]
     },
     {
       "name": "NAKAD",
@@ -764,28 +748,15 @@
       ]
     },
     {
-      "name": "New Relic",
-      "slug": "new-relic",
-      "jobsBoardUrl": "https://jobs.accel.com/companies/new-relic#content",
-      "activeJobCount": 61,
-      "domain": "newrelic.com",
-      "logoUrl": "https://cdn.getro.com/companies/fe666759-babe-449b-aeb7-cea4843a08ca-1768234952",
-      "sectors": [
-        "AI & Data",
-        "Consumer Services",
-        "Cybersecurity",
-        "SaaS"
-      ],
-      "latestJobDate": "2026-02-13"
-    },
-    {
       "name": "Newme",
       "slug": "newme-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/newme-2#content",
       "activeJobCount": 0,
       "domain": "newme.asia",
       "logoUrl": "https://cdn.getro.com/companies/98106378-c545-4f7f-96fc-3b06673f0dbb-1766108143",
-      "sectors": []
+      "sectors": [
+        "E-Commerce & D2C"
+      ]
     },
     {
       "name": "Ninjacart",
@@ -838,13 +809,13 @@
       "name": "Onsitego",
       "slug": "onsitego-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/onsitego-2#content",
-      "activeJobCount": 40,
+      "activeJobCount": 42,
       "domain": "onsitego.com",
       "logoUrl": "https://cdn.getro.com/companies/f54b8621-47ba-48a2-83bb-9e6fbfa53bcc-1761356005",
       "sectors": [
         "Consumer Services"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Openhouse",
@@ -868,7 +839,7 @@
       "sectors": [
         "HealthTech"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-14"
     },
     {
       "name": "Oslash",
@@ -941,18 +912,6 @@
       "latestJobDate": "2026-02-05"
     },
     {
-      "name": "Propeller",
-      "slug": "propeller-2-d4f96b45-93f1-41c0-8615-150ff09b65b9",
-      "jobsBoardUrl": "https://jobs.accel.com/companies/propeller-2-d4f96b45-93f1-41c0-8615-150ff09b65b9#content",
-      "activeJobCount": 16,
-      "domain": "propelleraero.com",
-      "logoUrl": "https://cdn.getro.com/companies/0ec222cc-877b-44b0-8166-de9940a8fb2a-1760751696",
-      "sectors": [
-        "SaaS"
-      ],
-      "latestJobDate": "2026-02-10"
-    },
-    {
       "name": "PropTiger.com",
       "slug": "proptiger-com-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/proptiger-com-2#content",
@@ -982,6 +941,7 @@
       "domain": "recommercex.com",
       "logoUrl": "https://cdn.getro.com/companies/7ad45aa9-1fa8-41d2-a56b-9321fa859aa8-1766108148",
       "sectors": [
+        "CleanTech & Energy",
         "Consumer Services"
       ]
     },
@@ -995,7 +955,7 @@
       "sectors": [
         "Consumer Services"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "RetainIQ  ",
@@ -1025,13 +985,13 @@
       "name": "Rupeek",
       "slug": "rupeek-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/rupeek-2#content",
-      "activeJobCount": 14,
+      "activeJobCount": 12,
       "domain": "rupeek.com",
       "logoUrl": "https://cdn.getro.com/companies/731ae0ee-ce4f-4db2-91b5-81d26d27575f-1761356020",
       "sectors": [
         "FinTech"
       ],
-      "latestJobDate": "2026-02-11"
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "S4S Technologies",
@@ -1070,11 +1030,13 @@
       "name": "Sarla Aviation",
       "slug": "sarla-aviation",
       "jobsBoardUrl": "https://jobs.accel.com/companies/sarla-aviation#content",
-      "activeJobCount": 28,
+      "activeJobCount": 26,
       "domain": "sarla-aviation.com",
       "logoUrl": "https://cdn.getro.com/companies/03e0a123-6781-4908-848f-8bef2dcd15e0-1762997950",
-      "sectors": [],
-      "latestJobDate": "2026-02-02"
+      "sectors": [
+        "Manufacturing & Hardware"
+      ],
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "Sayre Therapeutics",
@@ -1096,9 +1058,10 @@
       "domain": "scimplify.com",
       "logoUrl": "https://cdn.getro.com/companies/ad7637ca-0084-4688-acd9-7217ff3cec7c-1762393212",
       "sectors": [
-        "Consumer Services"
+        "Consumer Services",
+        "Manufacturing & Hardware"
       ],
-      "latestJobDate": "2026-02-12"
+      "latestJobDate": "2026-02-16"
     },
     {
       "name": "Scripbox",
@@ -1168,13 +1131,13 @@
       "sectors": [
         "SaaS"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "Spyne",
       "slug": "spyne-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/spyne-2#content",
-      "activeJobCount": 35,
+      "activeJobCount": 34,
       "domain": "spyne.ai",
       "logoUrl": "https://cdn.getro.com/companies/3d3035a8-b4b4-412d-b7a3-26e1a3b4fa98-1761356043",
       "sectors": [
@@ -1189,7 +1152,9 @@
       "activeJobCount": 0,
       "domain": "stanzaliving.com",
       "logoUrl": "https://cdn.getro.com/companies/3aedcecd-129d-408f-8f9e-a76fba49be37-1761356053",
-      "sectors": []
+      "sectors": [
+        "Travel & Hospitality"
+      ]
     },
     {
       "name": "SureWaves",
@@ -1264,13 +1229,13 @@
       "name": "Truemeds India",
       "slug": "truemeds-india-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/truemeds-india-2#content",
-      "activeJobCount": 27,
+      "activeJobCount": 26,
       "domain": "truemeds.in",
       "logoUrl": "https://cdn.getro.com/companies/16199a63-41ab-4aca-9966-5c93008a3c90-1766626501",
       "sectors": [
         "HealthTech"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Uni Cards ",
@@ -1324,10 +1289,13 @@
       "name": "Virgio",
       "slug": "virgio",
       "jobsBoardUrl": "https://jobs.accel.com/companies/virgio#content",
-      "activeJobCount": 0,
+      "activeJobCount": 1,
       "domain": "virgio.com",
       "logoUrl": "https://cdn.getro.com/companies/5c016cb0-b153-4ba9-a37c-f8c334f8458d-1761702022",
-      "sectors": []
+      "sectors": [
+        "E-Commerce & D2C"
+      ],
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "Wiom",
@@ -1351,23 +1319,25 @@
       "sectors": [
         "SaaS"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Zetwerk",
       "slug": "zetwerk",
       "jobsBoardUrl": "https://jobs.accel.com/companies/zetwerk#content",
-      "activeJobCount": 40,
+      "activeJobCount": 39,
       "domain": "zetwerk.com",
       "logoUrl": "https://cdn.getro.com/companies/16e3564d-2c6f-46db-a6b7-43ef9519c071-1761615700",
-      "sectors": [],
+      "sectors": [
+        "Manufacturing & Hardware"
+      ],
       "latestJobDate": "2026-01-30"
     },
     {
       "name": "Zolve",
       "slug": "zolve",
       "jobsBoardUrl": "https://jobs.accel.com/companies/zolve#content",
-      "activeJobCount": 18,
+      "activeJobCount": 19,
       "domain": "zolve.com",
       "logoUrl": "https://cdn.getro.com/companies/96897da6-faca-4394-9a6b-64b65133371e-1760578625",
       "sectors": [

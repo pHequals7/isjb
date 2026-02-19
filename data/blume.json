@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-02-14",
+    "lastUpdated": "2026-02-19",
     "totalCompanies": 14,
     "source": "https://jobs.blume.vc"
   },
@@ -89,12 +89,10 @@
       "name": "SiftHub",
       "slug": "sifthub-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/sifthub-2#content",
-      "activeJobCount": 12,
+      "activeJobCount": 11,
       "domain": "sifthub.io",
       "logoUrl": "https://cdn.getro.com/companies/720716c8-6fa8-55b6-bd1d-e6a705abe2d4-1748926475",
-      "sectors": [
-        "AI & Data"
-      ],
+      "sectors": [],
       "latestJobDate": "2026-01-29"
     },
     {
@@ -104,21 +102,19 @@
       "activeJobCount": 0,
       "domain": "slice.bank.in",
       "logoUrl": "https://cdn.getro.com/companies/cea0ab98-1465-465d-9936-f5aaa0b535d0-1767096959",
-      "sectors": [
-        "FinTech"
-      ]
+      "sectors": []
     },
     {
       "name": "SquadStack",
       "slug": "squadstack",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/squadstack#content",
-      "activeJobCount": 22,
+      "activeJobCount": 24,
       "domain": "squadstack.com",
       "logoUrl": "https://cdn.getro.com/companies/6ac7839f-6ede-418c-995c-eea567a20117-1759801149",
       "sectors": [
         "SaaS"
       ],
-      "latestJobDate": "2026-02-10"
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Ultrahuman",
@@ -136,13 +132,14 @@
       "name": "Vecmocon Technologies",
       "slug": "vecmocon-technologies-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/vecmocon-technologies-2#content",
-      "activeJobCount": 22,
+      "activeJobCount": 23,
       "domain": "vecmocon.com",
       "logoUrl": "https://cdn.getro.com/companies/88a8ef1e-d297-54c3-8716-4dec20101f8e-1757074551",
       "sectors": [
-        "Consumer Services"
+        "Consumer Services",
+        "Manufacturing & Hardware"
       ],
-      "latestJobDate": "2026-02-12"
+      "latestJobDate": "2026-02-16"
     },
     {
       "name": "Vutto",
@@ -152,7 +149,8 @@
       "domain": "vutto.in",
       "logoUrl": "https://cdn.getro.com/companies/8e083fc5-4113-4a13-bf6c-e022b4a4e200-1767696156",
       "sectors": [
-        "Consumer Services"
+        "Consumer Services",
+        "Manufacturing & Hardware"
       ]
     },
     {
@@ -165,7 +163,7 @@
       "sectors": [
         "FinTech"
       ],
-      "latestJobDate": "2026-02-11"
+      "latestJobDate": "2026-02-17"
     }
   ]
 }
