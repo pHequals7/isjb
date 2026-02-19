@@ -1,36 +1,156 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Indian Startup Jobs Board (ISJB)
+
+![ISJB banner](public/og-image.png)
+
+A curated jobs board for India-focused startups backed by top venture funds.
+
+ISJB aggregates portfolio company listings from multiple VC job boards into a single, fast, searchable interface so candidates do not need to check each fund site one by one.
+
+## Why ISJB
+
+- Centralized discovery for startup roles across major India-focused funds.
+- Cleaner filtering by sector and company search.
+- Regular data refreshes to reduce stale listings.
+- Open-source workflow so anyone can improve coverage and quality.
+
+## Current Coverage
+
+ISJB currently tracks companies from these funds:
+
+- PeakXV Partners
+- Accel
+- Lightspeed
+- Nexus Venture Partners
+- General Catalyst
+- Blume Ventures
+- Bessemer Venture Partners
+
+Data is sourced from public portfolio job boards powered by Getro or Consider.
+
+## Features
+
+- Fund-wise sections with sticky navigation.
+- Search by company name.
+- Sector filters with counts.
+- Freshness indicators (`latestJobDate`-based staleness logic).
+- SEO-ready metadata, OG image, sitemap, and robots config.
+
+## Tech Stack
+
+- Next.js 16 (App Router)
+- React 19 + TypeScript
+- Tailwind CSS v4
+- shadcn/ui primitives
+- Static export friendly architecture
+
+## Project Structure
+
+```text
+src/
+  app/                App router pages, metadata, global styles
+  components/         UI sections and cards
+  config/             VC fund config
+  lib/                Types + data loading/filter logic
+
+data/
+  *.json              Fund data, filters, sector maps, overrides
+
+scripts/
+  fetch-getro.mjs         Getro refresh pipeline
+  fetch-job-dates.mjs     latestJobDate enrichment (Getro funds)
+  normalize-sectors.mjs   Sector normalization
+  report-data-delta.mjs   Before/after change report
+  refresh-getro-ci.mjs    CI refresh orchestration
+
+docs/
+  data-refresh-sop.md
+```
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- Node.js 20+
+- npm
+
+### Install
+
+```bash
+npm ci
+```
+
+### Run locally
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+## Data Refresh
 
-To learn more about Next.js, take a look at the following resources:
+### Automated (GitHub Actions)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Workflow: `.github/workflows/data-refresh.yml`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Runs weekly: Monday 06:00 UTC.
+- Supports manual dispatch from the Actions tab.
+- Refreshes Getro funds (`accel`, `gc`, `blume`) in CI.
+- Creates/updates a PR when tracked data changes.
+- Attaches a delta report with company/job count diffs.
 
-## Deploy on Vercel
+### Manual refresh (local)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Getro refresh path:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+node scripts/refresh-getro-ci.mjs
+```
+
+Full refresh SOP (including Consider pipeline and caveats):
+
+- See `docs/data-refresh-sop.md`
+
+## Contributing
+
+Contributions are welcome and encouraged.
+
+### Quick contribution flow
+
+1. Fork the repo.
+2. Create a feature branch.
+3. Make focused changes.
+4. Run checks locally with `npm run build`.
+5. Open a PR with a clear summary and screenshots for UI updates.
+
+### High-impact areas
+
+- Improve fund coverage and onboarding scripts.
+- Reduce stale listings and improve refresh speed.
+- Improve logo quality and company metadata consistency.
+- Improve filtering UX and mobile usability.
+- Add tests around data transformation and validation scripts.
+
+### Data quality notes
+
+- `data/india-filter.json` is used to exclude non-Indian/global edge cases.
+- `data/indian-origin-override.json` allows vetted Indian-origin companies.
+- Sector normalization is handled via `data/sector-map.json`.
+
+## Roadmap
+
+- CI-native automation for all Consider-based funds.
+- Better persistence for manual overrides during refreshes.
+- Shareable filter URLs and richer job freshness signals.
+
+## Acknowledgements
+
+Built with open startup ecosystem data and community feedback.
+
+If this project helps you, star the repo and contribute improvements.
