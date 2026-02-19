@@ -35,14 +35,6 @@ Data is sourced from public portfolio job boards powered by Getro or Consider.
 - Freshness indicators (`latestJobDate`-based staleness logic).
 - SEO-ready metadata, OG image, sitemap, and robots config.
 
-## Tech Stack
-
-- Next.js 16 (App Router)
-- React 19 + TypeScript
-- Tailwind CSS v4
-- shadcn/ui primitives
-- Static export friendly architecture
-
 ## Project Structure
 
 ```text
