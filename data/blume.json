@@ -14,7 +14,9 @@
       "logoUrl": "https://cdn.getro.com/companies/c34ae5fe-c6a4-5757-b661-4a350efa9cd7-1739364695",
       "sectors": [
         "Manufacturing & Hardware"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Classplus",
@@ -25,7 +27,9 @@
       "logoUrl": "https://cdn.getro.com/companies/d5762e57-1915-4433-a8c7-edd5d19ac1b5-1761269764",
       "sectors": [
         "EdTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "DPDzero",
@@ -37,7 +41,8 @@
       "sectors": [
         "FinTech"
       ],
-      "latestJobDate": "2026-01-20"
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "IDfy",
@@ -49,7 +54,8 @@
       "sectors": [
         "Consumer Services"
       ],
-      "latestJobDate": "2025-09-23"
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Optimized Electrotech",
@@ -61,7 +67,8 @@
       "sectors": [
         "Manufacturing & Hardware"
       ],
-      "latestJobDate": "2025-10-13"
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "OZi",
@@ -72,7 +79,9 @@
       "logoUrl": "https://cdn.getro.com/companies/68310a8f-c907-4517-b73d-74e932d48589-1767696158",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Purplle",
@@ -83,7 +92,9 @@
       "logoUrl": "https://cdn.getro.com/companies/63808f01-a351-491d-843a-60449001959e-1767748336",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "SiftHub",
@@ -93,7 +104,8 @@
       "domain": "sifthub.io",
       "logoUrl": "https://cdn.getro.com/companies/720716c8-6fa8-55b6-bd1d-e6a705abe2d4-1748926475",
       "sectors": [],
-      "latestJobDate": "2026-01-29"
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "slice",
@@ -102,7 +114,9 @@
       "activeJobCount": 0,
       "domain": "slice.bank.in",
       "logoUrl": "https://cdn.getro.com/companies/cea0ab98-1465-465d-9936-f5aaa0b535d0-1767096959",
-      "sectors": []
+      "sectors": [],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "SquadStack",
@@ -114,7 +128,8 @@
       "sectors": [
         "SaaS"
       ],
-      "latestJobDate": "2026-02-18"
+      "hasInternships": true,
+      "internshipCount": 3
     },
     {
       "name": "Ultrahuman",
@@ -126,7 +141,8 @@
       "sectors": [
         "HealthTech"
       ],
-      "latestJobDate": "2024-12-25"
+      "hasInternships": true,
+      "internshipCount": 1
     },
     {
       "name": "Vecmocon Technologies",
@@ -139,7 +155,8 @@
         "Consumer Services",
         "Manufacturing & Hardware"
       ],
-      "latestJobDate": "2026-02-16"
+      "hasInternships": true,
+      "internshipCount": 2
     },
     {
       "name": "Vutto",
@@ -151,7 +168,9 @@
       "sectors": [
         "Consumer Services",
         "Manufacturing & Hardware"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Zopper",
@@ -163,7 +182,8 @@
       "sectors": [
         "FinTech"
       ],
-      "latestJobDate": "2026-02-17"
+      "hasInternships": true,
+      "internshipCount": 18
     }
   ]
 }

@@ -18,6 +18,7 @@ interface JobBoardProps {
 export function JobBoard({ funds }: JobBoardProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [activeSectors, setActiveSectors] = useState<Set<string>>(new Set());
+  const [internshipOnly, setInternshipOnly] = useState(false);
   const debounceRef = useRef<ReturnType<typeof setTimeout>>(undefined);
   const [debouncedQuery, setDebouncedQuery] = useState("");
 
@@ -69,6 +70,13 @@ export function JobBoard({ funds }: JobBoardProps) {
           );
         }
 
+        // Internship filter: Getro-based funds have seniority data;
+        // Consider-based funds default to hasInternships=false so they
+        // won't appear when this toggle is active.
+        if (internshipOnly) {
+          companies = companies.filter((c) => c.hasInternships);
+        }
+
         return {
           ...fund,
           companies,
@@ -83,12 +91,22 @@ export function JobBoard({ funds }: JobBoardProps) {
         };
       })
       .filter((fund) => fund.totalCompanies > 0);
-  }, [funds, debouncedQuery, activeSectors]);
+  }, [funds, debouncedQuery, activeSectors, internshipOnly]);
 
   const topStats = useMemo(
     () => computeUniqueTopStats(filteredFunds.flatMap((fund) => fund.companies)),
     [filteredFunds]
   );
+
+  const internshipCompanyCount = useMemo(() => {
+    const slugs = new Set<string>();
+    for (const fund of funds) {
+      for (const c of fund.companies) {
+        if (c.hasInternships) slugs.add(c.slug);
+      }
+    }
+    return slugs.size;
+  }, [funds]);
 
   const navItems = funds.map((f) => ({
     id: f.id,
@@ -109,10 +127,15 @@ export function JobBoard({ funds }: JobBoardProps) {
     });
   }, []);
 
+  const toggleInternship = useCallback(() => {
+    setInternshipOnly((prev) => !prev);
+  }, []);
+
   const clearAll = useCallback(() => {
     setSearchQuery("");
     setDebouncedQuery("");
     setActiveSectors(new Set());
+    setInternshipOnly(false);
     if (debounceRef.current) clearTimeout(debounceRef.current);
   }, []);
 
@@ -132,6 +155,9 @@ export function JobBoard({ funds }: JobBoardProps) {
         activeSectors={activeSectors}
         onToggleSector={toggleSector}
         onClearAll={clearAll}
+        internshipOnly={internshipOnly}
+        onToggleInternship={toggleInternship}
+        internshipCompanyCount={internshipCompanyCount}
       />
       <VCNavBar funds={navItems} />
       <main className="mx-auto w-full max-w-7xl flex-1 px-4 sm:px-6 lg:px-8">

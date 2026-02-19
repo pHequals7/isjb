@@ -80,9 +80,51 @@ async function fetchAllCompanies(collectionId) {
   return all;
 }
 
+// Fetch internship job counts per company slug using Getro's seniority filter.
+// This is Getro-specific — the Consider platform does not expose a seniority field.
+async function fetchInternshipCountsBySlug(collectionId) {
+  const counts = {};
+  let page = 0;
+  const hitsPerPage = 100;
+
+  while (true) {
+    const res = await fetch(
+      `https://api.getro.com/api/v2/collections/${collectionId}/search/jobs`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          hitsPerPage,
+          page,
+          filters: { seniority: ["internship"] },
+        }),
+      }
+    );
+    const d = await res.json();
+    const jobs = d.results?.jobs || [];
+    if (jobs.length === 0) break;
+    for (const job of jobs) {
+      const slug = job.organization?.slug;
+      if (slug) counts[slug] = (counts[slug] || 0) + 1;
+    }
+    const fetched = page * hitsPerPage + jobs.length;
+    if (fetched >= (d.results?.count || 0)) break;
+    page++;
+  }
+  return counts;
+}
+
 for (const config of configs) {
   console.log(`Fetching ${config.id} (collection ${config.collectionId})...`);
   const companies = await fetchAllCompanies(config.collectionId);
+
+  console.log(`  Fetching internship data...`);
+  const internshipCounts = await fetchInternshipCountsBySlug(config.collectionId);
+  const internTotal = Object.values(internshipCounts).reduce((s, n) => s + n, 0);
+  console.log(`  Found ${internTotal} internship jobs across ${Object.keys(internshipCounts).length} companies`);
 
   // Log first company to inspect available fields
   if (companies.length > 0) {
@@ -104,6 +146,8 @@ for (const config of configs) {
       domain: c.domain || "",
       logoUrl: c.logo_url || "",
       sectors: c.industry_tags || [],
+      hasInternships: (internshipCounts[c.slug] || 0) > 0,
+      internshipCount: internshipCounts[c.slug] || 0,
     }))
     .sort((a, b) => a.name.localeCompare(b.name));
 
