@@ -21,6 +21,12 @@ interface PubliclyListedEntry {
   ticker: string;
 }
 
+interface LogoOverrideMap {
+  [fundId: string]: {
+    [slug: string]: string;
+  };
+}
+
 export function loadVCFunds(): VCFund[] {
   const dataDir = path.join(process.cwd(), "data");
 
@@ -45,6 +51,22 @@ export function loadVCFunds(): VCFund[] {
     ? JSON.parse(fs.readFileSync(listedPath, "utf-8"))
     : { companies: [] };
   const listedSlugs = new Set(listedData.companies.map((c) => c.slug));
+
+  // Reuse a stronger brand logo for PeakXV Freshworks card.
+  const accelPath = path.join(dataDir, "accel.json");
+  const accelData: VCDataFile = fs.existsSync(accelPath)
+    ? JSON.parse(fs.readFileSync(accelPath, "utf-8"))
+    : { meta: { lastUpdated: "", totalCompanies: 0, source: "" }, companies: [] };
+  const accelFreshworksLogo =
+    accelData.companies.find((c) => c.slug === "freshworks")?.logoUrl || "";
+
+  const logoOverrides: LogoOverrideMap = accelFreshworksLogo
+    ? {
+        peakxv: {
+          freshworks: accelFreshworksLogo,
+        },
+      }
+    : {};
 
   // Staleness threshold: 30 days ago
   const thirtyDaysAgo = new Date();
@@ -81,6 +103,7 @@ export function loadVCFunds(): VCFund[] {
       // Enrich with publicly listed flag and staleness
       companies = companies.map((c) => ({
         ...c,
+        logoUrl: logoOverrides[config.id]?.[c.slug] || c.logoUrl,
         isPubliclyListed: listedSlugs.has(c.slug),
         isStale: c.latestJobDate ? c.latestJobDate < staleThreshold : false,
       }));
