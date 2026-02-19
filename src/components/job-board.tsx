@@ -8,6 +8,7 @@ import { VCFundSection } from "@/components/vc-fund-section";
 import { SearchFilterBar } from "@/components/search-filter-bar";
 import { Footer } from "@/components/footer";
 import { Separator } from "@/components/ui/separator";
+import { computeUniqueTopStats } from "@/lib/stats";
 import type { VCFund } from "@/lib/types";
 
 interface JobBoardProps {
@@ -84,12 +85,10 @@ export function JobBoard({ funds }: JobBoardProps) {
       .filter((fund) => fund.totalCompanies > 0);
   }, [funds, debouncedQuery, activeSectors]);
 
-  const totalCompanies = filteredFunds.reduce(
-    (s, f) => s + f.totalCompanies,
-    0
+  const topStats = useMemo(
+    () => computeUniqueTopStats(filteredFunds.flatMap((fund) => fund.companies)),
+    [filteredFunds]
   );
-  const totalJobs = filteredFunds.reduce((s, f) => s + f.totalJobs, 0);
-  const freshJobs = filteredFunds.reduce((s, f) => s + f.freshJobs, 0);
 
   const navItems = funds.map((f) => ({
     id: f.id,
@@ -122,9 +121,9 @@ export function JobBoard({ funds }: JobBoardProps) {
       <Header />
       <StatsBanner
         totalVCs={funds.length}
-        totalCompanies={totalCompanies}
-        totalJobs={totalJobs}
-        freshJobs={freshJobs}
+        totalCompanies={topStats.totalCompanies}
+        totalJobs={topStats.totalJobs}
+        freshJobs={topStats.freshJobs}
       />
       <SearchFilterBar
         searchQuery={searchQuery}

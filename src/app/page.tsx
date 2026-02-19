@@ -1,11 +1,12 @@
 import { JobBoard } from "@/components/job-board";
 import { loadVCFunds } from "@/lib/data";
+import { computeUniqueTopStats } from "@/lib/stats";
 
 export default function Home() {
   const funds = loadVCFunds();
-  const totalCompanies = funds.reduce((s, f) => s + f.totalCompanies, 0);
-  const totalJobs = funds.reduce((s, f) => s + f.totalJobs, 0);
-  const freshJobs = funds.reduce((s, f) => s + f.freshJobs, 0);
+  const topStats = computeUniqueTopStats(funds.flatMap((fund) => fund.companies));
+  const totalCompanies = topStats.totalCompanies;
+  const totalJobs = topStats.totalJobs;
 
   const jsonLd = {
     "@context": "https://schema.org",
