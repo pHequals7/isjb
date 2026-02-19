@@ -8,7 +8,7 @@ export function Footer() {
         <p className="mt-4 text-center text-sm leading-relaxed text-muted-foreground">
           Brewed with the help of Opus 4.6 and{" "}
           <a
-            href="https://buymeacoffee.com/phequals7"
+            href="https://github.com/pHequals7"
             target="_blank"
             rel="noopener noreferrer"
             className="font-medium text-foreground underline-offset-2 hover:underline"
