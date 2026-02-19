@@ -1,3 +1,7 @@
+"use client";
+
+import { CountUp } from "@/components/ui/count-up";
+
 interface StatsBannerProps {
   totalVCs: number;
   totalCompanies: number;
@@ -12,10 +16,10 @@ export function StatsBanner({
   freshJobs,
 }: StatsBannerProps) {
   const stats = [
-    { label: "VC Funds", value: totalVCs },
-    { label: "Companies Hiring", value: totalCompanies },
-    { label: "Fresh Openings", value: freshJobs.toLocaleString() },
-    { label: "Total Openings", value: totalJobs.toLocaleString() },
+    { label: "VC Funds", value: totalVCs, delayMs: 0 },
+    { label: "Companies Hiring", value: totalCompanies, delayMs: 120 },
+    { label: "Fresh Openings", value: freshJobs, delayMs: 240 },
+    { label: "Total Openings", value: totalJobs, delayMs: 360 },
   ];
 
   return (
@@ -24,7 +28,7 @@ export function StatsBanner({
         {stats.map((stat) => (
           <div key={stat.label} className="text-center">
             <div className="font-mono text-3xl font-semibold tracking-tight sm:text-4xl lg:text-5xl">
-              {stat.value}
+              <CountUp value={stat.value} delayMs={stat.delayMs} durationMs={1500} />
             </div>
             <div className="mt-1 text-xs font-medium uppercase tracking-wider text-muted-foreground sm:text-sm">
               {stat.label}

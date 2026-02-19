@@ -51,7 +51,7 @@ export function VCNavBar({ funds }: VCNavBarProps) {
       className="sticky top-0 z-50 border-b border-border/60 bg-background/90 backdrop-blur-md"
       aria-label="VC fund navigation"
     >
-      <div className="mx-auto flex max-w-7xl items-center gap-0.5 overflow-x-auto px-4 py-2 sm:justify-center sm:gap-1 sm:px-6 lg:px-8">
+      <div className="mx-auto flex max-w-7xl items-center gap-0.5 overflow-x-auto px-4 py-2 sm:gap-1 sm:px-6 md:flex-wrap md:justify-center md:overflow-visible lg:px-8">
         {funds.map((fund) => (
           <button
             key={fund.id}
@@ -67,7 +67,7 @@ export function VCNavBar({ funds }: VCNavBarProps) {
             <img
               src={fund.logoPath}
               alt=""
-              className={`h-4 w-auto max-w-[72px] object-contain ${
+              className={`h-4 w-auto max-w-[72px] object-contain md:max-w-[88px] ${
                 activeId === fund.id
                   ? "brightness-0 invert"
                   : fund.logoDark
@@ -75,7 +75,7 @@ export function VCNavBar({ funds }: VCNavBarProps) {
                   : ""
               }`}
             />
-            <span className="hidden sm:inline">{fund.name}</span>
+            <span className="hidden xl:inline">{fund.name}</span>
           </button>
         ))}
       </div>

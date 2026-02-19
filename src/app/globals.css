@@ -129,9 +129,19 @@
   animation: ticker 30s linear infinite;
 }
 
+@keyframes shiny-sweep {
+  0% {
+    background-position: 180% 0;
+  }
+  100% {
+    background-position: -180% 0;
+  }
+}
+
 @layer base {
   html {
     scroll-behavior: smooth;
+    background: var(--primary);
   }
   * {
     @apply border-border outline-ring/50;
