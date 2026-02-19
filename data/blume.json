@@ -42,7 +42,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-20"
     },
     {
       "name": "IDfy",
@@ -55,7 +56,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-09-23"
     },
     {
       "name": "Optimized Electrotech",
@@ -68,7 +70,8 @@
         "Manufacturing & Hardware"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-10-13"
     },
     {
       "name": "OZi",
@@ -105,7 +108,8 @@
       "logoUrl": "https://cdn.getro.com/companies/720716c8-6fa8-55b6-bd1d-e6a705abe2d4-1748926475",
       "sectors": [],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-29"
     },
     {
       "name": "slice",
@@ -122,14 +126,15 @@
       "name": "SquadStack",
       "slug": "squadstack",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/squadstack#content",
-      "activeJobCount": 24,
+      "activeJobCount": 23,
       "domain": "squadstack.com",
       "logoUrl": "https://cdn.getro.com/companies/6ac7839f-6ede-418c-995c-eea567a20117-1759801149",
       "sectors": [
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 3
+      "internshipCount": 3,
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Ultrahuman",
@@ -142,7 +147,8 @@
         "HealthTech"
       ],
       "hasInternships": true,
-      "internshipCount": 1
+      "internshipCount": 1,
+      "latestJobDate": "2024-12-25"
     },
     {
       "name": "Vecmocon Technologies",
@@ -156,7 +162,8 @@
         "Manufacturing & Hardware"
       ],
       "hasInternships": true,
-      "internshipCount": 2
+      "internshipCount": 2,
+      "latestJobDate": "2026-02-16"
     },
     {
       "name": "Vutto",
@@ -183,7 +190,8 @@
         "FinTech"
       ],
       "hasInternships": true,
-      "internshipCount": 18
+      "internshipCount": 18,
+      "latestJobDate": "2026-02-17"
     }
   ]
 }

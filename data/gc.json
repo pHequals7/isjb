@@ -14,7 +14,8 @@
       "logoUrl": "https://cdn.getro.com/companies/2003f185-13b5-50d2-9dbf-a3f7d9a4e735-1733314828",
       "sectors": [],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-31"
     },
     {
       "name": "axiTrust",
@@ -52,8 +53,9 @@
       "sectors": [
         "FinTech"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-02-12"
     },
     {
       "name": "Chai Shots",
@@ -66,7 +68,8 @@
         "FoodTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-09-03"
     },
     {
       "name": "CityMall",
@@ -79,7 +82,8 @@
         "E-Commerce & D2C"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-07-02"
     },
     {
       "name": "CRED",
@@ -92,7 +96,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Fitmint",
@@ -144,7 +149,8 @@
         "HealthTech"
       ],
       "hasInternships": true,
-      "internshipCount": 1
+      "internshipCount": 2,
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "Magma",
@@ -182,8 +188,9 @@
       "sectors": [
         "Consumer Services"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2025-12-15"
     },
     {
       "name": "Omli Technologies",
@@ -207,7 +214,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-14"
     },
     {
       "name": "Primus",
@@ -220,7 +228,8 @@
         "Real Estate"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-11-26"
     },
     {
       "name": "Pronto",
@@ -259,7 +268,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2023-10-25"
     },
     {
       "name": "Spinny",
@@ -272,7 +282,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-12-06"
     },
     {
       "name": "Stan",
@@ -284,8 +295,9 @@
       "sectors": [
         "Media & Entertainment"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-01-31"
     },
     {
       "name": "Uni Cards ",
@@ -298,7 +310,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-03-28"
     },
     {
       "name": "XFlow",
@@ -311,7 +324,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-11-24"
     },
     {
       "name": "Zepto",
@@ -324,7 +338,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-09"
     }
   ]
 }

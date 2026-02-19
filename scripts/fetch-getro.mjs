@@ -82,10 +82,11 @@ async function fetchAllCompanies(collectionId) {
 
 // Fetch internship job counts per company slug using Getro's seniority filter.
 // This is Getro-specific — the Consider platform does not expose a seniority field.
+// Note: Getro API caps at 20 jobs/page regardless of hitsPerPage requested.
 async function fetchInternshipCountsBySlug(collectionId) {
   const counts = {};
   let page = 0;
-  const hitsPerPage = 100;
+  let totalFetched = 0;
 
   while (true) {
     const res = await fetch(
@@ -97,7 +98,7 @@ async function fetchInternshipCountsBySlug(collectionId) {
           Accept: "application/json",
         },
         body: JSON.stringify({
-          hitsPerPage,
+          hitsPerPage: 20,
           page,
           filters: { seniority: ["internship"] },
         }),
@@ -110,8 +111,8 @@ async function fetchInternshipCountsBySlug(collectionId) {
       const slug = job.organization?.slug;
       if (slug) counts[slug] = (counts[slug] || 0) + 1;
     }
-    const fetched = page * hitsPerPage + jobs.length;
-    if (fetched >= (d.results?.count || 0)) break;
+    totalFetched += jobs.length;
+    if (totalFetched >= (d.results?.count || 0)) break;
     page++;
   }
   return counts;

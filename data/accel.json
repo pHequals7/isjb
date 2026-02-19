@@ -15,8 +15,9 @@
       "sectors": [
         "SaaS"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-02-12"
     },
     {
       "name": "Accacia",
@@ -29,7 +30,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2024-04-05"
     },
     {
       "name": "ACKO",
@@ -42,7 +44,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Agrostar",
@@ -94,7 +97,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-09-27"
     },
     {
       "name": "Apna Mart",
@@ -107,7 +111,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-03"
     },
     {
       "name": "Appsmith",
@@ -133,7 +138,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-11-28"
     },
     {
       "name": "BestDoc",
@@ -146,7 +152,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-30"
     },
     {
       "name": "Binocs ",
@@ -185,7 +192,8 @@
         "Logistics"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Bluestone",
@@ -210,8 +218,9 @@
       "sectors": [
         "Media & Entertainment"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-01-05"
     },
     {
       "name": "Breathe Well-being",
@@ -224,7 +233,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2022-09-22"
     },
     {
       "name": "Brick&Bolt",
@@ -237,7 +247,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2023-12-18"
     },
     {
       "name": "BrowserStack",
@@ -250,7 +261,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Captain Fresh",
@@ -263,7 +275,8 @@
         "Logistics"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-30"
     },
     {
       "name": "Chargebee",
@@ -276,7 +289,8 @@
         "SaaS"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-11"
     },
     {
       "name": "CityMall",
@@ -289,7 +303,8 @@
         "E-Commerce & D2C"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-07-02"
     },
     {
       "name": "Cogoport",
@@ -328,7 +343,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-13"
     },
     {
       "name": "Creator Stack",
@@ -353,8 +369,9 @@
       "sectors": [
         "FinTech"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-02-05"
     },
     {
       "name": "Curefit - house of cult",
@@ -367,7 +384,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-02"
     },
     {
       "name": "Curefoods",
@@ -380,7 +398,8 @@
         "FoodTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-11"
     },
     {
       "name": "Curejoy",
@@ -405,8 +424,9 @@
       "sectors": [
         "CleanTech & Energy"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2025-09-13"
     },
     {
       "name": "Dezerv",
@@ -419,7 +439,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "EduPristine",
@@ -432,7 +453,8 @@
         "EdTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2024-07-06"
     },
     {
       "name": "Fabheads Automation",
@@ -443,7 +465,8 @@
       "logoUrl": "https://cdn.getro.com/companies/6e7c060b-c791-55c3-85be-8c53c5b2c5fb-1758111353",
       "sectors": [],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-09-17"
     },
     {
       "name": "FabHotels",
@@ -456,7 +479,8 @@
         "Travel & Hospitality"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2023-12-15"
     },
     {
       "name": "Fashinza",
@@ -468,8 +492,9 @@
       "sectors": [
         "E-Commerce & D2C"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2025-10-31"
     },
     {
       "name": "Fibmold",
@@ -495,7 +520,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Flipkart",
@@ -508,7 +534,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-04"
     },
     {
       "name": "Forus Health",
@@ -534,7 +561,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 1
+      "internshipCount": 1,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Fundly.ai",
@@ -573,7 +601,8 @@
         "Manufacturing & Hardware"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-05-16"
     },
     {
       "name": "HomeLane",
@@ -586,7 +615,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-09-01"
     },
     {
       "name": "Hotelogix",
@@ -599,7 +629,8 @@
         "Travel & Hospitality"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-05-15"
     },
     {
       "name": "Indifi Technologies",
@@ -612,7 +643,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2023-01-05"
     },
     {
       "name": "Infra.Market",
@@ -690,7 +722,8 @@
         "Media & Entertainment"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-14"
     },
     {
       "name": "Knight FinTech",
@@ -703,7 +736,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2024-03-21"
     },
     {
       "name": "LetsVenture",
@@ -728,8 +762,9 @@
       "sectors": [
         "Consumer Services"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 4,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Mihup",
@@ -742,7 +777,8 @@
         "SaaS"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-02"
     },
     {
       "name": "Mindtickle",
@@ -755,7 +791,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Mirana Toys",
@@ -781,7 +818,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-14"
     },
     {
       "name": "MyGlamm",
@@ -794,7 +832,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-17"
     },
     {
       "name": "Myntra",
@@ -807,7 +846,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-31"
     },
     {
       "name": "Nabhdrishti Aerospace Private Limited",
@@ -858,8 +898,9 @@
       "sectors": [
         "Logistics"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2025-11-21"
     },
     {
       "name": "Niyo ",
@@ -871,8 +912,9 @@
       "sectors": [
         "FinTech"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2025-07-04"
     },
     {
       "name": "Ola",
@@ -898,7 +940,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2023-12-15"
     },
     {
       "name": "Onsitego",
@@ -911,7 +954,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Openhouse",
@@ -924,7 +968,8 @@
         "EdTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2023-12-09"
     },
     {
       "name": "Orange Health Labs",
@@ -937,7 +982,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-14"
     },
     {
       "name": "Oslash",
@@ -963,7 +1009,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-12-26"
     },
     {
       "name": "Power2SME",
@@ -976,7 +1023,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2024-01-15"
     },
     {
       "name": "Powerplay",
@@ -1016,7 +1064,8 @@
         "SaaS"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-05"
     },
     {
       "name": "PropTiger.com",
@@ -1069,7 +1118,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "RetainIQ  ",
@@ -1082,7 +1132,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-15"
     },
     {
       "name": "Rigi",
@@ -1095,7 +1146,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-12"
     },
     {
       "name": "Rupeek",
@@ -1107,8 +1159,9 @@
       "sectors": [
         "FinTech"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "S4S Technologies",
@@ -1159,8 +1212,9 @@
       "sectors": [
         "Manufacturing & Hardware"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "Sayre Therapeutics",
@@ -1173,7 +1227,8 @@
         "HealthTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2023-12-11"
     },
     {
       "name": "Scimplify",
@@ -1187,7 +1242,8 @@
         "Manufacturing & Hardware"
       ],
       "hasInternships": true,
-      "internshipCount": 1
+      "internshipCount": 2,
+      "latestJobDate": "2026-02-16"
     },
     {
       "name": "Scripbox",
@@ -1200,7 +1256,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-12-30"
     },
     {
       "name": "Shivalik Bank ",
@@ -1213,7 +1270,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2024-01-15"
     },
     {
       "name": "SigTuple",
@@ -1239,7 +1297,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-12-06"
     },
     {
       "name": "SplashLearn",
@@ -1264,8 +1323,9 @@
       "sectors": [
         "SaaS"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "Spyne",
@@ -1277,8 +1337,9 @@
       "sectors": [
         "Consumer Services"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2026-02-09"
     },
     {
       "name": "Stanza Living",
@@ -1330,7 +1391,8 @@
         "FoodTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-02"
     },
     {
       "name": "Testsigma",
@@ -1343,7 +1405,8 @@
         "SaaS"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-20"
     },
     {
       "name": "Tracxn",
@@ -1369,7 +1432,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-05-06"
     },
     {
       "name": "Truemeds India",
@@ -1382,7 +1446,8 @@
         "HealthTech"
       ],
       "hasInternships": true,
-      "internshipCount": 3
+      "internshipCount": 3,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Uni Cards ",
@@ -1395,7 +1460,8 @@
         "FinTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-03-28"
     },
     {
       "name": "Urban Company",
@@ -1408,7 +1474,8 @@
         "SaaS"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-30"
     },
     {
       "name": "Vedantu",
@@ -1421,7 +1488,8 @@
         "EdTech"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2025-05-29"
     },
     {
       "name": "Venwiz",
@@ -1433,8 +1501,9 @@
       "sectors": [
         "Consumer Services"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2026-02-09"
     },
     {
       "name": "Virgio",
@@ -1447,7 +1516,8 @@
         "E-Commerce & D2C"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "Wiom",
@@ -1460,7 +1530,8 @@
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-13"
     },
     {
       "name": "Zenoti",
@@ -1473,7 +1544,8 @@
         "SaaS"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-18"
     },
     {
       "name": "Zetwerk",
@@ -1486,7 +1558,8 @@
         "Manufacturing & Hardware"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-01-30"
     },
     {
       "name": "Zolve",
@@ -1498,8 +1571,9 @@
       "sectors": [
         "FinTech"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2025-12-31"
     }
   ]
 }
