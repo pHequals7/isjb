@@ -10,6 +10,10 @@ export interface Company {
   isPubliclyListed?: boolean;
   isStale?: boolean;
   latestJobDate?: string; // YYYY-MM-DD
+  /** Whether this company has internship-level roles. Getro-only (uses seniority filter); always false for Consider-based funds. */
+  hasInternships?: boolean;
+  /** Count of internship-level roles. Getro-only; 0 for Consider-based funds. */
+  internshipCount?: number;
 }
 
 export interface VCDataFileMeta {

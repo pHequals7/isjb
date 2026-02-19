@@ -13,6 +13,8 @@
       "domain": "amigo.ai",
       "logoUrl": "https://cdn.getro.com/companies/2003f185-13b5-50d2-9dbf-a3f7d9a4e735-1733314828",
       "sectors": [],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-01-31"
     },
     {
@@ -24,7 +26,9 @@
       "logoUrl": "https://cdn.getro.com/companies/e8b35eb1-8e7e-5096-86a4-86b082a6b7a3-1756556164",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Billion Hearts",
@@ -35,18 +39,22 @@
       "logoUrl": "https://cdn.getro.com/companies/be5e8d1f-9835-4558-8285-cfac183eed23-1762738802",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Cashflo",
       "slug": "cashflo",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cashflo#content",
-      "activeJobCount": 22,
+      "activeJobCount": 21,
       "domain": "cashflo.io",
       "logoUrl": "https://cdn.getro.com/companies/259eac4c-cb45-4a1c-8e11-7a8b2ff9cc71-1761013505",
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": true,
+      "internshipCount": 1,
       "latestJobDate": "2026-02-12"
     },
     {
@@ -59,6 +67,8 @@
       "sectors": [
         "FoodTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-09-03"
     },
     {
@@ -71,19 +81,23 @@
       "sectors": [
         "E-Commerce & D2C"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-07-02"
     },
     {
       "name": "CRED",
       "slug": "cred",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cred#content",
-      "activeJobCount": 10,
+      "activeJobCount": 12,
       "domain": "cred.club",
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
         "FinTech"
       ],
-      "latestJobDate": "2026-02-16"
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Fitmint",
@@ -94,7 +108,9 @@
       "logoUrl": "https://cdn.getro.com/companies/f70fc25c-99b9-4018-aebc-6ac1f169b022-1762133989",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "GetSupp",
@@ -105,7 +121,9 @@
       "logoUrl": "https://cdn.getro.com/companies/771f3f58-c2f3-460e-b304-def341e43358-1765849136",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "JEH Aerospace",
@@ -116,7 +134,9 @@
       "logoUrl": "https://cdn.getro.com/companies/f801dba9-fc56-4b5a-9fb3-cd81a36fbbcb-1769219134",
       "sectors": [
         "Manufacturing & Hardware"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Loop Health",
@@ -128,6 +148,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": true,
+      "internshipCount": 2,
       "latestJobDate": "2026-02-17"
     },
     {
@@ -139,7 +161,9 @@
       "logoUrl": "https://cdn.getro.com/companies/706bc5ee-5b40-4aea-b67c-f04cab24b37d-1764072942",
       "sectors": [
         "E-Commerce & D2C"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Meolaa",
@@ -150,18 +174,22 @@
       "logoUrl": "https://cdn.getro.com/companies/ec41b9d6-9b88-4a77-8e15-5496beb2db45-1760012152",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Nurix",
       "slug": "nurix",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/nurix#content",
-      "activeJobCount": 16,
+      "activeJobCount": 17,
       "domain": "nurix.ai",
       "logoUrl": "https://cdn.getro.com/companies/799e8df4-eae3-4813-836a-c72a4044fc91-1767749870",
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": true,
+      "internshipCount": 2,
       "latestJobDate": "2025-12-15"
     },
     {
@@ -171,7 +199,9 @@
       "activeJobCount": 0,
       "domain": "omli.in",
       "logoUrl": "https://cdn.getro.com/companies/47ab6a46-2042-4336-9a3f-7ee3131d960a-1766060343",
-      "sectors": []
+      "sectors": [],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Orange Health Labs",
@@ -183,6 +213,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-14"
     },
     {
@@ -195,6 +227,8 @@
       "sectors": [
         "Real Estate"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-11-26"
     },
     {
@@ -206,7 +240,9 @@
       "logoUrl": "https://cdn.getro.com/companies/df449902-ac65-4038-968f-a807958071ef-1763688892",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Raphe mPhibr",
@@ -217,7 +253,9 @@
       "logoUrl": "https://cdn.getro.com/companies/33524c61-02ff-4a98-8d2d-2fc24dcc3784-1762911537",
       "sectors": [
         "Manufacturing & Hardware"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Shyft",
@@ -229,6 +267,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2023-10-25"
     },
     {
@@ -241,6 +281,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-12-06"
     },
     {
@@ -253,6 +295,8 @@
       "sectors": [
         "Media & Entertainment"
       ],
+      "hasInternships": true,
+      "internshipCount": 1,
       "latestJobDate": "2026-01-31"
     },
     {
@@ -265,6 +309,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-03-28"
     },
     {
@@ -277,6 +323,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-11-24"
     },
     {
@@ -289,6 +337,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-09"
     }
   ]

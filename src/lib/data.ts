@@ -106,6 +106,10 @@ export function loadVCFunds(): VCFund[] {
         logoUrl: logoOverrides[config.id]?.[c.slug] || c.logoUrl,
         isPubliclyListed: listedSlugs.has(c.slug),
         isStale: c.latestJobDate ? c.latestJobDate < staleThreshold : false,
+        // Internship data: populated by fetch-getro.mjs for Getro funds;
+        // defaults to false/0 for Consider-based funds (no seniority API).
+        hasInternships: c.hasInternships ?? false,
+        internshipCount: c.internshipCount ?? 0,
       }));
 
       // Sort: fresh companies first, then by job count descending

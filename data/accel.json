@@ -15,6 +15,8 @@
       "sectors": [
         "SaaS"
       ],
+      "hasInternships": true,
+      "internshipCount": 1,
       "latestJobDate": "2026-02-12"
     },
     {
@@ -27,6 +29,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2024-04-05"
     },
     {
@@ -39,6 +43,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-18"
     },
     {
@@ -50,7 +56,9 @@
       "logoUrl": "https://cdn.getro.com/companies/f60328ff-1837-41d4-89ea-4305f74b8a9e-1761788625",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Airmeet",
@@ -61,7 +69,9 @@
       "logoUrl": "https://cdn.getro.com/companies/bbb4bb68-4d09-41aa-b5a6-d98bb3a3f9f4-1764121108",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Anar",
@@ -72,7 +82,9 @@
       "logoUrl": "https://cdn.getro.com/companies/2ecaa2f9-0531-4d70-abae-7b4103d6104c-1761355859",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "ANSR",
@@ -84,6 +96,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-09-27"
     },
     {
@@ -96,6 +110,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-03"
     },
     {
@@ -107,7 +123,9 @@
       "logoUrl": "https://cdn.getro.com/companies/9c1bad54-4560-4347-8915-cec8e7a1c857-1760837709",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Axio Biosolutions",
@@ -119,6 +137,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-11-28"
     },
     {
@@ -131,6 +151,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-01-30"
     },
     {
@@ -142,7 +164,9 @@
       "logoUrl": "https://cdn.getro.com/companies/0ad2325a-aa99-4aa3-b52b-6be5a36ab584-1761442903",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Bizongo",
@@ -153,7 +177,9 @@
       "logoUrl": "https://cdn.getro.com/companies/35fe6a54-33a0-4e37-9f47-3e0032a9e456-1760751760",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Blackbuck",
@@ -165,6 +191,8 @@
       "sectors": [
         "Logistics"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-18"
     },
     {
@@ -176,7 +204,9 @@
       "logoUrl": "https://cdn.getro.com/companies/54512c2e-22b7-4ba6-a026-c2769c42d4d1-1761355878",
       "sectors": [
         "E-Commerce & D2C"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "BookMyShow",
@@ -188,6 +218,8 @@
       "sectors": [
         "Media & Entertainment"
       ],
+      "hasInternships": true,
+      "internshipCount": 1,
       "latestJobDate": "2026-01-05"
     },
     {
@@ -200,6 +232,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2022-09-22"
     },
     {
@@ -212,19 +246,23 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2023-12-18"
     },
     {
       "name": "BrowserStack",
       "slug": "browserstack",
       "jobsBoardUrl": "https://jobs.accel.com/companies/browserstack#content",
-      "activeJobCount": 50,
+      "activeJobCount": 51,
       "domain": "browserstack.com",
       "logoUrl": "https://cdn.getro.com/companies/d5b88abe-45b9-451c-b292-ecf785a53b5e-1760664911",
       "sectors": [
         "Consumer Services"
       ],
-      "latestJobDate": "2026-02-17"
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Captain Fresh",
@@ -236,6 +274,8 @@
       "sectors": [
         "Logistics"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-01-30"
     },
     {
@@ -248,6 +288,8 @@
       "sectors": [
         "SaaS"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-11"
     },
     {
@@ -260,6 +302,8 @@
       "sectors": [
         "E-Commerce & D2C"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-07-02"
     },
     {
@@ -271,7 +315,9 @@
       "logoUrl": "https://cdn.getro.com/companies/99249580-ab69-4518-a9d3-9d8b50d6412d-1761442905",
       "sectors": [
         "Logistics"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Consure Medical",
@@ -282,7 +328,9 @@
       "logoUrl": "https://cdn.getro.com/companies/3531f1f8-80b6-4c8f-b3a0-bb70d1824e79-1760924449",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Coverfox Insurance",
@@ -294,6 +342,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-13"
     },
     {
@@ -305,7 +355,9 @@
       "logoUrl": "https://cdn.getro.com/companies/839681ab-88a4-4ee9-87b4-9d7fd0314205-1763429941",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Credgenics",
@@ -317,6 +369,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": true,
+      "internshipCount": 1,
       "latestJobDate": "2026-02-05"
     },
     {
@@ -329,6 +383,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-02"
     },
     {
@@ -341,6 +397,8 @@
       "sectors": [
         "FoodTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-11"
     },
     {
@@ -352,7 +410,9 @@
       "logoUrl": "https://cdn.getro.com/companies/a5f44cbc-1c43-48e7-a842-f5e8d8ff1336-1769046025",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Detect Technologies",
@@ -364,6 +424,8 @@
       "sectors": [
         "CleanTech & Energy"
       ],
+      "hasInternships": true,
+      "internshipCount": 1,
       "latestJobDate": "2025-09-13"
     },
     {
@@ -376,6 +438,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-18"
     },
     {
@@ -388,6 +452,8 @@
       "sectors": [
         "EdTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2024-07-06"
     },
     {
@@ -398,6 +464,8 @@
       "domain": "fabheads.com",
       "logoUrl": "https://cdn.getro.com/companies/6e7c060b-c791-55c3-85be-8c53c5b2c5fb-1758111353",
       "sectors": [],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-09-17"
     },
     {
@@ -410,6 +478,8 @@
       "sectors": [
         "Travel & Hospitality"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2023-12-15"
     },
     {
@@ -422,6 +492,8 @@
       "sectors": [
         "E-Commerce & D2C"
       ],
+      "hasInternships": true,
+      "internshipCount": 2,
       "latestJobDate": "2025-10-31"
     },
     {
@@ -433,19 +505,23 @@
       "logoUrl": "https://cdn.getro.com/companies/0d2d2654-ce9f-4739-b216-b063e64e3846-1761442790",
       "sectors": [
         "Manufacturing & Hardware"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Fibr",
       "slug": "fibr-2-525dca2f-d0e4-469e-8d3f-7a6bf77d8f32",
       "jobsBoardUrl": "https://jobs.accel.com/companies/fibr-2-525dca2f-d0e4-469e-8d3f-7a6bf77d8f32#content",
-      "activeJobCount": 8,
+      "activeJobCount": 9,
       "domain": "fibr.ai",
       "logoUrl": "https://cdn.getro.com/companies/061110bc-6067-429d-91dd-f8aa5bf37547-1761528959",
       "sectors": [
         "Consumer Services"
       ],
-      "latestJobDate": "2026-02-02"
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Flipkart",
@@ -457,6 +533,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-04"
     },
     {
@@ -468,7 +546,9 @@
       "logoUrl": "https://cdn.getro.com/companies/e5aa0c42-b8be-5571-aa98-0ed9872763c0-1748741868",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Freshworks",
@@ -480,7 +560,9 @@
       "sectors": [
         "SaaS"
       ],
-      "latestJobDate": "2026-02-18"
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-02-19"
     },
     {
       "name": "Fundly.ai",
@@ -491,7 +573,9 @@
       "logoUrl": "https://cdn.getro.com/companies/1c798b92-4530-4dac-8731-0ecf3137ccb7-1769046130",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "GutWellness Club",
@@ -502,7 +586,9 @@
       "logoUrl": "https://cdn.getro.com/companies/76eb7ce4-027e-5d16-bfd2-730f09917d5a-1740166202",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Haber",
@@ -514,6 +600,8 @@
       "sectors": [
         "Manufacturing & Hardware"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-05-16"
     },
     {
@@ -526,6 +614,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-09-01"
     },
     {
@@ -538,6 +628,8 @@
       "sectors": [
         "Travel & Hospitality"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-05-15"
     },
     {
@@ -550,6 +642,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2023-01-05"
     },
     {
@@ -561,7 +655,9 @@
       "logoUrl": "https://cdn.getro.com/companies/dc20ae1b-79cd-42cd-8bac-4ef536715677-1761355978",
       "sectors": [
         "Real Estate"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Innovist",
@@ -572,7 +668,9 @@
       "logoUrl": "https://cdn.getro.com/companies/ab310eca-14d5-4670-841d-a797f2dea9b0-1761701880",
       "sectors": [
         "E-Commerce & D2C"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Jetapult ",
@@ -583,7 +681,9 @@
       "logoUrl": "https://cdn.getro.com/companies/7e95f68e-04f6-4de3-bba9-b2c7ae3059f2-1761701879",
       "sectors": [
         "Media & Entertainment"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Jify",
@@ -594,7 +694,9 @@
       "logoUrl": "https://cdn.getro.com/companies/2a78072e-03c8-4c54-9bd8-890a2455dc42-1761788625",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Jiraaf",
@@ -605,7 +707,9 @@
       "logoUrl": "https://cdn.getro.com/companies/b730320d-39f0-4923-b3ef-370bb26105a7-1761701877",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "KGEN",
@@ -617,6 +721,8 @@
       "sectors": [
         "Media & Entertainment"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-14"
     },
     {
@@ -629,6 +735,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2024-03-21"
     },
     {
@@ -640,7 +748,9 @@
       "logoUrl": "https://cdn.getro.com/companies/d6a1e1e9-f12f-490d-9eb8-dbe441108251-1761701882",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Meragi",
@@ -652,6 +762,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": true,
+      "internshipCount": 4,
       "latestJobDate": "2026-02-19"
     },
     {
@@ -664,18 +776,22 @@
       "sectors": [
         "SaaS"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-02"
     },
     {
       "name": "Mindtickle",
       "slug": "mindtickle",
       "jobsBoardUrl": "https://jobs.accel.com/companies/mindtickle#content",
-      "activeJobCount": 37,
+      "activeJobCount": 35,
       "domain": "mindtickle.com",
       "logoUrl": "https://cdn.getro.com/companies/26ed51b2-ecd4-4a96-8e90-5d8d92da7398-1760577255",
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-18"
     },
     {
@@ -687,7 +803,9 @@
       "logoUrl": "https://cdn.getro.com/companies/fd15bb9f-546a-483c-babb-f2b3dc964124-1766108151",
       "sectors": [
         "Media & Entertainment"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "moneyview",
@@ -699,6 +817,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-14"
     },
     {
@@ -711,6 +831,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-01-17"
     },
     {
@@ -723,6 +845,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-01-31"
     },
     {
@@ -734,7 +858,9 @@
       "logoUrl": "https://cdn.getro.com/companies/f98791be-c7ba-484b-bf4e-ae8215f22768-1766626499",
       "sectors": [
         "Manufacturing & Hardware"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "NAKAD",
@@ -745,7 +871,9 @@
       "logoUrl": "https://cdn.getro.com/companies/8d539dd4-0f75-49bc-978c-543343cadabf-1761701882",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Newme",
@@ -756,7 +884,9 @@
       "logoUrl": "https://cdn.getro.com/companies/98106378-c545-4f7f-96fc-3b06673f0dbb-1766108143",
       "sectors": [
         "E-Commerce & D2C"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Ninjacart",
@@ -768,6 +898,8 @@
       "sectors": [
         "Logistics"
       ],
+      "hasInternships": true,
+      "internshipCount": 2,
       "latestJobDate": "2025-11-21"
     },
     {
@@ -780,6 +912,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": true,
+      "internshipCount": 2,
       "latestJobDate": "2025-07-04"
     },
     {
@@ -791,7 +925,9 @@
       "logoUrl": "https://cdn.getro.com/companies/de76d2cb-760b-4e7f-b326-be7ace1060c5-1760578744",
       "sectors": [
         "Consumer Services"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Onco",
@@ -803,6 +939,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2023-12-15"
     },
     {
@@ -815,6 +953,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-18"
     },
     {
@@ -827,6 +967,8 @@
       "sectors": [
         "EdTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2023-12-09"
     },
     {
@@ -839,6 +981,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-14"
     },
     {
@@ -850,7 +994,9 @@
       "logoUrl": "https://cdn.getro.com/companies/f92f7dc9-7fca-4232-a5ce-25083cff2628-1760405769",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Portea Medical",
@@ -862,6 +1008,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-12-26"
     },
     {
@@ -874,6 +1022,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2024-01-15"
     },
     {
@@ -886,7 +1036,9 @@
       "sectors": [
         "Consumer Services",
         "EdTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Powerup Money",
@@ -897,7 +1049,9 @@
       "logoUrl": "https://cdn.getro.com/companies/5161bc36-d334-47d6-8cea-a9c47902103c-1762911568",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Probe42",
@@ -909,6 +1063,8 @@
       "sectors": [
         "SaaS"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-05"
     },
     {
@@ -920,7 +1076,9 @@
       "logoUrl": "https://cdn.getro.com/companies/a1bf0483-78b3-428c-b104-bc2199341a02-1761356012",
       "sectors": [
         "Real Estate"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Qwikcilver",
@@ -931,7 +1089,9 @@
       "logoUrl": "https://cdn.getro.com/companies/8ef16a2f-8dd2-48e4-9ebe-afc1d755d6b7-1761701896",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Recommercex",
@@ -943,7 +1103,9 @@
       "sectors": [
         "CleanTech & Energy",
         "Consumer Services"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Rentomojo",
@@ -955,6 +1117,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-17"
     },
     {
@@ -967,6 +1131,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-01-15"
     },
     {
@@ -979,6 +1145,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-12"
     },
     {
@@ -991,6 +1159,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": true,
+      "internshipCount": 1,
       "latestJobDate": "2026-02-17"
     },
     {
@@ -1002,7 +1172,9 @@
       "logoUrl": "https://cdn.getro.com/companies/890e33c1-f069-4b93-821f-823872335bfb-1760751079",
       "sectors": [
         "FoodTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Sahi",
@@ -1013,7 +1185,9 @@
       "logoUrl": "https://cdn.getro.com/companies/14a5f370-2690-48df-ad3c-566361998c9f-1766108150",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Samunnati",
@@ -1024,7 +1198,9 @@
       "logoUrl": "https://cdn.getro.com/companies/4fb75b4c-2cd1-4e48-9f9f-5bc3d39859de-1761356030",
       "sectors": [
         "FinTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Sarla Aviation",
@@ -1036,6 +1212,8 @@
       "sectors": [
         "Manufacturing & Hardware"
       ],
+      "hasInternships": true,
+      "internshipCount": 1,
       "latestJobDate": "2026-02-17"
     },
     {
@@ -1048,6 +1226,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2023-12-11"
     },
     {
@@ -1061,6 +1241,8 @@
         "Consumer Services",
         "Manufacturing & Hardware"
       ],
+      "hasInternships": true,
+      "internshipCount": 2,
       "latestJobDate": "2026-02-16"
     },
     {
@@ -1073,6 +1255,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-12-30"
     },
     {
@@ -1085,6 +1269,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2024-01-15"
     },
     {
@@ -1096,7 +1282,9 @@
       "logoUrl": "https://cdn.getro.com/companies/089e623e-a5ac-49dd-aaad-f76a5ba3a675-1761356034",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Spinny",
@@ -1108,6 +1296,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-12-06"
     },
     {
@@ -1119,18 +1309,22 @@
       "logoUrl": "https://cdn.getro.com/companies/19495310-092a-467b-8c89-9c6650ed866f-1760578612",
       "sectors": [
         "EdTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Sprinto ",
       "slug": "sprinto-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/sprinto-2#content",
-      "activeJobCount": 16,
+      "activeJobCount": 15,
       "domain": "sprinto.com",
       "logoUrl": "https://cdn.getro.com/companies/20bfd522-8f85-4834-ae79-1b992dc30588-1761616137",
       "sectors": [
         "SaaS"
       ],
+      "hasInternships": true,
+      "internshipCount": 2,
       "latestJobDate": "2026-02-17"
     },
     {
@@ -1143,6 +1337,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": true,
+      "internshipCount": 2,
       "latestJobDate": "2026-02-09"
     },
     {
@@ -1154,7 +1350,9 @@
       "logoUrl": "https://cdn.getro.com/companies/3aedcecd-129d-408f-8f9e-a76fba49be37-1761356053",
       "sectors": [
         "Travel & Hospitality"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "SureWaves",
@@ -1165,7 +1363,9 @@
       "logoUrl": "https://cdn.getro.com/companies/89861179-8015-4b3c-b83a-d0bcbdbe1b2e-1761356056",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Swiggy",
@@ -1176,7 +1376,9 @@
       "logoUrl": "https://cdn.getro.com/companies/0bcb3696-8a8d-447e-9550-336b3923c309-1760578458",
       "sectors": [
         "FoodTech"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Teabox",
@@ -1188,6 +1390,8 @@
       "sectors": [
         "FoodTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-02"
     },
     {
@@ -1200,6 +1404,8 @@
       "sectors": [
         "SaaS"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-01-20"
     },
     {
@@ -1211,7 +1417,9 @@
       "logoUrl": "https://cdn.getro.com/companies/8019f7ca-bd46-467c-ab7c-bf6411b889a5-1761356105",
       "sectors": [
         "SaaS"
-      ]
+      ],
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Trinkerr",
@@ -1223,6 +1431,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-05-06"
     },
     {
@@ -1235,6 +1445,8 @@
       "sectors": [
         "HealthTech"
       ],
+      "hasInternships": true,
+      "internshipCount": 3,
       "latestJobDate": "2026-02-19"
     },
     {
@@ -1247,6 +1459,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-03-28"
     },
     {
@@ -1259,6 +1473,8 @@
       "sectors": [
         "SaaS"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-01-30"
     },
     {
@@ -1271,6 +1487,8 @@
       "sectors": [
         "EdTech"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2025-05-29"
     },
     {
@@ -1283,6 +1501,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": true,
+      "internshipCount": 2,
       "latestJobDate": "2026-02-09"
     },
     {
@@ -1295,6 +1515,8 @@
       "sectors": [
         "E-Commerce & D2C"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-17"
     },
     {
@@ -1307,6 +1529,8 @@
       "sectors": [
         "Consumer Services"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-13"
     },
     {
@@ -1319,6 +1543,8 @@
       "sectors": [
         "SaaS"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-02-18"
     },
     {
@@ -1331,6 +1557,8 @@
       "sectors": [
         "Manufacturing & Hardware"
       ],
+      "hasInternships": false,
+      "internshipCount": 0,
       "latestJobDate": "2026-01-30"
     },
     {
@@ -1343,6 +1571,8 @@
       "sectors": [
         "FinTech"
       ],
+      "hasInternships": true,
+      "internshipCount": 1,
       "latestJobDate": "2025-12-31"
     }
   ]

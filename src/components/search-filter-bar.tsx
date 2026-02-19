@@ -15,6 +15,9 @@ interface SearchFilterBarProps {
   activeSectors: Set<string>;
   onToggleSector: (sector: string) => void;
   onClearAll: () => void;
+  internshipOnly: boolean;
+  onToggleInternship: () => void;
+  internshipCompanyCount: number;
 }
 
 export function SearchFilterBar({
@@ -24,9 +27,12 @@ export function SearchFilterBar({
   activeSectors,
   onToggleSector,
   onClearAll,
+  internshipOnly,
+  onToggleInternship,
+  internshipCompanyCount,
 }: SearchFilterBarProps) {
   const inputRef = useRef<HTMLInputElement>(null);
-  const hasActiveFilters = searchQuery.length > 0 || activeSectors.size > 0;
+  const hasActiveFilters = searchQuery.length > 0 || activeSectors.size > 0 || internshipOnly;
 
   useEffect(() => {
     function handleKeyDown(e: KeyboardEvent) {
@@ -67,8 +73,32 @@ export function SearchFilterBar({
           )}
         </div>
 
+        {/* Internship toggle — filters to companies with internship roles (Getro-based funds only) */}
+        <div className="mt-4 flex items-center gap-3">
+          <button
+            onClick={onToggleInternship}
+            className={`inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-sm font-medium transition-all duration-150 ${
+              internshipOnly
+                ? "bg-primary text-primary-foreground shadow-sm"
+                : "bg-muted text-muted-foreground hover:bg-muted/80 hover:text-foreground"
+            }`}
+          >
+            <span className="text-base" aria-hidden="true">🎓</span>
+            Internships only
+            <span
+              className={`font-mono text-xs ${
+                internshipOnly
+                  ? "text-primary-foreground/70"
+                  : "text-muted-foreground/60"
+              }`}
+            >
+              {internshipCompanyCount}
+            </span>
+          </button>
+        </div>
+
         {/* Sector pills */}
-        <div className="mt-4 flex flex-wrap items-center gap-2.5">
+        <div className="mt-3 flex flex-wrap items-center gap-2.5">
           {sectors.map((sector) => {
             const isActive = activeSectors.has(sector.name);
             return (
