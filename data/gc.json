@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-02-14",
-    "totalCompanies": 29,
+    "lastUpdated": "2026-02-19",
+    "totalCompanies": 25,
     "source": "https://jobs.generalcatalyst.com"
   },
   "companies": [
@@ -12,9 +12,7 @@
       "activeJobCount": 58,
       "domain": "amigo.ai",
       "logoUrl": "https://cdn.getro.com/companies/2003f185-13b5-50d2-9dbf-a3f7d9a4e735-1733314828",
-      "sectors": [
-        "AI & Data"
-      ],
+      "sectors": [],
       "latestJobDate": "2026-01-31"
     },
     {
@@ -79,13 +77,13 @@
       "name": "CRED",
       "slug": "cred",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cred#content",
-      "activeJobCount": 9,
+      "activeJobCount": 10,
       "domain": "cred.club",
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
         "FinTech"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-16"
     },
     {
       "name": "Fitmint",
@@ -97,18 +95,6 @@
       "sectors": [
         "HealthTech"
       ]
-    },
-    {
-      "name": "General Catalyst",
-      "slug": "general-catalyst",
-      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/general-catalyst#content",
-      "activeJobCount": 2,
-      "domain": "generalcatalyst.com",
-      "logoUrl": "https://cdn.getro.com/companies/cf77a6a4-c643-5733-b194-00841a32fdea-1748395846",
-      "sectors": [
-        "FinTech"
-      ],
-      "latestJobDate": "2025-11-07"
     },
     {
       "name": "GetSupp",
@@ -142,7 +128,7 @@
       "sectors": [
         "HealthTech"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-17"
     },
     {
       "name": "Magma",
@@ -152,7 +138,7 @@
       "domain": "magmagroup.in",
       "logoUrl": "https://cdn.getro.com/companies/706bc5ee-5b40-4aea-b67c-f04cab24b37d-1764072942",
       "sectors": [
-        "FinTech"
+        "E-Commerce & D2C"
       ]
     },
     {
@@ -170,13 +156,13 @@
       "name": "Nurix",
       "slug": "nurix",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/nurix#content",
-      "activeJobCount": 18,
+      "activeJobCount": 16,
       "domain": "nurix.ai",
       "logoUrl": "https://cdn.getro.com/companies/799e8df4-eae3-4813-836a-c72a4044fc91-1767749870",
       "sectors": [
         "Consumer Services"
       ],
-      "latestJobDate": "2026-01-27"
+      "latestJobDate": "2025-12-15"
     },
     {
       "name": "Omli Technologies",
@@ -185,9 +171,7 @@
       "activeJobCount": 0,
       "domain": "omli.in",
       "logoUrl": "https://cdn.getro.com/companies/47ab6a46-2042-4336-9a3f-7ee3131d960a-1766060343",
-      "sectors": [
-        "AI & Data"
-      ]
+      "sectors": []
     },
     {
       "name": "Orange Health Labs",
@@ -199,7 +183,7 @@
       "sectors": [
         "HealthTech"
       ],
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-02-14"
     },
     {
       "name": "Primus",
@@ -244,7 +228,8 @@
       "logoUrl": "https://cdn.getro.com/companies/0c5fcb2a-a443-436e-b143-a80719de613d-1761013502",
       "sectors": [
         "HealthTech"
-      ]
+      ],
+      "latestJobDate": "2023-10-25"
     },
     {
       "name": "Spinny",
@@ -271,20 +256,6 @@
       "latestJobDate": "2026-01-31"
     },
     {
-      "name": "Stripe",
-      "slug": "stripe",
-      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/stripe#content",
-      "activeJobCount": 568,
-      "domain": "stripe.com",
-      "logoUrl": "https://cdn.getro.com/companies/3ff662b2-2b95-484f-9f47-25ddacb04810-1768235130",
-      "sectors": [
-        "Consumer Services",
-        "FinTech",
-        "SaaS"
-      ],
-      "latestJobDate": "2026-02-14"
-    },
-    {
       "name": "Uni Cards ",
       "slug": "uni-cards-2",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/uni-cards-2#content",
@@ -295,30 +266,6 @@
         "FinTech"
       ],
       "latestJobDate": "2025-03-28"
-    },
-    {
-      "name": "Wag",
-      "slug": "wag-2",
-      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/wag-2#content",
-      "activeJobCount": 6,
-      "domain": "wagwalking.com",
-      "logoUrl": "https://cdn.getro.com/companies/42a22129-3a54-4692-a0d7-8e3a12c9e12a-1768399998",
-      "sectors": [
-        "Consumer Services"
-      ],
-      "latestJobDate": "2025-09-02"
-    },
-    {
-      "name": "Windsurf",
-      "slug": "windsurf",
-      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/windsurf#content",
-      "activeJobCount": 41,
-      "domain": "windsurf.com",
-      "logoUrl": "https://cdn.getro.com/companies/7d771838-4131-4849-b16c-a8b6098b02fc-1760046959",
-      "sectors": [
-        "FoodTech"
-      ],
-      "latestJobDate": "2026-02-13"
     },
     {
       "name": "XFlow",
