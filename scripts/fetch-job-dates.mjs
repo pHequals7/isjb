@@ -106,9 +106,12 @@ for (const fund of fundsToProcess) {
     const filePath = join(dataDir, `${fund.id}.json`);
     const data = JSON.parse(readFileSync(filePath, "utf-8"));
 
+    const activeCompanies = data.companies.filter(
+      (c) => (c.activeJobCount ?? 0) > 0
+    );
     const targetCompanies = forceRefresh
-      ? data.companies
-      : data.companies.filter((c) => !c.latestJobDate);
+      ? activeCompanies
+      : activeCompanies.filter((c) => !c.latestJobDate);
     const targetSlugs = targetCompanies.map((c) => c.slug);
     if (targetSlugs.length === 0) {
       console.log("  All companies already have latestJobDate, skipping");

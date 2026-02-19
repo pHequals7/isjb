@@ -14,6 +14,10 @@ const overridePath = join(process.cwd(), "data", "indian-origin-override.json");
 const overrides = JSON.parse(readFileSync(overridePath, "utf-8"));
 const overrideSlugs = new Set(overrides.slugs);
 
+// Load per-fund India filters (denylist/allowlist)
+const filterPath = join(process.cwd(), "data", "india-filter.json");
+const indiaFilters = JSON.parse(readFileSync(filterPath, "utf-8"));
+
 function isIndianCompany(company) {
   // Check if any location contains "India"
   const locations = company.locations || [];
@@ -29,6 +33,20 @@ function isIndianCompany(company) {
     return true;
   }
   return false;
+}
+
+function passesFundFilter(company, fundId) {
+  const filter = indiaFilters[fundId];
+  if (!filter) return true;
+
+  const slugs = new Set(filter.slugs || []);
+  if (filter.mode === "allowlist") {
+    return slugs.has(company.slug);
+  }
+  if (filter.mode === "denylist") {
+    return !slugs.has(company.slug);
+  }
+  return true;
 }
 
 async function fetchAllCompanies(collectionId) {
@@ -73,8 +91,11 @@ for (const config of configs) {
     console.log(`  Sample logo_url: ${companies[0].logo_url}`);
   }
 
-  const withJobs = companies
+  const filtered = companies
     .filter((c) => isIndianCompany(c))
+    .filter((c) => passesFundFilter(c, config.id));
+
+  const withJobs = filtered
     .map((c) => ({
       name: c.name,
       slug: c.slug,
@@ -98,6 +119,6 @@ for (const config of configs) {
   const outPath = join(process.cwd(), "data", `${config.id}.json`);
   writeFileSync(outPath, JSON.stringify(data, null, 2));
   console.log(
-    `  ${config.id}: ${companies.length} total, ${withJobs.length} Indian with jobs, saved to ${outPath}`
+    `  ${config.id}: ${companies.length} total, ${withJobs.length} after India + fund filters, saved to ${outPath}`
   );
 }
