@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { useTheme } from "next-themes";
+import { Github } from "lucide-react";
 import { AnimatedShinyText } from "@/components/magic/animated-shiny-text";
 import { Particles } from "@/components/magic/particles";
 import { LogoTicker } from "@/components/logo-ticker";
@@ -30,6 +31,18 @@ export function Header() {
         refresh
       />
       <div className="relative z-10 mx-auto max-w-7xl px-4 py-12 text-center sm:px-6 sm:py-16 lg:px-8">
+        <div className="mb-6 flex justify-end">
+          <a
+            href="https://github.com/pHequals7/isjb/issues"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Contribute to ISJB on GitHub"
+            className="inline-flex items-center gap-2 rounded-full border border-primary-foreground/25 bg-primary-foreground/10 px-3 py-1.5 text-xs font-medium text-primary-foreground transition-all duration-200 hover:-translate-y-0.5 hover:bg-primary-foreground/20 sm:px-4 sm:text-sm"
+          >
+            <Github className="h-3.5 w-3.5 sm:h-4 sm:w-4" />
+            <span>Contribute Here</span>
+          </a>
+        </div>
         <div className="inline-flex items-center gap-4">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
