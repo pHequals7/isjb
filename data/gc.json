@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-02-19",
+    "lastUpdated": "2026-02-23",
     "totalCompanies": 25,
     "source": "https://jobs.generalcatalyst.com"
   },
@@ -9,13 +9,13 @@
       "name": "Amigo",
       "slug": "amigo-2",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/amigo-2#content",
-      "activeJobCount": 58,
+      "activeJobCount": 59,
       "domain": "amigo.ai",
       "logoUrl": "https://cdn.getro.com/companies/2003f185-13b5-50d2-9dbf-a3f7d9a4e735-1733314828",
       "sectors": [],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-01-31"
+      "latestJobDate": "2026-02-21"
     },
     {
       "name": "axiTrust",
@@ -89,7 +89,7 @@
       "name": "CRED",
       "slug": "cred",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cred#content",
-      "activeJobCount": 12,
+      "activeJobCount": 11,
       "domain": "cred.club",
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
@@ -142,15 +142,15 @@
       "name": "Loop Health",
       "slug": "loop-health",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/loop-health#content",
-      "activeJobCount": 38,
+      "activeJobCount": 37,
       "domain": "loophealth.com",
       "logoUrl": "https://cdn.getro.com/companies/aecb599a-f58b-4e81-9be9-214e0d445ad9-1760578066",
       "sectors": [
         "HealthTech"
       ],
       "hasInternships": true,
-      "internshipCount": 2,
-      "latestJobDate": "2026-02-17"
+      "internshipCount": 1,
+      "latestJobDate": "2026-02-13"
     },
     {
       "name": "Magma",
@@ -215,7 +215,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-02-14"
+      "latestJobDate": "2026-02-22"
     },
     {
       "name": "Primus",
@@ -295,9 +295,9 @@
       "sectors": [
         "Media & Entertainment"
       ],
-      "hasInternships": true,
-      "internshipCount": 1,
-      "latestJobDate": "2026-01-31"
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-02-20"
     },
     {
       "name": "Uni Cards ",
