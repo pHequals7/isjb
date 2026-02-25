@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-02-19",
+    "lastUpdated": "2026-02-23",
     "totalCompanies": 14,
     "source": "https://jobs.blume.vc"
   },
@@ -154,7 +154,7 @@
       "name": "Vecmocon Technologies",
       "slug": "vecmocon-technologies-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/vecmocon-technologies-2#content",
-      "activeJobCount": 23,
+      "activeJobCount": 21,
       "domain": "vecmocon.com",
       "logoUrl": "https://cdn.getro.com/companies/88a8ef1e-d297-54c3-8716-4dec20101f8e-1757074551",
       "sectors": [
@@ -190,8 +190,8 @@
         "FinTech"
       ],
       "hasInternships": true,
-      "internshipCount": 18,
-      "latestJobDate": "2026-02-17"
+      "internshipCount": 21,
+      "latestJobDate": "2026-02-20"
     }
   ]
 }
