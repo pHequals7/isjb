@@ -74,7 +74,7 @@ jobs:
         if: steps.changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.BOT_GH_TOKEN }}
           commit-message: "chore(data): weekly refresh (getro)"
           title: "chore(data): weekly refresh (getro)"
           body-path: .github/.tmp/data-delta.md
