@@ -6,6 +6,7 @@ const boards = [
   { id: "lightspeed", baseUrl: "https://jobs.lsvp.com" },
   { id: "peakxv", baseUrl: "https://careers.peakxv.com" },
   { id: "nexus", baseUrl: "https://jobs.nexusvp.com" },
+  { id: "bessemer", baseUrl: "https://jobs.bvp.com" },
 ];
 
 // Non-Indian companies to exclude (US/global/SEA companies with India offices)
@@ -39,17 +40,43 @@ function decodeHtmlEntities(str) {
   return str.replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"');
 }
 
+function loadRawCompanies(raw) {
+  // New CI scraper writes normalized `companies`; keep legacy fallback for existing raw format.
+  if (Array.isArray(raw.companies)) {
+    return raw.companies.map((c) => ({
+      name: c.name,
+      slug: c.slug,
+      activeJobCount: c.activeJobCount || 0,
+      logoUrl: c.logoUrl ? decodeHtmlEntities(c.logoUrl) : "",
+    }));
+  }
+
+  const companies = [];
+  for (let i = 0; i < (raw.companyNames || []).length; i++) {
+    companies.push({
+      name: raw.companyNames[i],
+      slug: raw.slugs?.[i],
+      activeJobCount: raw.jobCounts?.[i] || 0,
+      logoUrl: raw.logoUrls?.[i] ? decodeHtmlEntities(raw.logoUrls[i]) : "",
+    });
+  }
+  return companies;
+}
+
 for (const board of boards) {
   console.log(`\n=== ${board.id.toUpperCase()} ===`);
 
   const raw = JSON.parse(readFileSync(`data/${board.id}-india-raw.json`, "utf-8"));
+  const rawCompanies = loadRawCompanies(raw);
 
   const companies = [];
-  for (let i = 0; i < raw.companyNames.length; i++) {
-    const name = raw.companyNames[i];
-    const slug = raw.slugs[i];
-    const logoUrl = raw.logoUrls[i] ? decodeHtmlEntities(raw.logoUrls[i]) : "";
-    const jobCount = raw.jobCounts[i] || 0;
+  for (const rawCompany of rawCompanies) {
+    const name = rawCompany.name;
+    const slug = rawCompany.slug;
+    const logoUrl = rawCompany.logoUrl;
+    const jobCount = rawCompany.activeJobCount;
+
+    if (!slug || !name) continue;
 
     if (nonIndianSlugs.has(slug)) {
       console.log(`  EXCLUDED: ${name} (${slug}) - non-Indian`);
@@ -67,19 +94,32 @@ for (const board of boards) {
       activeJobCount: jobCount,
       domain,
       logoUrl,
+      sectors: [],
     });
   }
 
-  // Try to merge domains from existing data
+  // Try to merge stable fields from existing data.
   try {
     const existing = JSON.parse(readFileSync(`data/${board.id}.json`, "utf-8"));
-    const domainMap = new Map();
+    const companyMap = new Map();
     for (const c of existing.companies) {
-      if (c.domain) domainMap.set(c.slug, c.domain);
+      companyMap.set(c.slug, c);
     }
     for (const c of companies) {
-      if (!c.domain && domainMap.has(c.slug)) {
-        c.domain = domainMap.get(c.slug);
+      const prev = companyMap.get(c.slug);
+      if (!prev) continue;
+
+      if (!c.domain && prev.domain) {
+        c.domain = prev.domain;
+      }
+      if ((!c.logoUrl || c.logoUrl.length === 0) && prev.logoUrl) {
+        c.logoUrl = prev.logoUrl;
+      }
+      if (Array.isArray(prev.sectors) && prev.sectors.length > 0) {
+        c.sectors = prev.sectors;
+      }
+      if (prev.latestJobDate) {
+        c.latestJobDate = prev.latestJobDate;
       }
     }
   } catch {}
@@ -102,17 +142,3 @@ for (const board of boards) {
   console.log(`  ${withLogos} with logos`);
   console.log(`  ${totalJobs} total jobs`);
 }
-
-// Now update india-filter.json - since we've already filtered at data level,
-// we can simplify the filter config
-console.log("\n=== Updating india-filter.json ===");
-const filterData = JSON.parse(readFileSync("data/india-filter.json", "utf-8"));
-
-// Remove Consider fund filters since data is now pre-filtered
-delete filterData.peakxv;
-delete filterData.lightspeed;
-delete filterData.nexus;
-
-writeFileSync("data/india-filter.json", JSON.stringify(filterData, null, 2) + "\n");
-console.log("  Removed Consider fund filters (data already filtered)");
-console.log("  Remaining filters:", Object.keys(filterData).join(", "));

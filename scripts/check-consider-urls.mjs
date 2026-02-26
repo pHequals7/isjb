@@ -8,6 +8,7 @@ const funds = [
   { id: "peakxv", file: "data/peakxv.json", baseUrl: "https://careers.peakxv.com" },
   { id: "lightspeed", file: "data/lightspeed.json", baseUrl: "https://jobs.lsvp.com" },
   { id: "nexus", file: "data/nexus.json", baseUrl: "https://jobs.nexusvp.com" },
+  { id: "bessemer", file: "data/bessemer.json", baseUrl: "https://jobs.bvp.com" },
 ];
 
 async function checkCompany(baseUrl, slug) {

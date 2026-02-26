@@ -1,0 +1,90 @@
+name: Data Refresh (Consider)
+
+on:
+  schedule:
+    - cron: "15 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    name: Refresh Consider Data
+    runs-on: ubuntu-latest
+    concurrency:
+      group: data-refresh-consider
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Snapshot current data
+        run: |
+          mkdir -p "$RUNNER_TEMP/before-data"
+          cp -a data/. "$RUNNER_TEMP/before-data/"
+
+      - name: Refresh Consider data
+        run: node scripts/refresh-consider-ci.mjs
+
+      - name: Build site
+        run: npm run build
+
+      - name: Generate delta report
+        run: |
+          mkdir -p .github/.tmp
+          node scripts/report-data-delta.mjs \
+            --before-dir "$RUNNER_TEMP/before-data" \
+            --after-dir "data" \
+            --funds "peakxv,lightspeed,nexus,bessemer" \
+            --out-dir ".github/.tmp"
+
+      - name: Publish report to run summary
+        run: cat .github/.tmp/data-delta.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload delta report artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-refresh-consider-delta
+          path: |
+            .github/.tmp/data-delta.json
+            .github/.tmp/data-delta.md
+
+      - name: Detect tracked data changes
+        id: changes
+        run: |
+          if git diff --quiet -- data/peakxv.json data/lightspeed.json data/nexus.json data/bessemer.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create or update pull request
+        if: steps.changes.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.BOT_GH_TOKEN }}
+          commit-message: "chore(data): weekly refresh (consider)"
+          title: "chore(data): weekly refresh (consider)"
+          body-path: .github/.tmp/data-delta.md
+          branch: bot/data-refresh-consider
+          delete-branch: false
+          add-paths: |
+            data/peakxv.json
+            data/lightspeed.json
+            data/nexus.json
+            data/bessemer.json

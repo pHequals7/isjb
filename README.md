@@ -89,12 +89,14 @@ npm run build
 
 ### Automated (GitHub Actions)
 
-Workflow: `.github/workflows/data-refresh.yml`
+Workflows:
+- `.github/workflows/data-refresh.yml` (Getro funds)
+- `.github/workflows/data-refresh-consider.yml` (Consider funds)
 
-- Runs weekly: Monday 06:00 UTC.
+- Run weekly (Monday UTC; staggered schedules).
 - Supports manual dispatch from the Actions tab.
-- Refreshes Getro funds (`accel`, `gc`, `blume`) in CI.
-- Creates/updates a PR when tracked data changes.
+- Refreshes Getro funds (`accel`, `gc`, `blume`) and Consider funds (`peakxv`, `lightspeed`, `nexus`, `bessemer`) in CI-native paths.
+- Creates/updates provider-specific PRs when tracked data changes.
 - Attaches a delta report with company/job count diffs.
 
 ### Manual refresh (local)

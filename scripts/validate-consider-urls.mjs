@@ -9,6 +9,7 @@ const boards = [
   { id: "peakxv", file: "data/peakxv.json", baseUrl: "https://careers.peakxv.com", boardName: "Peak XV" },
   { id: "lightspeed", file: "data/lightspeed.json", baseUrl: "https://jobs.lsvp.com", boardName: "Lightspeed" },
   { id: "nexus", file: "data/nexus.json", baseUrl: "https://jobs.nexusvp.com", boardName: "Nexus" },
+  { id: "bessemer", file: "data/bessemer.json", baseUrl: "https://jobs.bvp.com", boardName: "Bessemer" },
 ];
 
 const filterData = JSON.parse(readFileSync("data/india-filter.json", "utf-8"));
@@ -49,6 +50,8 @@ const verifyTests = [
   { base: "https://careers.peakxv.com", slug: "totally-fake-xyz", expect: "404" },
   { base: "https://jobs.nexusvp.com", slug: "allo-health", expect: "valid" },
   { base: "https://jobs.nexusvp.com", slug: "totally-fake-xyz", expect: "404" },
+  { base: "https://jobs.bvp.com", slug: "livspace", expect: "valid" },
+  { base: "https://jobs.bvp.com", slug: "totally-fake-xyz", expect: "404" },
 ];
 
 let verifyOk = true;

@@ -1,6 +1,6 @@
 # Data Refresh SOP
 
-Standard operating procedure for refreshing company and job data across all 5 VC funds. Run monthly or as needed.
+Standard operating procedure for refreshing company and job data across all 7 VC funds. Run monthly or as needed.
 
 ---
 
@@ -9,13 +9,15 @@ Standard operating procedure for refreshing company and job data across all 5 VC
 ```
 Data Sources                  Scripts                         Output
 ─────────────                 ───────                         ──────
-Getro API (Accel, GC)    →   fetch-getro.mjs              →  data/accel.json
+Getro API (Accel, GC, Blume) → fetch-getro.mjs            →  data/accel.json
                                                               data/gc.json
+                                                              data/blume.json
 
 Consider Boards           →   scrape-consider-india.mjs    →  data/{id}-india-raw.json
 (PeakXV, Lightspeed,         rebuild-consider-data.mjs    →  data/peakxv.json
- Nexus)                                                       data/lightspeed.json
+ Nexus, Bessemer)                                             data/lightspeed.json
                                                               data/nexus.json
+                                                              data/bessemer.json
 
 All data files            →   assign-consider-sectors.mjs  →  (sectors added to Consider files)
                               normalize-sectors.mjs        →  (sectors normalized across all files)
@@ -33,30 +35,31 @@ All data files            →   validate-getro-urls.mjs      →  Console report
 
 ## Step-by-Step Refresh
 
-### Step 1: Fetch Getro data (Accel & General Catalyst)
+### Step 1: Fetch Getro data (Accel, General Catalyst, Blume)
 
 ```bash
 node scripts/fetch-getro.mjs
 ```
 
 **What it does:**
-- Calls `api.getro.com/api/v2/collections/{id}/search/companies` for Accel (collection 8672) and GC (collection 222)
+- Calls `api.getro.com/api/v2/collections/{id}/search/companies` for Accel (8672), GC (222), and Blume (32333)
 - Paginates through all companies (12 per page)
 - Filters to India-only companies using location data + `data/indian-origin-override.json` allowlist
 - Extracts: name, slug, jobsBoardUrl, activeJobCount, domain, logoUrl, sectors (from `industry_tags`)
-- Writes to `data/accel.json` and `data/gc.json`
+- Writes to `data/accel.json`, `data/gc.json`, and `data/blume.json`
 
 **Expected output:**
 ```
 accel: 566 total, ~77 Indian with jobs
 gc: 501 total, ~19 Indian with jobs
+blume: ~250 total, ~80+ Indian with jobs
 ```
 
 **No external auth needed** — the Getro API is public.
 
 ---
 
-### Step 2: Scrape Consider boards (PeakXV, Lightspeed, Nexus)
+### Step 2: Scrape Consider boards (PeakXV, Lightspeed, Nexus, Bessemer)
 
 ```bash
 node scripts/scrape-consider-india.mjs
@@ -85,7 +88,7 @@ node scripts/rebuild-consider-data.mjs
 - Filters out non-Indian companies using a hardcoded exclusion list (US/SEA companies with India offices like Databricks, Stripe, Rippling, etc.)
 - Merges domain data from existing data files (for Google Favicon fallback)
 - Sorts by job count (descending), then alphabetically
-- Writes clean data to `data/peakxv.json`, `data/lightspeed.json`, `data/nexus.json`
+- Writes clean data to `data/peakxv.json`, `data/lightspeed.json`, `data/nexus.json`, `data/bessemer.json`
 
 **Important:** If new non-Indian companies appear in scrapes, add their slugs to the `nonIndianSlugs` set in this script.
 
@@ -98,7 +101,7 @@ node scripts/assign-consider-sectors.mjs
 ```
 
 **What it does:**
-- Reads each Consider data file and assigns `sectors` arrays from a hardcoded mapping in the script
+- Reads mapped Consider data files (`peakxv`, `lightspeed`, `nexus`) and assigns `sectors` arrays from a hardcoded mapping in the script
 - Every Consider company slug must have a mapping entry
 
 **When new companies appear:** After a re-scrape, new companies won't have sector assignments. You'll see them listed as "Missing" in the output. Add entries to the `sectorAssignments` object in the script before proceeding.
@@ -113,7 +116,7 @@ node scripts/normalize-sectors.mjs
 
 **What it does:**
 - Reads `data/sector-map.json` which maps ~195 raw sector/industry names to 16 canonical categories
-- Applies normalization across ALL 5 data files (Getro + Consider)
+- Applies normalization across ALL 7 data files (Getro + Consider)
 - Reports any unmapped sector names
 
 **If unmapped sectors appear:** Add them to `data/sector-map.json` with the appropriate canonical category, then re-run this script.
@@ -187,37 +190,47 @@ npm run build
 
 ## Automated Weekly Refresh (GitHub Actions)
 
-The repo includes a scheduled workflow at `.github/workflows/data-refresh.yml`.
+The repo includes two scheduled refresh workflows:
 
-- **Schedule:** Monday at 06:00 UTC (`0 6 * * 1`)
-- **Manual run:** GitHub Actions → `Data Refresh` → `Run workflow`
-- **Current scope (Phase 1):** Getro funds only (`accel`, `gc`, `blume`)
-- **Output:** Opens/updates PR `bot/data-refresh` only if tracked data files changed
+- **Getro:** `.github/workflows/data-refresh.yml` (Monday 06:00 UTC)
+- **Consider:** `.github/workflows/data-refresh-consider.yml` (Monday 06:15 UTC)
+- **Manual run:** GitHub Actions → pick workflow → `Run workflow`
+- **Output:** Opens/updates provider-specific bot PRs only if tracked data files changed
 
-### What the workflow runs
+### What the workflows run
 
 ```bash
+# Getro
 node scripts/refresh-getro-ci.mjs
 npm run build
 node scripts/report-data-delta.mjs \
   --before-dir <snapshot> \
   --after-dir data \
   --funds accel,gc,blume
+
+# Consider
+node scripts/refresh-consider-ci.mjs
+npm run build
+node scripts/report-data-delta.mjs \
+  --before-dir <snapshot> \
+  --after-dir data \
+  --funds peakxv,lightspeed,nexus,bessemer
 ```
 
 ### PR behavior
 
 - No changes in `data/accel.json`, `data/gc.json`, `data/blume.json` → no PR
-- Any changes in those files → PR is created/updated with:
+- Any Getro changes in those files → PR `bot/data-refresh` is created/updated with:
+- No changes in `data/peakxv.json`, `data/lightspeed.json`, `data/nexus.json`, `data/bessemer.json` → no PR
+- Any Consider changes in those files → PR `bot/data-refresh-consider` is created/updated with:
   - company count delta
   - job count delta
   - added/removed company slugs
   - top job-count movers
 
-### Known limitation
+### Notes
 
-Consider/Bessemer refresh is still manual because current scraper relies on `agent-browser`.  
-A CI-native scraper (Playwright) is the next step to fully automate all funds.
+Consider automation uses Playwright in CI to scrape board pages and rebuild fund files.
 
 ---
 

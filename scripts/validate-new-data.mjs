@@ -6,6 +6,7 @@ const boards = [
   { id: "lightspeed", baseUrl: "https://jobs.lsvp.com" },
   { id: "peakxv", baseUrl: "https://careers.peakxv.com" },
   { id: "nexus", baseUrl: "https://jobs.nexusvp.com" },
+  { id: "bessemer", baseUrl: "https://jobs.bvp.com" },
 ];
 
 for (const board of boards) {
