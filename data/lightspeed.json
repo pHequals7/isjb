@@ -27,7 +27,7 @@
       "name": "SolarSquare Energy",
       "slug": "solarsquare-energy",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/solarsquare-energy",
-      "activeJobCount": 134,
+      "activeJobCount": 135,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/d4b3fdab493ff835c626f4690eb11141_160_160?Expires=1861920000&Signature=fFMxwbO6ghxQN3TBXpA8qJ2KDYl2C~Os-y5symXSkGSgc115drFnpMbE8wqnbVhIEfwJ2Yd-NlDyk1VXLTFqzsHqeBjzJIJyeavRm7gp6Y5trZWF~yOHWmH67kAHFv431iuOMd7sJVBBYrLW80vtTBrgB6N~QlsOfagzUFnTOMq9hFzMk4falMDqtYFwrpkURGR-bNnZqD4eRnOB7I~B0n49xnnKMCKuMRKtD-TojStJvwBiayGrhUXqq7vof7Su-yvQUqGMC~XgXqJBmJ4ko2LjvTFVomVe1yLnG3HhBal~k-4tEk4VAnZDDS-WNrycMT-pOvHkPpwv~8JdWemiFA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -38,23 +38,11 @@
       "name": "PhysicsWallah",
       "slug": "physicswallah",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/physicswallah",
-      "activeJobCount": 124,
+      "activeJobCount": 107,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/24b33c4510f995a22dc672c5a5744312_128_160?Expires=1861920000&Signature=MIQcPHSl~VRwxY0BYj4pDo1de6imcQv39~2sTSMJArauMQem9N25aqRUVnjACRXH1LzT0si17S5oa6OlZSY8FBfCwSA-3ViqC-jHsp~r5Bvj4ulOcFUOEa7S-LWOyiRaOMm6YVvlug-Oqz-GCqfDHRhPipDWWRfTA55gw0MF3NIzMyWSbZRUB2t68wObqwD9xsunReI-uwwswaLOub4AqUlITkS97DUmv3BoJpRH13oagz8YzWC4H4sPFo5TGK8mbeJ44IKd6r59-xriTCLBvshbfBThGdMzOffce4NUkOuJNNnoK6AbhKIe8JEYcXWssCMlT72heLX6P~DRIyrspg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "EdTech"
-      ]
-    },
-    {
-      "name": "ThoughtSpot",
-      "slug": "thoughtspot",
-      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/thoughtspot",
-      "activeJobCount": 49,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/317cc7cbb9f3051e60f08fbb9242581b_320_160?Expires=1861920000&Signature=JxQ5HZs1munjOPJd1S5oKzCQY9bcdvlIRLRIrNIrf9rL7EqQ96U87Cxo3lLi9s84uQ94YEBDjlZ2Ca3Bl3Bx~3oxnX-nVVB0hZljfitYkR6ipWbHq3s32IUXw3RzbB0qVJ3FgRQH3pwORGsjSGwtkK--uCYGF-jyBeA8K8ofvFK41F0cbnLF0qd3UuphnVm9KXzWvGSm-tImMoUmhGqaePI~WAMcgAT6y295vmchOIxFPkMT-Kc2p5D8JsWUsO3btiWr~P99QZM-A44-64~j5rY3cktt539r73ribdMXzujuGLEdjdpG3tpEmKrAeINme8RaEbiNCr2GEWgNcx9BFg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "AI & Data",
-        "SaaS"
       ]
     },
     {
@@ -69,10 +57,22 @@
       ]
     },
     {
+      "name": "ThoughtSpot",
+      "slug": "thoughtspot",
+      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/thoughtspot",
+      "activeJobCount": 48,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/317cc7cbb9f3051e60f08fbb9242581b_320_160?Expires=1861920000&Signature=JxQ5HZs1munjOPJd1S5oKzCQY9bcdvlIRLRIrNIrf9rL7EqQ96U87Cxo3lLi9s84uQ94YEBDjlZ2Ca3Bl3Bx~3oxnX-nVVB0hZljfitYkR6ipWbHq3s32IUXw3RzbB0qVJ3FgRQH3pwORGsjSGwtkK--uCYGF-jyBeA8K8ofvFK41F0cbnLF0qd3UuphnVm9KXzWvGSm-tImMoUmhGqaePI~WAMcgAT6y295vmchOIxFPkMT-Kc2p5D8JsWUsO3btiWr~P99QZM-A44-64~j5rY3cktt539r73ribdMXzujuGLEdjdpG3tpEmKrAeINme8RaEbiNCr2GEWgNcx9BFg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "AI & Data",
+        "SaaS"
+      ]
+    },
+    {
       "name": "Zetwerk",
       "slug": "zetwerk",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/zetwerk",
-      "activeJobCount": 42,
+      "activeJobCount": 45,
       "domain": "zetwerk.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/c4aad6d578435c5950c7e7aab821a8cc_288_160?Expires=1861920000&Signature=l~BwHtHwywOgsxjKvs~UAjXM1nXoO-lRNjM2aCBZQ1UX2UUjDFJMSYXcnMn~3jI4q6WthsyGyWPe4~VdjVrKs-uEMtsVtJe3kbfsIEx1VmOLIIVHAXG1yJysF7taEqpYmLCoauG0KvS4ljbc96LXzS8LnP1ZhLO9J24I1ibjuBX4lqB7HKgyotwsDKHlTCSRxtH2XTrdD2xzf9DrBwKUZJnScdB-LXTwe-j6LsroJx-qesLqOpnjdoZCyBb3Q3j8CcWKutcInSlRzlL6F39pFE5z8NB91FAbNOGNO2YIPtq3zbAIqxn0zZUAGf-kUjFT8pfoQ1buQKUzh-0oWYjbUA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -81,10 +81,21 @@
       ]
     },
     {
+      "name": "Razorpay",
+      "slug": "razorpay",
+      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/razorpay",
+      "activeJobCount": 35,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/61f13b769e4ecbbe6c780eebfe923b1a_304_160?Expires=1861920000&Signature=IG9xqiyOJ89~9TEr8r5AnyWKBS0hF2iLumYcdv-uH~f7~yFL5O1b~uyAezA1A5slXveke80cxavXrkdRvGZCQc7qSAHyBzPmDNY9aJCd0OmP6IIE1pKbbbKi5Nt8M2C-~TYJ-1Ato8FH0cEsGYAx1rkYaoKauVe8sVohk-g4~2LQlqqR9uK0huqoSiAmciLTOI5mXes2J7km0MLtyJ2pl9uvm58j6EC69mE9XgLChJp~rAyX99xQaPDIxahx0NrS8zC07TL7pnqc7H2YfyPNfZhoGLfIX45juGqyd-vowRTZW4HXRxtvv3r~qq4NB5g39WfZGIHKxuYOVE5CdyWRWg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
       "name": "AppZen",
       "slug": "appzen",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/appzen",
-      "activeJobCount": 33,
+      "activeJobCount": 34,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/9c0c7f61a675f5c367b398993be62e26_256_160?Expires=1861920000&Signature=ElBhesXzLJ29xxb~Fk9cYIlyE8~Qh67MDfBFEmYQ5OziV~l5pLaEa0ecsFQA4h1ak-ev3FdFVFbo9CjBiqDvRHBClm3-QFRZsd9OgPPZKO4j4k~Y-lr-vtIoYelyzadyXgznhAwSoOxlqZEp1E~zYfUgTsavu7WC8RCSntnt64VQJ4njtXPRxSjd9j06cEMGLGSsD9dQdLxdBMqvtZuIlelhIBSnG5UPjpkigaGyHvnxy-TaZiJPdVXdW53EhHL0Rs5x5m5fK0pBT9PPe~NVm~MEqDrmoBE1PwOe4HT5o02r3mxFUNu3DqJlUpFQtNvFdzBd3H-KZiz4pOzxFyd9PQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -93,21 +104,21 @@
       ]
     },
     {
-      "name": "Razorpay",
-      "slug": "razorpay",
-      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/razorpay",
-      "activeJobCount": 32,
+      "name": "Oolka",
+      "slug": "oolka",
+      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/oolka",
+      "activeJobCount": 33,
       "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/61f13b769e4ecbbe6c780eebfe923b1a_304_160?Expires=1861920000&Signature=IG9xqiyOJ89~9TEr8r5AnyWKBS0hF2iLumYcdv-uH~f7~yFL5O1b~uyAezA1A5slXveke80cxavXrkdRvGZCQc7qSAHyBzPmDNY9aJCd0OmP6IIE1pKbbbKi5Nt8M2C-~TYJ-1Ato8FH0cEsGYAx1rkYaoKauVe8sVohk-g4~2LQlqqR9uK0huqoSiAmciLTOI5mXes2J7km0MLtyJ2pl9uvm58j6EC69mE9XgLChJp~rAyX99xQaPDIxahx0NrS8zC07TL7pnqc7H2YfyPNfZhoGLfIX45juGqyd-vowRTZW4HXRxtvv3r~qq4NB5g39WfZGIHKxuYOVE5CdyWRWg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3f4dbf3ba6a264711f68dc983c8744a7_240_160?Expires=1861920000&Signature=N8Gj8kx-u2iw~zAIqWqMYD-Iuu2~VmwrLhwVHIeuo4zlVn5LiBrA0vpq4~F~6PkBZszNG44YVmaei~DGrwcJ78kCdlsAdZlvj5t~v3EBP-Iyjwffu-wXurPbEPTjQn-UV~8l87~ppu~8NSw9BBrIODdAq1vyQJqahNpFpgzTj6hECODfv-IyLGgP4cVbV4gfCPWn3bSf~ob45rFRyRyTLeeOtpubkAPJlWF7O7MTfFaPifz63hv6RJSY~P2gh4ddrSDw8vEvqkV6vE4tOl-c8us23wKSFlBGUhLUkoElrZjTrUyih~izcEddAlX1HoQYFwcrdmcSISDgqNs5-WuwHg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "FinTech"
+        "E-Commerce & D2C"
       ]
     },
     {
       "name": "Stable Money",
       "slug": "stable-money",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/stable-money",
-      "activeJobCount": 30,
+      "activeJobCount": 31,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/5ead653859fc9b923f321b62a00cf559_320_160?Expires=1861920000&Signature=Y~~J2yksTK~UJfJ42onrWGbTJX8-gETgDZxNVSeZ9YVmFz-T5G4EMVWRvs4WXLM8r9C682iLZhMYHE~Hw6ncv1LqBEu1y3qAVD3aYWEaJSzObWFPoQ7Dq2sErgOzsH0NbWl4ZMYoyjjY-LrJqSJ1VU~yKYm9UmsIKQqHHfrt4aII0AvW9eq1r0TVMhZplD1QSDGbflZMTay2oT8fujJfYZvSZxS8pm7vkQvqhZ-P9Em0Izv5Ad70HcSwzhdErWFNXfVQq6zYrPE7hLBBFfvhuJDNBmXQmBZVQ5Og4hc17fQeF5nbZDc4AVTBvKvYRIFj1EpIyXynFFmt0nTou7k3jQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -127,28 +138,6 @@
       ]
     },
     {
-      "name": "Oolka",
-      "slug": "oolka",
-      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/oolka",
-      "activeJobCount": 28,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3f4dbf3ba6a264711f68dc983c8744a7_240_160?Expires=1861920000&Signature=N8Gj8kx-u2iw~zAIqWqMYD-Iuu2~VmwrLhwVHIeuo4zlVn5LiBrA0vpq4~F~6PkBZszNG44YVmaei~DGrwcJ78kCdlsAdZlvj5t~v3EBP-Iyjwffu-wXurPbEPTjQn-UV~8l87~ppu~8NSw9BBrIODdAq1vyQJqahNpFpgzTj6hECODfv-IyLGgP4cVbV4gfCPWn3bSf~ob45rFRyRyTLeeOtpubkAPJlWF7O7MTfFaPifz63hv6RJSY~P2gh4ddrSDw8vEvqkV6vE4tOl-c8us23wKSFlBGUhLUkoElrZjTrUyih~izcEddAlX1HoQYFwcrdmcSISDgqNs5-WuwHg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
-    },
-    {
-      "name": "Pixxel",
-      "slug": "pixxel",
-      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/pixxel",
-      "activeJobCount": 28,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/05ef1b8a797a9229fbe2af5c3c6296bc_160_160?Expires=1861920000&Signature=EJKYAKK1-5hojeFjfog1qJmcisQLj6jWZltNJarCVxErVLCE03HTu7d7WWs4QgT8jAacdXuHjYqpVYv5yb~lXG1ZqbEnq6JOyCD5u1k6LXbFYaUtkkbD9au00yzheBv8CSOKr2s4BJI7o026xfEYLRCCHbRBrxLVwydxuN1pEdlPucZggz2HRg~H3l2bJrOoxXB~nFqzaqGd5HGDjEtd6oWg1COSYxS6uIK27ktKYSImybizFUKLo4lC0aF2a~fqJOliE4EKn3q-pzsmoU-7vpVV7tSMbDv9a-MAgtVoYUuGjmMs75gkPHChtYSeUdyc3LTsEC4wIdSFcwugVxlrGw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Manufacturing & Hardware"
-      ]
-    },
-    {
       "name": "Acceldata",
       "slug": "acceldata",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/acceldata",
@@ -161,26 +150,37 @@
       ]
     },
     {
-      "name": "Seekho",
-      "slug": "seekho",
-      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/seekho",
-      "activeJobCount": 19,
+      "name": "Pixxel",
+      "slug": "pixxel",
+      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/pixxel",
+      "activeJobCount": 26,
       "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/9d69028832acb87f41c4ea5f60f02217_240_160?Expires=1861920000&Signature=iWZ7puMYPp8ghjIl7t3S3ABUgCnVRnO1-nS2zupZbM1B6vKvP46xpATaMlNHoQJW450PPP3sSebIB2EPyn-c0KQ~DcHuir-7v2tiNkIvuqvnCUQbCe6BZab6Qvut1VTkRO32M020z33X1X5M9PJnTRemm70M9lKQGWpxcBmI4YMF7ors44Nqdla4u9FaL22fHBclQ4CApRoIGAoJRmoG75A5Xk6o9~ESdIDgiY9t5Zybta~kP7QRLZ3ZmfbhRs0~HHeiAhHKh2yvHp75qBz4vHZ0Ys7SfmFd0Jhf5i~mr8lrhuWwAOBpflzXfGEIoBMcuwC-mpcKkBMxU7VuvxJ34g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/05ef1b8a797a9229fbe2af5c3c6296bc_160_160?Expires=1861920000&Signature=EJKYAKK1-5hojeFjfog1qJmcisQLj6jWZltNJarCVxErVLCE03HTu7d7WWs4QgT8jAacdXuHjYqpVYv5yb~lXG1ZqbEnq6JOyCD5u1k6LXbFYaUtkkbD9au00yzheBv8CSOKr2s4BJI7o026xfEYLRCCHbRBrxLVwydxuN1pEdlPucZggz2HRg~H3l2bJrOoxXB~nFqzaqGd5HGDjEtd6oWg1COSYxS6uIK27ktKYSImybizFUKLo4lC0aF2a~fqJOliE4EKn3q-pzsmoU-7vpVV7tSMbDv9a-MAgtVoYUuGjmMs75gkPHChtYSeUdyc3LTsEC4wIdSFcwugVxlrGw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "EdTech",
-        "Media & Entertainment"
+        "Manufacturing & Hardware"
       ]
     },
     {
       "name": "Tessell",
       "slug": "tessell",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/tessell",
-      "activeJobCount": 19,
+      "activeJobCount": 21,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/109c6bd7ca4c2e1527b7c5f1f98c0616_240_160?Expires=1861920000&Signature=KK2d0hCWtFbZdGGQ~j4U3~q~L6W8XrJRLCAC69zr9E~oYvYlJ7wBADbhav~e5Qr7RDx~MARTO2rkt7agGltC4djt1GjOOX~g84eUc7YdZLjErHKKr9xDXJsCi9UMmUudRp04dM1-BL7zm0fBrVvY-~p1shZ1QwoF4~q0bxNveUzg41r8YTtzkT~u4SvM9BKqHYDnLavKYOmAWji3zazxtxX7nOkrkXYJc1aQL3M0FzDXdaoHx7U2BsPOZ8w4AalKcarrqgEitVunYkFafQx-IYebeL~1F-sV~QVhOcwf5bU8-i2k5Q9owdTNELFxGbAHnBjD0RXaTNm~l4hYT6Xl8A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "SaaS"
+      ]
+    },
+    {
+      "name": "Seekho",
+      "slug": "seekho",
+      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/seekho",
+      "activeJobCount": 20,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/9d69028832acb87f41c4ea5f60f02217_240_160?Expires=1861920000&Signature=iWZ7puMYPp8ghjIl7t3S3ABUgCnVRnO1-nS2zupZbM1B6vKvP46xpATaMlNHoQJW450PPP3sSebIB2EPyn-c0KQ~DcHuir-7v2tiNkIvuqvnCUQbCe6BZab6Qvut1VTkRO32M020z33X1X5M9PJnTRemm70M9lKQGWpxcBmI4YMF7ors44Nqdla4u9FaL22fHBclQ4CApRoIGAoJRmoG75A5Xk6o9~ESdIDgiY9t5Zybta~kP7QRLZ3ZmfbhRs0~HHeiAhHKh2yvHp75qBz4vHZ0Ys7SfmFd0Jhf5i~mr8lrhuWwAOBpflzXfGEIoBMcuwC-mpcKkBMxU7VuvxJ34g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "EdTech",
+        "Media & Entertainment"
       ]
     },
     {
@@ -198,7 +198,7 @@
       "name": "Gushwork",
       "slug": "gushwork",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/gushwork",
-      "activeJobCount": 14,
+      "activeJobCount": 15,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/7321325198742ba5f4541a1f367b2ac8_208_160?Expires=1861920000&Signature=UKipWt3XznebqWQZuUArWNhAye9YxLbuzHe2aZflXB9fdEk9mLzycuzmaUl1vpyaU7O65IKdvA~--Qe5AouvyfL87G2LlDOoNbnsex2X4Pr5QlB9IWM5YW7QPkoXDVTiQq93twmPGAbpWECwYUjbFYABaRzO6lcyQmUxARiMykC-KJCbp2GaZLDAPKyQTZbJEjyEBDFv9AwF7reIYVZc0RtoOUIAgC~P3D0Aj2y1AG3yFlQLEVWEYM-3kDHNtncMYwFDt2uRkIwZZtADyh1R0Wwuq0pt2hBVh-76I3IlLDNgkCBb4bvFfn7ueRqkZRPOlZgxzxXq76m~QH6zQM9nHw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -230,17 +230,6 @@
       ]
     },
     {
-      "name": "ShareChat",
-      "slug": "sharechat",
-      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/sharechat",
-      "activeJobCount": 11,
-      "domain": "sharechat.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/852782cf68d800e66a623d06d14f0bba_320_160?Expires=1861920000&Signature=myC9r7SXluEOG5qaDA~X2I26xbcRBtSNA06BaJjh-ZV4Ot-mENnS6CAiWC2xMmok6tvtgTfwmjHQquX4tIgL21-Ni6-pYnWfrccsKBacXgQW1VrhsqEN1WRDQ3aocGC7xftAQOqoDmuk7TEoxkVjzVbG5Rp~5P328JKL06NWHw4~2CsnPOvtoy4Vzax4os6nLpeOse2W4C7dqgSMdo5hsI-4qjtJC0AGc3qow42f6L7IsFT2b9YrQgaXbpB08yXetgUvo2B2QGgVcSVQ6uKKl2OTw4GOTK0SIwlptxgNMToGWo--5RjQgfXV9ROs83b2crBu9vtKNRDbnOKgcb-7EA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Media & Entertainment"
-      ]
-    },
-    {
       "name": "Acko",
       "slug": "acko",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/acko",
@@ -249,29 +238,6 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/0e7410abe84cbfd48396b0e95247e262_192_160?Expires=1861920000&Signature=KLH-VJJRI7N0hV7xr39e6Ss0r51mm~6mV292YU58fOt-DxtE3--S6Vw3YSElxxNDEe5ZwBy68Ofe-92Diqd72hx0JtUJbuN-A8vBpWmVXHjVZY5bIyf1O9VcuXKwIeEIymzdhZGu00R4I72buDEvhKBOi5iU7uIyxjJED00gL1Hccj1TPkr1d68ftxPPYv1e15PECSNlktMtwLWWXqoHEpOIWMn-FkNMm4ezKGDiZcm3Y0EHZWZDrrDVOL7zUSXTGRBw2T2jyFT-4pelVS5Iz-e7vhHUUzxvHklaqAqBa5KRDpjne4P0pqBt9mpgKilNONlLuuCHbv6AchmrDkanlw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "FinTech"
-      ]
-    },
-    {
-      "name": "Freight Tiger",
-      "slug": "freight-tiger",
-      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/freight-tiger",
-      "activeJobCount": 9,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/1e41db601b1caf57a0cd62062e5d224e_320_160?Expires=1861920000&Signature=PJwauZYVvPtQmq3tcYKPcadaDFbKeYISZlNG3qOol7H-~EGRpZveHcgIKl30158p8vkph1qNx55ruDczLAkA7Swqo~tQBDv35EMZlMeXDLDFOyXI3iB4S2qFftUgtuj-k6VFRtw~Xugj98UpnT8IpZFvJbFZEY9IsoSMwsiDYhHi7F4gXZhP~QWHtnEfsEtBVgUNoRqNzG-xjU0pwOqgBYKeNo5ZHKWf6S8yX5xda6GmzOjRTQVWW2qB6d0od5Rt3oPpOj9PaRWHrxdHe9w5k7q1NLBc6NNEQjV3C3IbtT955ovSybxl3FfO-R-0HlTbfrsF-9NEOwwM~FExWCwudg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Logistics",
-        "SaaS"
-      ]
-    },
-    {
-      "name": "Hasura",
-      "slug": "hasura",
-      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/hasura",
-      "activeJobCount": 9,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/77fb29a01f67b074787feee3b48dda24_212_160?Expires=1861920000&Signature=NosOVmKPZ6Igi~Xi8qnjU~6mMo6BcMPKG1WWMeUll0hOOVcHeyns3Moi-a6QFZYFJfzwmW92SDgLq9lr9SD-~ZP4XS79j2JWmsDtpR7ow-J16u7~my8Vr~8p8AXcrwZHSSfedVA~kgDSaZS23-3xIJTQ7f6mXWelIRruyMXgPf7ur5TK3R7dyBTBaXAes31MoQ8sorlQsVE0-mZsx1KEdK5dzLoeQQJbNArTX0GmSCixeysJ6D4P5XFWivMU9Xh7fYeBQInt8xzG4rbxAPQEXs95Y72Z9DCJNTpfCWbm8INgpZSVnR~ODhLckvFXwkBsHTFuLZgkOzl4QHvpo2IhyA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "SaaS"
       ]
     },
     {
@@ -284,6 +250,17 @@
       "sectors": [
         "AI & Data",
         "SaaS"
+      ]
+    },
+    {
+      "name": "ShareChat",
+      "slug": "sharechat",
+      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/sharechat",
+      "activeJobCount": 9,
+      "domain": "sharechat.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/852782cf68d800e66a623d06d14f0bba_320_160?Expires=1861920000&Signature=myC9r7SXluEOG5qaDA~X2I26xbcRBtSNA06BaJjh-ZV4Ot-mENnS6CAiWC2xMmok6tvtgTfwmjHQquX4tIgL21-Ni6-pYnWfrccsKBacXgQW1VrhsqEN1WRDQ3aocGC7xftAQOqoDmuk7TEoxkVjzVbG5Rp~5P328JKL06NWHw4~2CsnPOvtoy4Vzax4os6nLpeOse2W4C7dqgSMdo5hsI-4qjtJC0AGc3qow42f6L7IsFT2b9YrQgaXbpB08yXetgUvo2B2QGgVcSVQ6uKKl2OTw4GOTK0SIwlptxgNMToGWo--5RjQgfXV9ROs83b2crBu9vtKNRDbnOKgcb-7EA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "Media & Entertainment"
       ]
     },
     {
@@ -334,6 +311,18 @@
       ]
     },
     {
+      "name": "Freight Tiger",
+      "slug": "freight-tiger",
+      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/freight-tiger",
+      "activeJobCount": 4,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/1e41db601b1caf57a0cd62062e5d224e_320_160?Expires=1861920000&Signature=PJwauZYVvPtQmq3tcYKPcadaDFbKeYISZlNG3qOol7H-~EGRpZveHcgIKl30158p8vkph1qNx55ruDczLAkA7Swqo~tQBDv35EMZlMeXDLDFOyXI3iB4S2qFftUgtuj-k6VFRtw~Xugj98UpnT8IpZFvJbFZEY9IsoSMwsiDYhHi7F4gXZhP~QWHtnEfsEtBVgUNoRqNzG-xjU0pwOqgBYKeNo5ZHKWf6S8yX5xda6GmzOjRTQVWW2qB6d0od5Rt3oPpOj9PaRWHrxdHe9w5k7q1NLBc6NNEQjV3C3IbtT955ovSybxl3FfO-R-0HlTbfrsF-9NEOwwM~FExWCwudg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "Logistics",
+        "SaaS"
+      ]
+    },
+    {
       "name": "Bachatt",
       "slug": "bachatt",
       "jobsBoardUrl": "https://jobs.lsvp.com/jobs/bachatt",
@@ -342,6 +331,17 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/25d283a23ef7f191e5f17e19cc246d67_240_160?Expires=1861920000&Signature=iIkedaEufr4zCaOyB-lBxUCKX7eUzgXPQfpZAkrUSaCdByCDy-~P-lyJuytgYmGhQu-XQXFGMhNWAnyj2vYg78CrZU2Paj5nQhE4PbHt7lFFG5ydAUiw-7RZLE9Vr33F1TnTZV0eKndUw93760D~rAhzQOZfB9~ZtPHFNJblc18iAU2zrIaCjxDq2KqTWKjnskLjAIoaKAY8VaZPmZ0-vXebMKJ~zgM1BxxVm3Ee-1LR9-ZLMmSvh0kaZ~5n1pqsfsdeiLUwfbH4YG9ciGWS7hqZTFOQmztHCjCajCPGVe4HaVgfW3AomdSQiiaaN0u~gmfwCgXNmEQg6TyCK3DhMg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "FinTech"
+      ]
+    },
+    {
+      "name": "Byju's",
+      "slug": "byju",
+      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/byju",
+      "activeJobCount": 3,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/f8e60599fce9b4a59c02be918431bc50_208_160?Expires=1861920000&Signature=CFbKD-YECliQ54~tlcgQseRQMKupcKWtSGnoZRBILOwZS7pouWcRdqyFXIMs1-pPIl-lzgnnpowlmgcDQHPR266kgnVDwn6N~qv4s1wqZmiOqyaMqT~6JgFYCd7H0MvWxs3BhhKsSH0h4OSacxPEMyoIeak6gvxcG8rH~9~C7ID1c~wHCXO-IvfPQ6i5kT12sMZYuQA0TpJzBC73mtaao0x735iBqMgkKdPUxshJx2f~LWQHLkOR-fE5wxQBQf4hXch1m77KNFD4uJ4mFyS5dWQOOQZnJubTvRR-cP1n458JlmWJUOHWaNu~S4pCL9KhzycFn7RxTukOVsaEh8PlxQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "EdTech"
       ]
     },
     {
@@ -387,17 +387,6 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/1422dc8822986a5be34ddb65a41173d7_288_160?Expires=1861920000&Signature=MPyz-mT6eVGqquWBC5O8sERR3Vr3IDFARdBeRH3ENu-ryIQxxCFp4jvyOoVkQghwfinX7nmVm7RQWnVyCfsSL-XAc88gV6rJbIDs94LrN0lXY36wfukecA8wpPwCsDdC7WUjhKK34wZT1ookaO-tmXaUck4PbGB4Vf2HVPhC3rm4VzxRuJpyMmkMasKjO4A16XrI~-y8SvORIcqCcrg1Nps1fDoaf1IXUVzUEazqB4oP3XHvGXbTw88wz2VwGSEp8yQsmUbxXabq5D8Nb3rm3A~f6rcNrm160~QTKAnAkZf-G5dolNdUG1aKA6LoeBiiPTQ~1ge56oZdk~G0mC2Dww__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "Logistics"
-      ]
-    },
-    {
-      "name": "Byju's",
-      "slug": "byju",
-      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/byju",
-      "activeJobCount": 2,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/f8e60599fce9b4a59c02be918431bc50_208_160?Expires=1861920000&Signature=CFbKD-YECliQ54~tlcgQseRQMKupcKWtSGnoZRBILOwZS7pouWcRdqyFXIMs1-pPIl-lzgnnpowlmgcDQHPR266kgnVDwn6N~qv4s1wqZmiOqyaMqT~6JgFYCd7H0MvWxs3BhhKsSH0h4OSacxPEMyoIeak6gvxcG8rH~9~C7ID1c~wHCXO-IvfPQ6i5kT12sMZYuQA0TpJzBC73mtaao0x735iBqMgkKdPUxshJx2f~LWQHLkOR-fE5wxQBQf4hXch1m77KNFD4uJ4mFyS5dWQOOQZnJubTvRR-cP1n458JlmWJUOHWaNu~S4pCL9KhzycFn7RxTukOVsaEh8PlxQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "EdTech"
       ]
     },
     {
@@ -589,6 +578,17 @@
       "sectors": [
         "E-Commerce & D2C",
         "Manufacturing & Hardware"
+      ]
+    },
+    {
+      "name": "Hasura",
+      "slug": "hasura",
+      "jobsBoardUrl": "https://jobs.lsvp.com/jobs/hasura",
+      "activeJobCount": 0,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/77fb29a01f67b074787feee3b48dda24_212_160?Expires=1861920000&Signature=NosOVmKPZ6Igi~Xi8qnjU~6mMo6BcMPKG1WWMeUll0hOOVcHeyns3Moi-a6QFZYFJfzwmW92SDgLq9lr9SD-~ZP4XS79j2JWmsDtpR7ow-J16u7~my8Vr~8p8AXcrwZHSSfedVA~kgDSaZS23-3xIJTQ7f6mXWelIRruyMXgPf7ur5TK3R7dyBTBaXAes31MoQ8sorlQsVE0-mZsx1KEdK5dzLoeQQJbNArTX0GmSCixeysJ6D4P5XFWivMU9Xh7fYeBQInt8xzG4rbxAPQEXs95Y72Z9DCJNTpfCWbm8INgpZSVnR~ODhLckvFXwkBsHTFuLZgkOzl4QHvpo2IhyA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "SaaS"
       ]
     },
     {
