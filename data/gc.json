@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-02",
     "totalCompanies": 25,
     "source": "https://jobs.generalcatalyst.com"
   },
@@ -9,13 +9,13 @@
       "name": "Amigo",
       "slug": "amigo-2",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/amigo-2#content",
-      "activeJobCount": 59,
+      "activeJobCount": 60,
       "domain": "amigo.ai",
       "logoUrl": "https://cdn.getro.com/companies/2003f185-13b5-50d2-9dbf-a3f7d9a4e735-1733314828",
       "sectors": [],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-02-21"
+      "latestJobDate": "2026-03-01"
     },
     {
       "name": "axiTrust",
@@ -61,7 +61,7 @@
       "name": "Chai Shots",
       "slug": "chai-shots",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/chai-shots#content",
-      "activeJobCount": 7,
+      "activeJobCount": 4,
       "domain": "chaishots.in",
       "logoUrl": "https://cdn.getro.com/companies/5834c811-89ca-4806-ac06-6f1f51add7ab-1763343374",
       "sectors": [
@@ -69,7 +69,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2025-09-03"
+      "latestJobDate": "2025-09-01"
     },
     {
       "name": "CityMall",
@@ -89,7 +89,7 @@
       "name": "CRED",
       "slug": "cred",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cred#content",
-      "activeJobCount": 11,
+      "activeJobCount": 9,
       "domain": "cred.club",
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
@@ -97,7 +97,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-02-19"
+      "latestJobDate": "2026-02-28"
     },
     {
       "name": "Fitmint",
@@ -142,7 +142,7 @@
       "name": "Loop Health",
       "slug": "loop-health",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/loop-health#content",
-      "activeJobCount": 37,
+      "activeJobCount": 35,
       "domain": "loophealth.com",
       "logoUrl": "https://cdn.getro.com/companies/aecb599a-f58b-4e81-9be9-214e0d445ad9-1760578066",
       "sectors": [
@@ -182,7 +182,7 @@
       "name": "Nurix",
       "slug": "nurix",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/nurix#content",
-      "activeJobCount": 17,
+      "activeJobCount": 11,
       "domain": "nurix.ai",
       "logoUrl": "https://cdn.getro.com/companies/799e8df4-eae3-4813-836a-c72a4044fc91-1767749870",
       "sectors": [
@@ -190,7 +190,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 2,
-      "latestJobDate": "2025-12-15"
+      "latestJobDate": "2025-12-12"
     },
     {
       "name": "Omli Technologies",
@@ -215,7 +215,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-02-22"
+      "latestJobDate": "2026-02-25"
     },
     {
       "name": "Primus",
@@ -229,7 +229,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2025-11-26"
+      "latestJobDate": "2026-03-01"
     },
     {
       "name": "Pronto",
@@ -295,9 +295,9 @@
       "sectors": [
         "Media & Entertainment"
       ],
-      "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-02-20"
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-01-31"
     },
     {
       "name": "Uni Cards ",
@@ -339,7 +339,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-02-09"
+      "latestJobDate": "2026-02-27"
     }
   ]
 }
