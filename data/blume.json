@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-02",
+    "lastUpdated": "2026-03-09",
     "totalCompanies": 14,
     "source": "https://jobs.blume.vc"
   },
@@ -9,14 +9,15 @@
       "name": "Ati Motors",
       "slug": "ati-motors-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/ati-motors-2#content",
-      "activeJobCount": 0,
+      "activeJobCount": 7,
       "domain": "atimotors.com",
       "logoUrl": "https://cdn.getro.com/companies/c34ae5fe-c6a4-5757-b661-4a350efa9cd7-1739364695",
       "sectors": [
         "Manufacturing & Hardware"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-03"
     },
     {
       "name": "Classplus",
@@ -103,7 +104,7 @@
       "name": "SiftHub",
       "slug": "sifthub-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/sifthub-2#content",
-      "activeJobCount": 11,
+      "activeJobCount": 9,
       "domain": "sifthub.io",
       "logoUrl": "https://cdn.getro.com/companies/720716c8-6fa8-55b6-bd1d-e6a705abe2d4-1748926475",
       "sectors": [],
@@ -154,7 +155,7 @@
       "name": "Vecmocon Technologies",
       "slug": "vecmocon-technologies-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/vecmocon-technologies-2#content",
-      "activeJobCount": 17,
+      "activeJobCount": 16,
       "domain": "vecmocon.com",
       "logoUrl": "https://cdn.getro.com/companies/88a8ef1e-d297-54c3-8716-4dec20101f8e-1757074551",
       "sectors": [
@@ -163,7 +164,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 2,
-      "latestJobDate": "2026-02-12"
+      "latestJobDate": "2026-03-03"
     },
     {
       "name": "Vutto",
@@ -183,15 +184,15 @@
       "name": "Zopper",
       "slug": "zopper-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/zopper-2#content",
-      "activeJobCount": 22,
+      "activeJobCount": 25,
       "domain": "zopper.com",
       "logoUrl": "https://cdn.getro.com/companies/13fbdbde-f399-5a73-bc9f-2d93c2171d2e-1748145200",
       "sectors": [
         "FinTech"
       ],
-      "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-03-01"
+      "hasInternships": true,
+      "internshipCount": 23,
+      "latestJobDate": "2026-03-07"
     }
   ]
 }

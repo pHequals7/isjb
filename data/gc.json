@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-02",
+    "lastUpdated": "2026-03-09",
     "totalCompanies": 25,
     "source": "https://jobs.generalcatalyst.com"
   },
@@ -47,7 +47,7 @@
       "name": "Cashflo",
       "slug": "cashflo",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cashflo#content",
-      "activeJobCount": 21,
+      "activeJobCount": 22,
       "domain": "cashflo.io",
       "logoUrl": "https://cdn.getro.com/companies/259eac4c-cb45-4a1c-8e11-7a8b2ff9cc71-1761013505",
       "sectors": [
@@ -55,13 +55,13 @@
       ],
       "hasInternships": true,
       "internshipCount": 1,
-      "latestJobDate": "2026-02-12"
+      "latestJobDate": "2026-03-06"
     },
     {
       "name": "Chai Shots",
       "slug": "chai-shots",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/chai-shots#content",
-      "activeJobCount": 4,
+      "activeJobCount": 5,
       "domain": "chaishots.in",
       "logoUrl": "https://cdn.getro.com/companies/5834c811-89ca-4806-ac06-6f1f51add7ab-1763343374",
       "sectors": [
@@ -89,7 +89,7 @@
       "name": "CRED",
       "slug": "cred",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cred#content",
-      "activeJobCount": 9,
+      "activeJobCount": 7,
       "domain": "cred.club",
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
@@ -142,7 +142,7 @@
       "name": "Loop Health",
       "slug": "loop-health",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/loop-health#content",
-      "activeJobCount": 35,
+      "activeJobCount": 29,
       "domain": "loophealth.com",
       "logoUrl": "https://cdn.getro.com/companies/aecb599a-f58b-4e81-9be9-214e0d445ad9-1760578066",
       "sectors": [
@@ -150,7 +150,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 1,
-      "latestJobDate": "2026-02-13"
+      "latestJobDate": "2026-03-05"
     },
     {
       "name": "Magma",
@@ -283,21 +283,20 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2025-12-06"
+      "latestJobDate": "2025-12-03"
     },
     {
       "name": "Stan",
       "slug": "stan",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/stan#content",
-      "activeJobCount": 1,
+      "activeJobCount": 0,
       "domain": "getstan.app",
       "logoUrl": "https://cdn.getro.com/companies/fbfd926d-e873-4d2b-a6b0-508f6c539829-1761013533",
       "sectors": [
         "Media & Entertainment"
       ],
-      "hasInternships": true,
-      "internshipCount": 1,
-      "latestJobDate": "2026-01-31"
+      "hasInternships": false,
+      "internshipCount": 0
     },
     {
       "name": "Uni Cards ",
