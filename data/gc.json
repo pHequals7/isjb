@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-09",
+    "lastUpdated": "2026-03-23",
     "totalCompanies": 25,
     "source": "https://jobs.generalcatalyst.com"
   },
@@ -9,13 +9,13 @@
       "name": "Amigo",
       "slug": "amigo-2",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/amigo-2#content",
-      "activeJobCount": 60,
+      "activeJobCount": 55,
       "domain": "amigo.ai",
       "logoUrl": "https://cdn.getro.com/companies/2003f185-13b5-50d2-9dbf-a3f7d9a4e735-1733314828",
       "sectors": [],
-      "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-03-01"
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-03-14"
     },
     {
       "name": "axiTrust",
@@ -34,20 +34,21 @@
       "name": "Billion Hearts",
       "slug": "billion-hearts",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/billion-hearts#content",
-      "activeJobCount": 0,
+      "activeJobCount": 1,
       "domain": "billionhearts.co",
       "logoUrl": "https://cdn.getro.com/companies/be5e8d1f-9835-4558-8285-cfac183eed23-1762738802",
       "sectors": [
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-17"
     },
     {
       "name": "Cashflo",
       "slug": "cashflo",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cashflo#content",
-      "activeJobCount": 22,
+      "activeJobCount": 18,
       "domain": "cashflo.io",
       "logoUrl": "https://cdn.getro.com/companies/259eac4c-cb45-4a1c-8e11-7a8b2ff9cc71-1761013505",
       "sectors": [
@@ -55,13 +56,13 @@
       ],
       "hasInternships": true,
       "internshipCount": 1,
-      "latestJobDate": "2026-03-06"
+      "latestJobDate": "2026-03-16"
     },
     {
       "name": "Chai Shots",
       "slug": "chai-shots",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/chai-shots#content",
-      "activeJobCount": 5,
+      "activeJobCount": 7,
       "domain": "chaishots.in",
       "logoUrl": "https://cdn.getro.com/companies/5834c811-89ca-4806-ac06-6f1f51add7ab-1763343374",
       "sectors": [
@@ -69,7 +70,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2025-09-01"
+      "latestJobDate": "2025-09-03"
     },
     {
       "name": "CityMall",
@@ -89,7 +90,7 @@
       "name": "CRED",
       "slug": "cred",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cred#content",
-      "activeJobCount": 7,
+      "activeJobCount": 6,
       "domain": "cred.club",
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
@@ -142,7 +143,7 @@
       "name": "Loop Health",
       "slug": "loop-health",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/loop-health#content",
-      "activeJobCount": 29,
+      "activeJobCount": 24,
       "domain": "loophealth.com",
       "logoUrl": "https://cdn.getro.com/companies/aecb599a-f58b-4e81-9be9-214e0d445ad9-1760578066",
       "sectors": [
@@ -150,7 +151,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 1,
-      "latestJobDate": "2026-03-05"
+      "latestJobDate": "2026-03-17"
     },
     {
       "name": "Magma",
@@ -188,9 +189,9 @@
       "sectors": [
         "Consumer Services"
       ],
-      "hasInternships": true,
-      "internshipCount": 2,
-      "latestJobDate": "2025-12-12"
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-19"
     },
     {
       "name": "Omli Technologies",
@@ -207,7 +208,7 @@
       "name": "Orange Health Labs",
       "slug": "orange-health-labs",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/orange-health-labs#content",
-      "activeJobCount": 5,
+      "activeJobCount": 6,
       "domain": "orangehealth.in",
       "logoUrl": "https://cdn.getro.com/companies/1b21260b-3a0a-4c0e-9493-2f37de8ba2dd-1760837559",
       "sectors": [
@@ -215,21 +216,20 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-02-25"
+      "latestJobDate": "2026-03-22"
     },
     {
       "name": "Primus",
       "slug": "primus-2",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/primus-2#content",
-      "activeJobCount": 2,
+      "activeJobCount": 0,
       "domain": "primuslife.in",
       "logoUrl": "https://cdn.getro.com/companies/3a455b37-0c05-4987-9706-33c2233d1028-1761528665",
       "sectors": [
         "Real Estate"
       ],
       "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-03-01"
+      "internshipCount": 0
     },
     {
       "name": "Pronto",
@@ -265,6 +265,7 @@
       "domain": "betheshyft.com",
       "logoUrl": "https://cdn.getro.com/companies/0c5fcb2a-a443-436e-b143-a80719de613d-1761013502",
       "sectors": [
+        "Consumer Services",
         "HealthTech"
       ],
       "hasInternships": false,
@@ -275,7 +276,7 @@
       "name": "Spinny",
       "slug": "spinny",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/spinny#content",
-      "activeJobCount": 3,
+      "activeJobCount": 2,
       "domain": "spinny.com",
       "logoUrl": "https://cdn.getro.com/companies/94576e65-be03-4138-8369-e472e4d6f50b-1760837649",
       "sectors": [
@@ -283,7 +284,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2025-12-03"
+      "latestJobDate": "2025-04-21"
     },
     {
       "name": "Stan",
@@ -330,7 +331,7 @@
       "name": "Zepto",
       "slug": "zepto",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/zepto#content",
-      "activeJobCount": 2,
+      "activeJobCount": 1,
       "domain": "zeptonow.com",
       "logoUrl": "https://cdn.getro.com/companies/806c6bd8-d0db-44e3-a573-8d0647387d3a-1760837571",
       "sectors": [

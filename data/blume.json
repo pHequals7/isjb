@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-09",
+    "lastUpdated": "2026-03-23",
     "totalCompanies": 14,
     "source": "https://jobs.blume.vc"
   },
@@ -17,7 +17,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-03-03"
+      "latestJobDate": "2026-03-12"
     },
     {
       "name": "Classplus",
@@ -50,15 +50,14 @@
       "name": "IDfy",
       "slug": "idfy-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/idfy-2#content",
-      "activeJobCount": 17,
+      "activeJobCount": 0,
       "domain": "idfy.com",
       "logoUrl": "https://cdn.getro.com/companies/8ca2031f-1907-57d0-9e64-1125225c3d87-1750388719",
       "sectors": [
         "Consumer Services"
       ],
       "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2025-09-23"
+      "internshipCount": 0
     },
     {
       "name": "Optimized Electrotech",
@@ -104,7 +103,7 @@
       "name": "SiftHub",
       "slug": "sifthub-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/sifthub-2#content",
-      "activeJobCount": 9,
+      "activeJobCount": 7,
       "domain": "sifthub.io",
       "logoUrl": "https://cdn.getro.com/companies/720716c8-6fa8-55b6-bd1d-e6a705abe2d4-1748926475",
       "sectors": [],
@@ -127,15 +126,19 @@
       "name": "SquadStack",
       "slug": "squadstack",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/squadstack#content",
-      "activeJobCount": 22,
+      "activeJobCount": 24,
       "domain": "squadstack.com",
       "logoUrl": "https://cdn.getro.com/companies/6ac7839f-6ede-418c-995c-eea567a20117-1759801149",
       "sectors": [
+        "AI & Data",
+        "Consumer Services",
+        "E-Commerce & D2C",
+        "Real Estate",
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 3,
-      "latestJobDate": "2026-02-26"
+      "internshipCount": 4,
+      "latestJobDate": "2026-03-19"
     },
     {
       "name": "Ultrahuman",
@@ -155,7 +158,7 @@
       "name": "Vecmocon Technologies",
       "slug": "vecmocon-technologies-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/vecmocon-technologies-2#content",
-      "activeJobCount": 16,
+      "activeJobCount": 19,
       "domain": "vecmocon.com",
       "logoUrl": "https://cdn.getro.com/companies/88a8ef1e-d297-54c3-8716-4dec20101f8e-1757074551",
       "sectors": [
@@ -163,14 +166,14 @@
         "Manufacturing & Hardware"
       ],
       "hasInternships": true,
-      "internshipCount": 2,
-      "latestJobDate": "2026-03-03"
+      "internshipCount": 3,
+      "latestJobDate": "2026-03-11"
     },
     {
       "name": "Vutto",
       "slug": "vutto",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/vutto#content",
-      "activeJobCount": 0,
+      "activeJobCount": 1,
       "domain": "vutto.in",
       "logoUrl": "https://cdn.getro.com/companies/8e083fc5-4113-4a13-bf6c-e022b4a4e200-1767696156",
       "sectors": [
@@ -178,21 +181,22 @@
         "Manufacturing & Hardware"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-22"
     },
     {
       "name": "Zopper",
       "slug": "zopper-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/zopper-2#content",
-      "activeJobCount": 25,
+      "activeJobCount": 9,
       "domain": "zopper.com",
       "logoUrl": "https://cdn.getro.com/companies/13fbdbde-f399-5a73-bc9f-2d93c2171d2e-1748145200",
       "sectors": [
         "FinTech"
       ],
       "hasInternships": true,
-      "internshipCount": 23,
-      "latestJobDate": "2026-03-07"
+      "internshipCount": 4,
+      "latestJobDate": "2026-03-20"
     }
   ]
 }
