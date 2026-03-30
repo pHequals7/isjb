@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-23",
-    "totalCompanies": 14,
+    "lastUpdated": "2026-03-30",
+    "totalCompanies": 15,
     "source": "https://jobs.blume.vc"
   },
   "companies": [
@@ -17,7 +17,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-03-12"
+      "latestJobDate": "2026-03-24"
     },
     {
       "name": "Classplus",
@@ -27,7 +27,9 @@
       "domain": "classplusapp.com",
       "logoUrl": "https://cdn.getro.com/companies/d5762e57-1915-4433-a8c7-edd5d19ac1b5-1761269764",
       "sectors": [
-        "EdTech"
+        "Consumer Services",
+        "EdTech",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0
@@ -50,14 +52,19 @@
       "name": "IDfy",
       "slug": "idfy-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/idfy-2#content",
-      "activeJobCount": 0,
+      "activeJobCount": 14,
       "domain": "idfy.com",
       "logoUrl": "https://cdn.getro.com/companies/8ca2031f-1907-57d0-9e64-1125225c3d87-1750388719",
       "sectors": [
-        "Consumer Services"
+        "AI & Data",
+        "Consumer Services",
+        "E-Commerce & D2C",
+        "FinTech",
+        "SaaS"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-26"
     },
     {
       "name": "Optimized Electrotech",
@@ -103,13 +110,13 @@
       "name": "SiftHub",
       "slug": "sifthub-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/sifthub-2#content",
-      "activeJobCount": 7,
+      "activeJobCount": 8,
       "domain": "sifthub.io",
       "logoUrl": "https://cdn.getro.com/companies/720716c8-6fa8-55b6-bd1d-e6a705abe2d4-1748926475",
       "sectors": [],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-01-29"
+      "latestJobDate": "2026-03-27"
     },
     {
       "name": "slice",
@@ -126,7 +133,7 @@
       "name": "SquadStack",
       "slug": "squadstack",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/squadstack#content",
-      "activeJobCount": 24,
+      "activeJobCount": 21,
       "domain": "squadstack.com",
       "logoUrl": "https://cdn.getro.com/companies/6ac7839f-6ede-418c-995c-eea567a20117-1759801149",
       "sectors": [
@@ -167,13 +174,13 @@
       ],
       "hasInternships": true,
       "internshipCount": 3,
-      "latestJobDate": "2026-03-11"
+      "latestJobDate": "2026-03-23"
     },
     {
       "name": "Vutto",
       "slug": "vutto",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/vutto#content",
-      "activeJobCount": 1,
+      "activeJobCount": 2,
       "domain": "vutto.in",
       "logoUrl": "https://cdn.getro.com/companies/8e083fc5-4113-4a13-bf6c-e022b4a4e200-1767696156",
       "sectors": [
@@ -182,21 +189,41 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-03-22"
+      "latestJobDate": "2026-03-25"
+    },
+    {
+      "name": "Wizcommerce",
+      "slug": "wizcommerce",
+      "jobsBoardUrl": "https://jobs.blume.vc/companies/wizcommerce#content",
+      "activeJobCount": 9,
+      "domain": "wizcommerce.com",
+      "logoUrl": "https://cdn.getro.com/companies/3dea7797-9ff6-40ef-9be7-538881858cbe-1762879794",
+      "sectors": [
+        "AI & Data",
+        "Consumer Services",
+        "Media & Entertainment",
+        "SaaS"
+      ],
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-28"
     },
     {
       "name": "Zopper",
       "slug": "zopper-2",
       "jobsBoardUrl": "https://jobs.blume.vc/companies/zopper-2#content",
-      "activeJobCount": 9,
+      "activeJobCount": 6,
       "domain": "zopper.com",
       "logoUrl": "https://cdn.getro.com/companies/13fbdbde-f399-5a73-bc9f-2d93c2171d2e-1748145200",
       "sectors": [
-        "FinTech"
+        "Consumer Services",
+        "E-Commerce & D2C",
+        "FinTech",
+        "SaaS"
       ],
       "hasInternships": true,
       "internshipCount": 4,
-      "latestJobDate": "2026-03-20"
+      "latestJobDate": "2026-03-14"
     }
   ]
 }
