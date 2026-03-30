@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastUpdated": "2026-03-23",
-    "totalCompanies": 25,
+    "lastUpdated": "2026-03-30",
+    "totalCompanies": 28,
     "source": "https://jobs.generalcatalyst.com"
   },
   "companies": [
@@ -38,7 +38,8 @@
       "domain": "billionhearts.co",
       "logoUrl": "https://cdn.getro.com/companies/be5e8d1f-9835-4558-8285-cfac183eed23-1762738802",
       "sectors": [
-        "Consumer Services"
+        "Consumer Services",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
@@ -80,7 +81,8 @@
       "domain": "citymall.live",
       "logoUrl": "https://cdn.getro.com/companies/c13ab628-1d1f-40a3-87b4-b2a82af5c156-1760665299",
       "sectors": [
-        "E-Commerce & D2C"
+        "E-Commerce & D2C",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
@@ -94,7 +96,9 @@
       "domain": "cred.club",
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
-        "FinTech"
+        "Consumer Services",
+        "FinTech",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
@@ -112,6 +116,21 @@
       ],
       "hasInternships": false,
       "internshipCount": 0
+    },
+    {
+      "name": "Fivetran",
+      "slug": "fivetran",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/fivetran#content",
+      "activeJobCount": 171,
+      "domain": "fivetran.com",
+      "logoUrl": "https://cdn.getro.com/companies/399d4e0f-c5cf-473a-8aba-3c8d1a1f1374-1761183679",
+      "sectors": [
+        "AI & Data",
+        "SaaS"
+      ],
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-28"
     },
     {
       "name": "GetSupp",
@@ -134,7 +153,9 @@
       "domain": "jeh.aero",
       "logoUrl": "https://cdn.getro.com/companies/f801dba9-fc56-4b5a-9fb3-cd81a36fbbcb-1769219134",
       "sectors": [
-        "Manufacturing & Hardware"
+        "Logistics",
+        "Manufacturing & Hardware",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0
@@ -143,7 +164,7 @@
       "name": "Loop Health",
       "slug": "loop-health",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/loop-health#content",
-      "activeJobCount": 24,
+      "activeJobCount": 28,
       "domain": "loophealth.com",
       "logoUrl": "https://cdn.getro.com/companies/aecb599a-f58b-4e81-9be9-214e0d445ad9-1760578066",
       "sectors": [
@@ -151,7 +172,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 1,
-      "latestJobDate": "2026-03-17"
+      "latestJobDate": "2026-03-27"
     },
     {
       "name": "Magma",
@@ -183,11 +204,13 @@
       "name": "Nurix",
       "slug": "nurix",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/nurix#content",
-      "activeJobCount": 11,
+      "activeJobCount": 6,
       "domain": "nurix.ai",
       "logoUrl": "https://cdn.getro.com/companies/799e8df4-eae3-4813-836a-c72a4044fc91-1767749870",
       "sectors": [
-        "Consumer Services"
+        "AI & Data",
+        "Consumer Services",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
@@ -197,18 +220,19 @@
       "name": "Omli Technologies",
       "slug": "omli-technologies",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/omli-technologies#content",
-      "activeJobCount": 0,
+      "activeJobCount": 5,
       "domain": "omli.in",
       "logoUrl": "https://cdn.getro.com/companies/47ab6a46-2042-4336-9a3f-7ee3131d960a-1766060343",
       "sectors": [],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-28"
     },
     {
       "name": "Orange Health Labs",
       "slug": "orange-health-labs",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/orange-health-labs#content",
-      "activeJobCount": 6,
+      "activeJobCount": 5,
       "domain": "orangehealth.in",
       "logoUrl": "https://cdn.getro.com/companies/1b21260b-3a0a-4c0e-9493-2f37de8ba2dd-1760837559",
       "sectors": [
@@ -245,6 +269,22 @@
       "internshipCount": 0
     },
     {
+      "name": "Prosimo.io",
+      "slug": "prosimo-io-2",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/prosimo-io-2#content",
+      "activeJobCount": 68,
+      "domain": "prosimo.io",
+      "logoUrl": "https://cdn.getro.com/companies/3e686810-ce0c-4257-93ea-72ecd12bc7ca-1761183660",
+      "sectors": [
+        "Consumer Services",
+        "Manufacturing & Hardware",
+        "SaaS"
+      ],
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-28"
+    },
+    {
       "name": "Raphe mPhibr",
       "slug": "raphe-mphibr",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/raphe-mphibr#content",
@@ -273,6 +313,23 @@
       "latestJobDate": "2023-10-25"
     },
     {
+      "name": "Singular",
+      "slug": "singular",
+      "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/singular#content",
+      "activeJobCount": 15,
+      "domain": "singular.net",
+      "logoUrl": "https://cdn.getro.com/companies/d2d76bbe-650e-49f6-9e2a-06197078baeb-1761615498",
+      "sectors": [
+        "AI & Data",
+        "Consumer Services",
+        "Media & Entertainment",
+        "SaaS"
+      ],
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-03-26"
+    },
+    {
       "name": "Spinny",
       "slug": "spinny",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/spinny#content",
@@ -280,7 +337,8 @@
       "domain": "spinny.com",
       "logoUrl": "https://cdn.getro.com/companies/94576e65-be03-4138-8369-e472e4d6f50b-1760837649",
       "sectors": [
-        "Consumer Services"
+        "Consumer Services",
+        "E-Commerce & D2C"
       ],
       "hasInternships": false,
       "internshipCount": 0,
