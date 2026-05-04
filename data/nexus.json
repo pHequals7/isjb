@@ -4,7 +4,7 @@
       "name": "Newton School",
       "slug": "newton-school",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/newton-school",
-      "activeJobCount": 158,
+      "activeJobCount": 152,
       "domain": "newtonschool.co",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/7657428d8dc9367e9d32e8b36390f015_320_160?Expires=1861920000&Signature=cAy0KdRaVMaFBMe1XZuQrSFcKLHsw5w7oL7wOQxnufxj-u1qS1S9LcQ2oYp6z1UmpwCkEBtS3D5oZo0lHtkuTq8vdF8ep4kC64VtGHoHYZ7tg4r3QIpqvnmUFjm6gcVVLcj5CKeu6G60sMI3SKfzQpVcZoIORiY392Pf5HgFIJ0I7gel~6j1nPCcgIGzKc5l71TwXM20-WVfBwFjXA6OMWW~Jg-jvVdv30VBpJvTu-N-ZKnQLmcZIS5lX6nPrsyNeTwrhFcgDK-djlJ6fU07DChu-c2RS41m87EufMWyj4lSDpVi-Oa7hIYqymOGaDBh48ThdyEdJ9z57B2XBVzMyQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -15,7 +15,7 @@
       "name": "Postman",
       "slug": "postman",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/postman",
-      "activeJobCount": 109,
+      "activeJobCount": 115,
       "domain": "postman.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/f0a9bdb92d6ce40aa0ddbc80ad6e4f28_288_160?Expires=1861920000&Signature=GBUcuG40~NimOmHfczj7R1mXg2BDMkS-nE7eWcoXlDE-P5OzApf0pEVmwRJmehTmNYt2EuerM1UQa8~6~Ou77Gjn97EuOoslsYJp0lNiOXTyRGZtpCqdFP~5a~Nfi4Gwnb1EZFxzqvm8UHKpVa0FWJ1DftAheuIBmdkaWe0VsXOgjv4XkxgtISR7C13NQk4~mmbYw-KCyuBq~XR3O60AsPGSVEa~XiElXpknGohE7MPtCi6BBk46vnjgqQC3NjsstIIpQLr~C8x91AJpQpYMEazf7FMwgldraOTpoFawB64GZ1WhyEQuODZtcGDUXkJz2Tyna8svRnS7u-ReaNLdkQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -37,9 +37,20 @@
       "name": "Druva Technologies",
       "slug": "druva",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/druva",
-      "activeJobCount": 27,
+      "activeJobCount": 29,
       "domain": "druva.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/0a4677dbb6bc53412473135e1b9071e5_176_160?Expires=1861920000&Signature=AovS1WqmCAKN4w9ZS4Lt7LzfavoHt5weKbb51OwhqSeCb8Irltb9sqL-hyw~aFYcE0La0z57F~n5~N4ZjB0OQfPWj2g16rswdc6149PAf4A2f8I8lMIkrIsU5FhBoI3B5bzEYT2ZgAb0j3ZqYGWBC~0Ezmpb8UR02KCQ6~j-m5MG~CIDfIyeQLOY-NOjpigmN78MmRO7uhzfKzHl~XZ3xBd2A6AXUfXNDCJOBpyPFcO0InB5hoY8TP2lmznMZhk7TBhUnd8Hhcy6ersDbiiEg5MFtEkx1r~Jzt0j0V5Di3zBhlDgJ-9w6rawX258SGlogmuyvJa8jKBe1EblIl6THw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Joveo",
+      "slug": "joveo",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/joveo",
+      "activeJobCount": 26,
+      "domain": "joveo.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/44d1c768f7582ed33f2fb31c43d59f3a_224_160?Expires=1861920000&Signature=K6QMDCYzegN1C7JnIY7453KluywfhHPnQtAGA30U7mxQjfDEGKrfbRK6jCzGNjwHt-h2ld9N7qF89JQ5uzIGi9PQwAhgBkkrOFgyHEfL7yrgtpFMb90iFSZ~MB9DgqILhI~C4Ixg1be5WYuVNWvngPNRf5xxRaCgSO-BOvchfiYYvxOcCMjiJ~RW8s-NFPLtSHKNTrtFwRQhm21lw6MehhxLQgTRCRt9dak4uUy4fdgBuo5MlwP8UNi3l~BBWw1S3NXGcyPS5QGq1~tp3JSRGcDBwA3fyyjcPTq2fjZKXKNtdm~nhquVgabBn1WA1AO9DxgZn6SGbH2XY01gocjGYQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "SaaS"
       ]
@@ -80,32 +91,10 @@
       ]
     },
     {
-      "name": "Joveo",
-      "slug": "joveo",
-      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/joveo",
-      "activeJobCount": 14,
-      "domain": "joveo.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/44d1c768f7582ed33f2fb31c43d59f3a_224_160?Expires=1861920000&Signature=K6QMDCYzegN1C7JnIY7453KluywfhHPnQtAGA30U7mxQjfDEGKrfbRK6jCzGNjwHt-h2ld9N7qF89JQ5uzIGi9PQwAhgBkkrOFgyHEfL7yrgtpFMb90iFSZ~MB9DgqILhI~C4Ixg1be5WYuVNWvngPNRf5xxRaCgSO-BOvchfiYYvxOcCMjiJ~RW8s-NFPLtSHKNTrtFwRQhm21lw6MehhxLQgTRCRt9dak4uUy4fdgBuo5MlwP8UNi3l~BBWw1S3NXGcyPS5QGq1~tp3JSRGcDBwA3fyyjcPTq2fjZKXKNtdm~nhquVgabBn1WA1AO9DxgZn6SGbH2XY01gocjGYQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "SaaS"
-      ]
-    },
-    {
-      "name": "AssetPlus",
-      "slug": "assetplus",
-      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/assetplus",
-      "activeJobCount": 13,
-      "domain": "assetplus.in",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/c633bd3bdd2bebcd944bcfae7c605c3a_100_100?Expires=1893456000&Signature=Edtwwef2wAmSoxJ~EP5ils0-prbzx4wPq2oW-LuoWI0DuuvL0dBO2kLhT78Pz~yXjz63EhEPg0U3TiiKyrcMgxajQgqm0R8DxWmicZgE~uF1cpt0vlaqJEIOsTDqC1KJzTJJz0q0Zvbxxk0q~r~513U-gK83N9Bu1trtM1~lzYVFTWcU2WHk5ODyLLY1zBmV8nQf~~Is4nCd1qbm0LGsXz2GDoqbzOI9QmlOMvcsjdJdVe46Zc8V9E9uNL1jikt7FycycPFnEJWlMSv5ZL~j511gOEqeJ3-psLFi7GSrxc-k3s24nVsxxY-H2yJXRgqMIfCWRLzXpGiVRNUIKtVgZA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "FinTech"
-      ]
-    },
-    {
       "name": "Pice",
       "slug": "pice",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/pice",
-      "activeJobCount": 13,
+      "activeJobCount": 15,
       "domain": "pice.one",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/f0cc8d609d037aeb9879330392b55f1b_112_160?Expires=1861920000&Signature=U2FOOOt2XJntR-BZeWOCYkVoPXhdeodiYuCQyhzbTkv~RCMw4W5rll5uEw98qXMa5A6V5k1biQwCyu83EOPrXBUFjnwUY~6EoKcqAuleWd5rxy60BgA9ntzDOep-dclTCwewlPg12tiFU7u5fvCMeWNlFxUTHcOjaNamzI7sEEMA6Nc-FkD2kNzVIfB1oNDB0HFR~a57~xasEyDeL6oIrW3aIhjE-ckwdZDx0vUDktaAOdEb~8rx50cuDYiuV7EZujh4Ma0JTBXdpu6UvcHBOCBWG5F8XNd-rMT1v~FMnAVG3TgFOMvU2S3lJnd2XsKgECRNRVKjdypI09pYoomTUg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -124,6 +113,18 @@
       ]
     },
     {
+      "name": "Aryaka",
+      "slug": "aryaka",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/aryaka",
+      "activeJobCount": 9,
+      "domain": "aryaka.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3b0ed303da66975c09d87a912027e7b2_224_160?Expires=1861920000&Signature=f9KXUmo7~qWXAu5CeY-W~MQ0-d3Nnbry-HRllTybg7bXbpSNxbjlL4lZElVQw2UFN1o3Oa0GDoqQMyyOas-UM6cChCg097I13daTMdvFbnyb7jmAB~EqIwgRgyVpPnMbP0u3qzNadjY~9GjapAcCZrsfqM2Io48OZwQgIHmJ9LkNwuJK4GBXw4m-fjer6oE~bkS~UtuEcd4u0CDS-~hOJXW~gDoYIdFn7kuiUx2kjmIuUSRIdnrjovC2iTFCv8i9ghz8-ApJSYWtEW2gILfl6rL52wSoirSnJMdukXAepgP~CPfIW1eZtWJbdg~u65Pb9k9zjprP3qh85LjQKwk4IQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "Consumer Services",
+        "SaaS"
+      ]
+    },
+    {
       "name": "Neuron7.ai",
       "slug": "neuron7-ai",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/neuron7-ai",
@@ -132,18 +133,6 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/7a20c05ebc79c1897ad128e1bf4fdcc8_288_160?Expires=1861920000&Signature=OeUzoN4kang8M3AEoDDbU9-mgxwHNRvGzXEHlCGtPiz0GSFZWjdISN04X8jSdgdqwezXQuS9wjoR9-t5N8qC0GQ68Ec7eV54r9DFk7pBf8TyCCUe0iF3JCL6TPD3yOBAT-i5Ow8sgJSbXc8Io4dtOlCeg9e~dL0q7P3NUoVs0MzXBdxs~SWKvycgWZafx~RNeS3nxnAAPkcFdTDX8C8KpjJFkgbLTKJ5yHqzscEpC1VfpFX2OUEXxoq3v-N9JEUdDX8vhXMyfBmq9OKOZqNkABkgpFCTt1Qivt1QPVC3pcGSt8ZJOQ2tLg8d04lGgD5QKHS7dMLkNY4Ft7z9b5I7HQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "AI & Data",
-        "SaaS"
-      ]
-    },
-    {
-      "name": "Aryaka",
-      "slug": "aryaka",
-      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/aryaka",
-      "activeJobCount": 8,
-      "domain": "aryaka.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3b0ed303da66975c09d87a912027e7b2_224_160?Expires=1861920000&Signature=f9KXUmo7~qWXAu5CeY-W~MQ0-d3Nnbry-HRllTybg7bXbpSNxbjlL4lZElVQw2UFN1o3Oa0GDoqQMyyOas-UM6cChCg097I13daTMdvFbnyb7jmAB~EqIwgRgyVpPnMbP0u3qzNadjY~9GjapAcCZrsfqM2Io48OZwQgIHmJ9LkNwuJK4GBXw4m-fjer6oE~bkS~UtuEcd4u0CDS-~hOJXW~gDoYIdFn7kuiUx2kjmIuUSRIdnrjovC2iTFCv8i9ghz8-ApJSYWtEW2gILfl6rL52wSoirSnJMdukXAepgP~CPfIW1eZtWJbdg~u65Pb9k9zjprP3qh85LjQKwk4IQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Consumer Services",
         "SaaS"
       ]
     },
@@ -159,6 +148,17 @@
       ]
     },
     {
+      "name": "Allo Health",
+      "slug": "allo-health",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/allo-health",
+      "activeJobCount": 7,
+      "domain": "allohealth.care",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/7255d0f76d60f98c8975d7e053f812de_112_160?Expires=1861920000&Signature=fn9NJM0S-LXyge1k7unsnGx6Hutpbpri8Eeoch6yZMQjOO16G9lJED9bpYiF95LLorkatwg~D-fg3Wf0~daCJ~Kf-n2~s9z4fkSdSdXugEIhQsw0IhgcQkgPOZKaaVNeJlvrvftYfo1of4O-18h-YMhdDGWrcOSDdCK1RX9vgcCQx1UeGe5wzCPnVEOxiOvQHZOiYEGD9mcgLRmBqanf3ZYw8jUY~tu9GQR9CHy8sSchXJ7iYGYMObPvZwGyVBHPNuc75v18kf1Zf6vWNNdJvGXPXOQCeS1yUgK-gF5AM-RlWmbOWoToTypncd4jxUImlJ8X~uZGa1hIy67209XwfA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
       "name": "Daloopa",
       "slug": "daloopa",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/daloopa",
@@ -167,29 +167,6 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/8430b8ff0fa201e5443efddc95b5f488_240_160?Expires=1861920000&Signature=sJE9SR9B~i4bTV-lkHn1ymnMOVrUsN01HeR7xRnn5Ire4I9a1S5H-bQFmzBqMjEM-82ajE47gM1PlSjSLPvSfQ2C5dsttYxdGst-vg7c01IgPPd7flYF8suLMJtsy56YKhfrhjZsYwsn0OK2Q5QlHxgcFUWCl7ZATN7kyz-DmWYnHz~a2Glo1duASZ6PByebe~MlCtpGRBKXRlb9FFSnzBO0tgo787eOC3Zd46S0vT~Z-h9tIR7vQ-MdF2x5u-XAQKFmkyQiIqiJjzjZZZrCA1uYYLSd-EZ9abxjltxQPfcG3N88mIUB9OEaKgEbbC0PCezBQe-~ZmsdO~cFo0dG0Q__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "AI & Data",
-        "FinTech"
-      ]
-    },
-    {
-      "name": "Jumbotail",
-      "slug": "jumbotail",
-      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/jumbotail",
-      "activeJobCount": 7,
-      "domain": "jumbotail.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3336709b24501e08bba381f7e4cbde19_274_160?Expires=1861920000&Signature=BE1LEh6oOSJqfO2BK-2VTRvPqIfMk3qYAgvUPMFLpFfzhcTpVzG9Cfk1scEneuNUvpyR7LytB0m23dm7r29s9SnkBOE2lus82T5MYAoe~-UWsmp~TF-5kDw3FMCQJCKM50nwFC7he9BgiJToKbSVZxl5EBBa-gkdCxuLbBfq4pVdPlHN0qae6r5NqVmSAGmsHa7bneCy8RsZ3lkF-na9pz6Fgx7xTQN6d9qeXt82gu3gz9JCNx8mmr3Fm6DJlLl~djbxISAEGtaBDmxGupCp~kEAtkoTwsRUYZxZZBmB5fu9V-uoYrROPUmWT9Y5S8f5mFU6tQQ3yNeTnUCN2TYsug__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C",
-        "FoodTech"
-      ]
-    },
-    {
-      "name": "M2P Fintech",
-      "slug": "m2p-fintech",
-      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/m2p-fintech",
-      "activeJobCount": 7,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/ac5be193fe41eea8ee1eace4b99d404b_128_160?Expires=1861920000&Signature=OZUvsNEPFIliQM~Db-l0QPem~BH9XpH4GHyqNWhxqqZNyn73RIJV4sRBnT-Muuk~YLr4f0wI2YSz6ZxZZvlOY0lw8ldqBJiVnryePoT~L0OIAL6sfjpnFu~~XJMarsTQrgTCWl8MtT9fhbxHI0QplLPyTSfMhHhlTmEgmrpL~fxsHtWyIj85s5rSNvGE1CbrlJQYIsc7tDS0dK9NA3CIU4rgRkspYEb1ZBaLlfK-wYEpRkx0OqJ5zE6gmwrT2ybFDm4GtbJIrnHxZGqTny4PO4TZ8r6Vff1dYHgOUhTu-aBBAgDkBV-6N373EY8wUa14dkS50eSHdtQEY2I~xd7BeQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
         "FinTech"
       ]
     },
@@ -206,24 +183,37 @@
       ]
     },
     {
-      "name": "Allo Health",
-      "slug": "allo-health",
-      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/allo-health",
-      "activeJobCount": 5,
-      "domain": "allohealth.care",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/7255d0f76d60f98c8975d7e053f812de_112_160?Expires=1861920000&Signature=fn9NJM0S-LXyge1k7unsnGx6Hutpbpri8Eeoch6yZMQjOO16G9lJED9bpYiF95LLorkatwg~D-fg3Wf0~daCJ~Kf-n2~s9z4fkSdSdXugEIhQsw0IhgcQkgPOZKaaVNeJlvrvftYfo1of4O-18h-YMhdDGWrcOSDdCK1RX9vgcCQx1UeGe5wzCPnVEOxiOvQHZOiYEGD9mcgLRmBqanf3ZYw8jUY~tu9GQR9CHy8sSchXJ7iYGYMObPvZwGyVBHPNuc75v18kf1Zf6vWNNdJvGXPXOQCeS1yUgK-gF5AM-RlWmbOWoToTypncd4jxUImlJ8X~uZGa1hIy67209XwfA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "HealthTech"
-      ]
-    },
-    {
       "name": "Hasura",
       "slug": "hasura",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/hasura",
-      "activeJobCount": 5,
+      "activeJobCount": 6,
       "domain": "hasura.io",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/77fb29a01f67b074787feee3b48dda24_212_160?Expires=1861920000&Signature=NosOVmKPZ6Igi~Xi8qnjU~6mMo6BcMPKG1WWMeUll0hOOVcHeyns3Moi-a6QFZYFJfzwmW92SDgLq9lr9SD-~ZP4XS79j2JWmsDtpR7ow-J16u7~my8Vr~8p8AXcrwZHSSfedVA~kgDSaZS23-3xIJTQ7f6mXWelIRruyMXgPf7ur5TK3R7dyBTBaXAes31MoQ8sorlQsVE0-mZsx1KEdK5dzLoeQQJbNArTX0GmSCixeysJ6D4P5XFWivMU9Xh7fYeBQInt8xzG4rbxAPQEXs95Y72Z9DCJNTpfCWbm8INgpZSVnR~ODhLckvFXwkBsHTFuLZgkOzl4QHvpo2IhyA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Jumbotail",
+      "slug": "jumbotail",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/jumbotail",
+      "activeJobCount": 6,
+      "domain": "jumbotail.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3336709b24501e08bba381f7e4cbde19_274_160?Expires=1861920000&Signature=BE1LEh6oOSJqfO2BK-2VTRvPqIfMk3qYAgvUPMFLpFfzhcTpVzG9Cfk1scEneuNUvpyR7LytB0m23dm7r29s9SnkBOE2lus82T5MYAoe~-UWsmp~TF-5kDw3FMCQJCKM50nwFC7he9BgiJToKbSVZxl5EBBa-gkdCxuLbBfq4pVdPlHN0qae6r5NqVmSAGmsHa7bneCy8RsZ3lkF-na9pz6Fgx7xTQN6d9qeXt82gu3gz9JCNx8mmr3Fm6DJlLl~djbxISAEGtaBDmxGupCp~kEAtkoTwsRUYZxZZBmB5fu9V-uoYrROPUmWT9Y5S8f5mFU6tQQ3yNeTnUCN2TYsug__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "E-Commerce & D2C",
+        "FoodTech"
+      ]
+    },
+    {
+      "name": "PromptQL",
+      "slug": "promptql",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/promptql",
+      "activeJobCount": 6,
+      "domain": "promptql.io",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/da182c95acf716ac127c633775ba1266_100_100?Expires=1893456000&Signature=JapE8VPtdh5ijumTBk2icZa-mY~8pmo0p~djp2jG-UO2itHsT0QrEfDIWGnEWUZfcgFBORuRgli7JIP09ewPBW5AqOohAyJV3i3pz8A2PCTycueQvhVhYNZgv-7zF899HbggM5UpsAXwXVQg8YVvWQD4-7nn9QsNpiyXyL2USWFLu7x14k1E8KcZdWaQlm7sh5ttiJ5p-xyf3RJsfoHNEbsNrCeEYje5NF1YqeGFpOE2zYoLM~Kga3lp8UmLwpLTJot-RyxGM7ZHeWLEOni-H0T7D8Xl8yrKTsYq5Hv8FJQQgpuHw8Di6U8Q6hyFZmg9jxKMhM2KTRSkvxU2ODNGeg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "AI & Data",
         "SaaS"
       ]
     },
@@ -250,18 +240,6 @@
       ]
     },
     {
-      "name": "PromptQL",
-      "slug": "promptql",
-      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/promptql",
-      "activeJobCount": 5,
-      "domain": "promptql.io",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/da182c95acf716ac127c633775ba1266_100_100?Expires=1893456000&Signature=JapE8VPtdh5ijumTBk2icZa-mY~8pmo0p~djp2jG-UO2itHsT0QrEfDIWGnEWUZfcgFBORuRgli7JIP09ewPBW5AqOohAyJV3i3pz8A2PCTycueQvhVhYNZgv-7zF899HbggM5UpsAXwXVQg8YVvWQD4-7nn9QsNpiyXyL2USWFLu7x14k1E8KcZdWaQlm7sh5ttiJ5p-xyf3RJsfoHNEbsNrCeEYje5NF1YqeGFpOE2zYoLM~Kga3lp8UmLwpLTJot-RyxGM7ZHeWLEOni-H0T7D8Xl8yrKTsYq5Hv8FJQQgpuHw8Di6U8Q6hyFZmg9jxKMhM2KTRSkvxU2ODNGeg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "AI & Data",
-        "SaaS"
-      ]
-    },
-    {
       "name": "Zepto",
       "slug": "zeptonow",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/zeptonow",
@@ -270,6 +248,17 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/1cd9940be74683bdea9716c2c9580d75_160_160?Expires=1861920000&Signature=oNkOfyyIlq4MuqY4vqVYm~boO-1-hWzWh2FrtItGBAbNGwIGU2OV15NY~uiKu6pLyv2rqGg3EaomeKLoTepk5n8s0QAHbINTPfkmhOolI5EBSh6uwd7iCqbAbWlxTtntGnuNEgBnbc2JN~v~NRQBDnUs5wxd2NUcAbsCjI80Cbb~l4fOKtfBhHu2tY6MmUD9uPK1ignmozALgOjeYKZC4v7ViloOyiTIwolHZV6Xtdd6crnsrbESFCys2e3Cr54rS0-uS0kfxVkwBglqHe2WuRudcMhEV4DK7mRTKmCpgKexVEzG0pA66tcDW6sExkDZ5NMKtYCSCYSR767w19dgGA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "E-Commerce & D2C"
+      ]
+    },
+    {
+      "name": "M2P Fintech",
+      "slug": "m2p-fintech",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/m2p-fintech",
+      "activeJobCount": 4,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/ac5be193fe41eea8ee1eace4b99d404b_128_160?Expires=1861920000&Signature=OZUvsNEPFIliQM~Db-l0QPem~BH9XpH4GHyqNWhxqqZNyn73RIJV4sRBnT-Muuk~YLr4f0wI2YSz6ZxZZvlOY0lw8ldqBJiVnryePoT~L0OIAL6sfjpnFu~~XJMarsTQrgTCWl8MtT9fhbxHI0QplLPyTSfMhHhlTmEgmrpL~fxsHtWyIj85s5rSNvGE1CbrlJQYIsc7tDS0dK9NA3CIU4rgRkspYEb1ZBaLlfK-wYEpRkx0OqJ5zE6gmwrT2ybFDm4GtbJIrnHxZGqTny4PO4TZ8r6Vff1dYHgOUhTu-aBBAgDkBV-6N373EY8wUa14dkS50eSHdtQEY2I~xd7BeQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "FinTech"
       ]
     },
     {
@@ -305,17 +294,6 @@
       "sectors": [
         "AgriTech",
         "E-Commerce & D2C"
-      ]
-    },
-    {
-      "name": "Aurva",
-      "slug": "aurva",
-      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/aurva",
-      "activeJobCount": 3,
-      "domain": "aurva.io",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/6666940317d9406a44b276281c0ae6bd_100_100?Expires=1893456000&Signature=UyC9KC45~7bhsXKVOBlbHlpJVwRiDNjSuG6ZV~4yhCzWYNH1Qt1rOgr3VfnNq~cfyE-gY3DUlYLIDAONrWHkjT3KYQUzBdfXmG9LlUJBy4g3HAr014mIrEgc6ZC4ZcQmIByUWinsLuXpKHrGDt8Z7k4FF9IT2VgJ9uUcueEvH8bCGOwP8KDk4mNb7dhSxHzQpjdUj2HUsDp7idbAzP6IYrqme8gM2j2hmy4A1fT3MmraMYFEW3-1omji43iRJ8LMqmQS6PGwd5gkToPEETLggPy0askvFmBpqF1PQXgMG1MwxsdE6JCpB4iJnfiJkPbSth~lw9xMC8WNTgmSC-3j4g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Cybersecurity"
       ]
     },
     {
@@ -365,6 +343,17 @@
       ]
     },
     {
+      "name": "Aurva",
+      "slug": "aurva",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/aurva",
+      "activeJobCount": 2,
+      "domain": "aurva.io",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/6666940317d9406a44b276281c0ae6bd_100_100?Expires=1893456000&Signature=UyC9KC45~7bhsXKVOBlbHlpJVwRiDNjSuG6ZV~4yhCzWYNH1Qt1rOgr3VfnNq~cfyE-gY3DUlYLIDAONrWHkjT3KYQUzBdfXmG9LlUJBy4g3HAr014mIrEgc6ZC4ZcQmIByUWinsLuXpKHrGDt8Z7k4FF9IT2VgJ9uUcueEvH8bCGOwP8KDk4mNb7dhSxHzQpjdUj2HUsDp7idbAzP6IYrqme8gM2j2hmy4A1fT3MmraMYFEW3-1omji43iRJ8LMqmQS6PGwd5gkToPEETLggPy0askvFmBpqF1PQXgMG1MwxsdE6JCpB4iJnfiJkPbSth~lw9xMC8WNTgmSC-3j4g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "Cybersecurity"
+      ]
+    },
+    {
       "name": "HyperTrack",
       "slug": "hypertrack",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/hypertrack",
@@ -374,17 +363,6 @@
       "sectors": [
         "Consumer Services",
         "SaaS"
-      ]
-    },
-    {
-      "name": "Tijoree",
-      "slug": "tijoree",
-      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/tijoree",
-      "activeJobCount": 2,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/aefa026b8e7c24dab00311b43063264d_100_100?Expires=1893456000&Signature=oyz0c1zkPqXcXnUIcdIeXqZin5Fg-PO2qgwhq9E9sOUmA4Xb-EPtFg-aPXgJI-FloMHF7TJjLt88TM-YSQwCD6NFuikpKsQEVXmorOi7-bfZ1lM0SLgwXhMPy0t0IYS0Q3KIASu9J5kUqg-mZiUuCcVeySfQ3FWTOlHjRIw3khHc9K9tuEWFi--P80f06nGLjY5aj2HqHuS-1A5-lD2MdCsGhjgzCdKc40QDIG1NwBwphHg0HIF-GXG1tX-NUYR9fgkngdypZuonE61m3GPeETYows0ygGFOXwQbK5nYQt6I~26Xj64LSYipbZmTPtcBS4xOvxuaDrqBM2We27MP4Q__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "FinTech"
       ]
     },
     {
@@ -434,6 +412,17 @@
       ]
     },
     {
+      "name": "Tijoree",
+      "slug": "tijoree",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/tijoree",
+      "activeJobCount": 1,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/aefa026b8e7c24dab00311b43063264d_100_100?Expires=1893456000&Signature=oyz0c1zkPqXcXnUIcdIeXqZin5Fg-PO2qgwhq9E9sOUmA4Xb-EPtFg-aPXgJI-FloMHF7TJjLt88TM-YSQwCD6NFuikpKsQEVXmorOi7-bfZ1lM0SLgwXhMPy0t0IYS0Q3KIASu9J5kUqg-mZiUuCcVeySfQ3FWTOlHjRIw3khHc9K9tuEWFi--P80f06nGLjY5aj2HqHuS-1A5-lD2MdCsGhjgzCdKc40QDIG1NwBwphHg0HIF-GXG1tX-NUYR9fgkngdypZuonE61m3GPeETYows0ygGFOXwQbK5nYQt6I~26Xj64LSYipbZmTPtcBS4xOvxuaDrqBM2We27MP4Q__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "FinTech"
+      ]
+    },
+    {
       "name": "zango",
       "slug": "zango",
       "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/zango",
@@ -442,6 +431,17 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/e8456ef2669aad7b9fe415d87e11e76f_160_160?Expires=1861920000&Signature=EfuF0v~WA2UjDfEqhpYgc-Fw9IJVs2aWa3pqH7zBJIubAPuDMOr4NrxzqOaEnVBDgYDDgVuyKKgu3xUSmFVxhavptRkLpfxUAfe9caW6H1MkYzcF4vMrBgidUlfxVOHIFWFt9kSmc1ZxnuUBXkQB29NuE11RIR6PvBZ4J1OFV6W6qP0nbymwSdQbcbf7aytvWdvtVBHFNfZc0TeKxEaHuig4knLkOSN7EdWMqNeXlbGOHN0sfuVSpkuG0uCp0KEJ80DV3voohjegPediCTrHpAjosxkhJzQGkOukdKC9Odu5Zo07mwfcdLIXX4LcPWBGjrJExwPEeGxodrEdgwEdCg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "Real Estate"
+      ]
+    },
+    {
+      "name": "AssetPlus",
+      "slug": "assetplus",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/assetplus",
+      "activeJobCount": 0,
+      "domain": "assetplus.in",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/c633bd3bdd2bebcd944bcfae7c605c3a_100_100?Expires=1893456000&Signature=Edtwwef2wAmSoxJ~EP5ils0-prbzx4wPq2oW-LuoWI0DuuvL0dBO2kLhT78Pz~yXjz63EhEPg0U3TiiKyrcMgxajQgqm0R8DxWmicZgE~uF1cpt0vlaqJEIOsTDqC1KJzTJJz0q0Zvbxxk0q~r~513U-gK83N9Bu1trtM1~lzYVFTWcU2WHk5ODyLLY1zBmV8nQf~~Is4nCd1qbm0LGsXz2GDoqbzOI9QmlOMvcsjdJdVe46Zc8V9E9uNL1jikt7FycycPFnEJWlMSv5ZL~j511gOEqeJ3-psLFi7GSrxc-k3s24nVsxxY-H2yJXRgqMIfCWRLzXpGiVRNUIKtVgZA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "FinTech"
       ]
     },
     {
@@ -593,6 +593,15 @@
         "AI & Data",
         "SaaS"
       ]
+    },
+    {
+      "name": "Peoplebox.ai",
+      "slug": "peoplebox.ai",
+      "jobsBoardUrl": "https://jobs.nexusvp.com/jobs/peoplebox.ai",
+      "activeJobCount": 0,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/profile/05312459ebac40378da0644954950e88_100_100?Expires=1893456000&Signature=YcJkUagEYPkJXjyL2sP-9JDhWUmQDGf48dIVmP~7DNAT8neA5F-ruOF6gH7kTTKFX~if7UKuK4kWnmexb1xGJyu3xeH00D4NQUDPuIF1MymDzf0aitov1Rw-HwbnX1IqBfO7q2to0htiAQPHfdAsfgmq020Usw2mbu37StbT540D6EeShIm019bX68wroh0inqisYKxVLCnwA92VZPFdkVnoZc97ODY2cISqwCAGnmgxXdjWh2ejQD8X1q8UgrlpyzS4yyE~K~crbcnnbrV1tKRKF2SMBYHsZxyRZt~ZE426XtQjC4DoOig2c0NHcN24Az7dJn1MHM6oaGTxVEV8kw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": []
     },
     {
       "name": "Rapido",
