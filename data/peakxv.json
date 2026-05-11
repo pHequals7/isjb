@@ -1,18 +1,6 @@
 {
   "companies": [
     {
-      "name": "apna",
-      "slug": "apna",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/apna",
-      "activeJobCount": 169,
-      "domain": "apna.co",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3fb08a2ac4eaf9b0b3f46cdf1e35e87a_160_160?Expires=1861920000&Signature=qX2RaVLH52mfdat3cUPsxIvpIWh2tz0FBeVArkV9DqmRKVrEKy3sjd0Udgvr~439S-zc4WmhXcY~JPtUpeqM-gFsmruOW0xrNebmigfpwQozoRgRuVOqC059JmM-JoNxyvC74zjoT8x-dB0rzL4tsl~Fx0l9U75tBXl1vBOVfdb4sKSkdZwbEdg2OTCyHjdZ9h1HOxaUgECzon9S-fne9jRgC9AbWgDJCdiUHihUAVhm~dF~b9l8~L26xhdCDTKFpluMfxf6IK7c~bwlPTP6YF8ultBQNeuXFmxPF-FTSi2NHrUV6SItBpW5h1lt24Rd~1mkaPRuhELR24y-4x6I3Q__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "EdTech",
-        "SaaS"
-      ]
-    },
-    {
       "name": "HomeLane",
       "slug": "homelane",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/homelane",
@@ -28,7 +16,7 @@
       "name": "Multiplier",
       "slug": "multiplier",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/multiplier",
-      "activeJobCount": 127,
+      "activeJobCount": 129,
       "domain": "usemultiplier.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/0a42fac4b44a495e4114b984ee4ddbb5_288_160?Expires=1861920000&Signature=iZuLNs0eDUZsJSAnjow7c1VArrWleIhQ2ZXLrm3HbqJjG2X-BbvBWUZdOFpFkaz1Qwd3YkCuK7x47k5Zk6QYraMbNxjxVIYioa8JSV6p69VUoGPbVkDNba8QVCqm6RxQPug5z2vbvHD4drwIgpfLG0o88kj6gMQPKUkRbymSrrFLlKjquxU9lI6xsGVe1yVhigmpslsCl-V2rXDAiCsGPpv1cFVs-CN2IzNwvxZlP2wv4ruPvfmskhxx5YcFkQIgWyW-P3U3FPLUdzTnXymb67yjHNEyJupSuTudPDjZCRtQ1iLLIkKliHyIGr-vvZsC5adWs528aL7O-MfhtXqy4A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -59,6 +47,18 @@
       ]
     },
     {
+      "name": "apna",
+      "slug": "apna",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/apna",
+      "activeJobCount": 72,
+      "domain": "apna.co",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3fb08a2ac4eaf9b0b3f46cdf1e35e87a_160_160?Expires=1861920000&Signature=qX2RaVLH52mfdat3cUPsxIvpIWh2tz0FBeVArkV9DqmRKVrEKy3sjd0Udgvr~439S-zc4WmhXcY~JPtUpeqM-gFsmruOW0xrNebmigfpwQozoRgRuVOqC059JmM-JoNxyvC74zjoT8x-dB0rzL4tsl~Fx0l9U75tBXl1vBOVfdb4sKSkdZwbEdg2OTCyHjdZ9h1HOxaUgECzon9S-fne9jRgC9AbWgDJCdiUHihUAVhm~dF~b9l8~L26xhdCDTKFpluMfxf6IK7c~bwlPTP6YF8ultBQNeuXFmxPF-FTSi2NHrUV6SItBpW5h1lt24Rd~1mkaPRuhELR24y-4x6I3Q__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "EdTech",
+        "SaaS"
+      ]
+    },
+    {
       "name": "Leap Finance",
       "slug": "leap-finance",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/leap-finance",
@@ -82,21 +82,10 @@
       ]
     },
     {
-      "name": "Sigmoid",
-      "slug": "sigmoid",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/sigmoid",
-      "activeJobCount": 54,
-      "domain": "sigmoid.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/5f633766c05ea3d6a092b3dce1e5e5f9_192_160?Expires=1861920000&Signature=GMk0y8hzqme38NQWuv7QY~m59sdtMD2rb5ppcL2~QbNZdWLv~ZQGjivGAwXpqGOzJGNmLQ3PE8kYRphMYVQOxjzGcczyDazdKezewLr-GdUpwFOH3ge5IUu6yTzVrHhn891n7kgihhgpzo7lIwWN1ImxgS~MB2yrM~Xhm2CNlLdKqYDti9yvWwdqGBRHfFQwjJDvDix5tgbrhA9-2Pw4q9DKxFJB1-8z-LPHYMIKr4mtR74KipKZhVsKFFhYsSAqw2zTmmR9MqU4zEPCZYGqe~d2sDmbYzKNUwleLkTToEzvy6LerLBNaj9-6sIRztRB5bVNnszD-ocK3aAQma4JsQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "AI & Data"
-      ]
-    },
-    {
       "name": "Plum HQ",
       "slug": "plum-hq",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/plum-hq",
-      "activeJobCount": 53,
+      "activeJobCount": 57,
       "domain": "plumhq.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/56073c17923a33497e8f5af3ce7b5fac_160_160?Expires=1861920000&Signature=J3rbVhngoNzZ8vx2yJ0H70UcRKii2oNbSzafVhMYm9o3JdZ1ahYtZcAL46jR4jdjLc6zMPlVEa8TgxG5RjnpjEEMtB-SrZR0eACbe0mb~U-vaPQqn5wCms4i2UjvNjWqs3GbmWo-G9Aw0vQB4hCK9FvWs85-gN47YcKXNGrW7EvIwTigu5gsyECeyEHs1Jq33rpHuDCAdE2U9qL3YnsjMFJJjQjvuXQ0RAH2KZQbqmOhOTXEy5Zt5nLpqELjseAdsks54JTFGl210KLkB5Hg2DvsQoYLbMoojm6SF9Fw-0QgsLBVKHrHsun0~qWltjjqvBG6pC7RidNvrWPavvgFxg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -105,21 +94,10 @@
       ]
     },
     {
-      "name": "Meesho",
-      "slug": "meesho",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/meesho",
-      "activeJobCount": 48,
-      "domain": "meesho.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/b32aae1d4ff16d585613bc74c741e702_208_160?Expires=1861920000&Signature=XtL3lZQOnxzL~EllBqUfdl7l7d8upjodROKQiHANPmnTw4eHs3qgJHapuUGkyz1AcdwYDAeQEJyKenOnkN6ldno8-Ooe~c1MvE0avAUq-qFIKxyz2dKdMMYDpXkuDGpZNFvCJ4IVIigpV9IjuSlfizIdnpwSaGe9ip5acqC225HPr9DROUKfrEGQb-4FmiXRUXb~H8ddr2c1LAFSaw5JmsdhoIfYGnV1D0SCaI~DpJhRTGnAXAMC-I589jp7kZO2hFrcBCDJfYGFL6FcVoFqJWXe2QolEjU6FITVWN4h7XmbLTnnPLtE8bsr~du~ene-c7Dv9enYhNT0IXEHduB8qQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
-    },
-    {
       "name": "Razorpay",
       "slug": "razorpay",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/razorpay",
-      "activeJobCount": 48,
+      "activeJobCount": 53,
       "domain": "razorpay.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/61f13b769e4ecbbe6c780eebfe923b1a_304_160?Expires=1861920000&Signature=IG9xqiyOJ89~9TEr8r5AnyWKBS0hF2iLumYcdv-uH~f7~yFL5O1b~uyAezA1A5slXveke80cxavXrkdRvGZCQc7qSAHyBzPmDNY9aJCd0OmP6IIE1pKbbbKi5Nt8M2C-~TYJ-1Ato8FH0cEsGYAx1rkYaoKauVe8sVohk-g4~2LQlqqR9uK0huqoSiAmciLTOI5mXes2J7km0MLtyJ2pl9uvm58j6EC69mE9XgLChJp~rAyX99xQaPDIxahx0NrS8zC07TL7pnqc7H2YfyPNfZhoGLfIX45juGqyd-vowRTZW4HXRxtvv3r~qq4NB5g39WfZGIHKxuYOVE5CdyWRWg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -127,22 +105,32 @@
       ]
     },
     {
-      "name": "Tata 1mg",
-      "slug": "tata-1mg",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/tata-1mg",
-      "activeJobCount": 48,
-      "domain": "1mg.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/fd36a0c88d6c80b93bd864af0505d732_288_160?Expires=1861920000&Signature=FvOnOXhF0~V-Qxv6ib9D~KOcJFgmvNj9sS7RuopZT6Y83WxsREGolpK23gqejb5mQgwlD2MBviSLaDXgkQlyaqVNdHABZO1w9WsueDrU8Li~LjVMkepXB34Ad2H7OphskPmFH3dSuX--Jqr08X4intypsS0yuxIlXuvUimUjlytoiych~3sFNDaVaZRfp-Z3qoYPD91x-gWM9HlzSKT~uLLwMJzU1pTpaQNA7kKetLbBpqCjLEwBGzFl535k7E-AIiE7jp5140~I7F42WJnX95ReePCfMIczd6yj9lLI-pKX9UbPVQt0eH4JXlMAadddn5pQ9sSfzmdCSMu98ekP5w__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "name": "Sigmoid",
+      "slug": "sigmoid",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/sigmoid",
+      "activeJobCount": 51,
+      "domain": "sigmoid.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/5f633766c05ea3d6a092b3dce1e5e5f9_192_160?Expires=1861920000&Signature=GMk0y8hzqme38NQWuv7QY~m59sdtMD2rb5ppcL2~QbNZdWLv~ZQGjivGAwXpqGOzJGNmLQ3PE8kYRphMYVQOxjzGcczyDazdKezewLr-GdUpwFOH3ge5IUu6yTzVrHhn891n7kgihhgpzo7lIwWN1ImxgS~MB2yrM~Xhm2CNlLdKqYDti9yvWwdqGBRHfFQwjJDvDix5tgbrhA9-2Pw4q9DKxFJB1-8z-LPHYMIKr4mtR74KipKZhVsKFFhYsSAqw2zTmmR9MqU4zEPCZYGqe~d2sDmbYzKNUwleLkTToEzvy6LerLBNaj9-6sIRztRB5bVNnszD-ocK3aAQma4JsQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "E-Commerce & D2C",
-        "HealthTech"
+        "AI & Data"
+      ]
+    },
+    {
+      "name": "Meesho",
+      "slug": "meesho",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/meesho",
+      "activeJobCount": 44,
+      "domain": "meesho.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/b32aae1d4ff16d585613bc74c741e702_208_160?Expires=1861920000&Signature=XtL3lZQOnxzL~EllBqUfdl7l7d8upjodROKQiHANPmnTw4eHs3qgJHapuUGkyz1AcdwYDAeQEJyKenOnkN6ldno8-Ooe~c1MvE0avAUq-qFIKxyz2dKdMMYDpXkuDGpZNFvCJ4IVIigpV9IjuSlfizIdnpwSaGe9ip5acqC225HPr9DROUKfrEGQb-4FmiXRUXb~H8ddr2c1LAFSaw5JmsdhoIfYGnV1D0SCaI~DpJhRTGnAXAMC-I589jp7kZO2hFrcBCDJfYGFL6FcVoFqJWXe2QolEjU6FITVWN4h7XmbLTnnPLtE8bsr~du~ene-c7Dv9enYhNT0IXEHduB8qQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "E-Commerce & D2C"
       ]
     },
     {
       "name": "Zetwerk",
       "slug": "zetwerk",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/zetwerk",
-      "activeJobCount": 41,
+      "activeJobCount": 40,
       "domain": "zetwerk.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/c4aad6d578435c5950c7e7aab821a8cc_288_160?Expires=1861920000&Signature=l~BwHtHwywOgsxjKvs~UAjXM1nXoO-lRNjM2aCBZQ1UX2UUjDFJMSYXcnMn~3jI4q6WthsyGyWPe4~VdjVrKs-uEMtsVtJe3kbfsIEx1VmOLIIVHAXG1yJysF7taEqpYmLCoauG0KvS4ljbc96LXzS8LnP1ZhLO9J24I1ibjuBX4lqB7HKgyotwsDKHlTCSRxtH2XTrdD2xzf9DrBwKUZJnScdB-LXTwe-j6LsroJx-qesLqOpnjdoZCyBb3Q3j8CcWKutcInSlRzlL6F39pFE5z8NB91FAbNOGNO2YIPtq3zbAIqxn0zZUAGf-kUjFT8pfoQ1buQKUzh-0oWYjbUA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -151,14 +139,26 @@
       ]
     },
     {
-      "name": "Freshworks",
-      "slug": "freshworks",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/freshworks",
-      "activeJobCount": 40,
-      "domain": "freshworks.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/66a2ce1620f6d9fddfab912fd8796363_288_160?Expires=1861920000&Signature=ECA3COAQ7HFOqq1bVLMZ~TBd4GNf6V~ED8660xjBe6W6cn5HCyjCTzY1Yh-ALFpFJWezq7ymquB-IuCbYPklaqRT1FVpwU45pSuiyqJHkWmpZzO85F9MpU81Wis8noWShrZzGynzPCekM0s-FZPxRYOqUfyhy9F2UFz91xIRCWkajE5OxUueAToHaS6tI0nb-O9kNzijDr1QCO0tavDO-2989Rly-vny-fRBAPLCfxjHU7OFVvRnIEiWTvIQ3DZUndHb6-zaSy47Yz6GVIgDiNyNCM-G-pgBfUYnE5yCmOJDVI~OvfSZUFcSyyB2FTD6oubxk7fbQMVC5mMP86NAqQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "name": "Purplle",
+      "slug": "purplle",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/purplle",
+      "activeJobCount": 37,
+      "domain": "purplle.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/b781c95b6c07b60721124bab18b59f1a_192_160?Expires=1861920000&Signature=mi5p9Y7Fjezx65DcYTuC3VqyJzDPFXc-H5oeAeTeMDi7gGmkQxyoPCu6e1nInN9glSbrw6vM8XcNrzE1dsIGSbsW2ZlEc4XhTDDLjDapTvkOwE7kRFON9FP92k0VWo3II~gedEvzgCST8mV9HGg9h3kYOuNokNBGYHzy5gjjb5RkAxvJp-ZGXZWhp-fMFWIR-n463e7eTJo0jPa7HQ8zxZ-eDfIdZmME48hAeEXSHcZ8nQS4uDPMe0iL4NcJ0sk9qTHR08N-ri3rztInJX7zTQThhY3akj~HzOEICmeE9NJTgrh9IZbIPckQNyrgKwHfv4wIYy1ECF6DC9fUvMjjhQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "SaaS"
+        "E-Commerce & D2C"
+      ]
+    },
+    {
+      "name": "Tata 1mg",
+      "slug": "tata-1mg",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/tata-1mg",
+      "activeJobCount": 33,
+      "domain": "1mg.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/fd36a0c88d6c80b93bd864af0505d732_288_160?Expires=1861920000&Signature=FvOnOXhF0~V-Qxv6ib9D~KOcJFgmvNj9sS7RuopZT6Y83WxsREGolpK23gqejb5mQgwlD2MBviSLaDXgkQlyaqVNdHABZO1w9WsueDrU8Li~LjVMkepXB34Ad2H7OphskPmFH3dSuX--Jqr08X4intypsS0yuxIlXuvUimUjlytoiych~3sFNDaVaZRfp-Z3qoYPD91x-gWM9HlzSKT~uLLwMJzU1pTpaQNA7kKetLbBpqCjLEwBGzFl535k7E-AIiE7jp5140~I7F42WJnX95ReePCfMIczd6yj9lLI-pKX9UbPVQt0eH4JXlMAadddn5pQ9sSfzmdCSMu98ekP5w__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "E-Commerce & D2C",
+        "HealthTech"
       ]
     },
     {
@@ -176,9 +176,20 @@
       "name": "Druva Technologies",
       "slug": "druva",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/druva",
-      "activeJobCount": 27,
+      "activeJobCount": 29,
       "domain": "druva.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/0a4677dbb6bc53412473135e1b9071e5_176_160?Expires=1861920000&Signature=AovS1WqmCAKN4w9ZS4Lt7LzfavoHt5weKbb51OwhqSeCb8Irltb9sqL-hyw~aFYcE0La0z57F~n5~N4ZjB0OQfPWj2g16rswdc6149PAf4A2f8I8lMIkrIsU5FhBoI3B5bzEYT2ZgAb0j3ZqYGWBC~0Ezmpb8UR02KCQ6~j-m5MG~CIDfIyeQLOY-NOjpigmN78MmRO7uhzfKzHl~XZ3xBd2A6AXUfXNDCJOBpyPFcO0InB5hoY8TP2lmznMZhk7TBhUnd8Hhcy6ersDbiiEg5MFtEkx1r~Jzt0j0V5Di3zBhlDgJ-9w6rawX258SGlogmuyvJa8jKBe1EblIl6THw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
+      "name": "Freshworks",
+      "slug": "freshworks",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/freshworks",
+      "activeJobCount": 29,
+      "domain": "freshworks.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/66a2ce1620f6d9fddfab912fd8796363_288_160?Expires=1861920000&Signature=ECA3COAQ7HFOqq1bVLMZ~TBd4GNf6V~ED8660xjBe6W6cn5HCyjCTzY1Yh-ALFpFJWezq7ymquB-IuCbYPklaqRT1FVpwU45pSuiyqJHkWmpZzO85F9MpU81Wis8noWShrZzGynzPCekM0s-FZPxRYOqUfyhy9F2UFz91xIRCWkajE5OxUueAToHaS6tI0nb-O9kNzijDr1QCO0tavDO-2989Rly-vny-fRBAPLCfxjHU7OFVvRnIEiWTvIQ3DZUndHb6-zaSy47Yz6GVIgDiNyNCM-G-pgBfUYnE5yCmOJDVI~OvfSZUFcSyyB2FTD6oubxk7fbQMVC5mMP86NAqQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "SaaS"
       ]
@@ -196,17 +207,6 @@
       ]
     },
     {
-      "name": "CleverTap",
-      "slug": "clevertap",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/clevertap",
-      "activeJobCount": 24,
-      "domain": "clevertap.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/128628b56898756b7d8c69285258536e_288_160?Expires=1861920000&Signature=RR1peeCDgp7fB1JaWxuaWeadQBUnRnfpOBnT-yrUko8SQajZh6RkOdkFWZqX1OkhWGDYuQZwsICd5mz10QSIBUYlqRzhkWX~jqa2YL4PD4LnICYOy5SFIp9IkgPwwqjlRfz-EbR1n929pEMGSIgpOghQj6TRBjm4LPcE2pEQxlPpMgwDywKN2g3gy37IPxYpRINGR11n3hgwVIdk6RqEshJhWV5QpxCXjR3IdiPBtE4gkcfPliQVWg12fPzvmIMkk5QzYOVuvr1ozi5WsJZVP7i61MutoXSP76O3rOT2ViYdC8RDShow9jSx-t3h8ktMCPmfTTEkJ9rH-KtFpXvkGw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "SaaS"
-      ]
-    },
-    {
       "name": "Trusting Social",
       "slug": "trusting-social",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/trusting-social",
@@ -216,6 +216,17 @@
       "sectors": [
         "AI & Data",
         "FinTech"
+      ]
+    },
+    {
+      "name": "CleverTap",
+      "slug": "clevertap",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/clevertap",
+      "activeJobCount": 22,
+      "domain": "clevertap.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/128628b56898756b7d8c69285258536e_288_160?Expires=1861920000&Signature=RR1peeCDgp7fB1JaWxuaWeadQBUnRnfpOBnT-yrUko8SQajZh6RkOdkFWZqX1OkhWGDYuQZwsICd5mz10QSIBUYlqRzhkWX~jqa2YL4PD4LnICYOy5SFIp9IkgPwwqjlRfz-EbR1n929pEMGSIgpOghQj6TRBjm4LPcE2pEQxlPpMgwDywKN2g3gy37IPxYpRINGR11n3hgwVIdk6RqEshJhWV5QpxCXjR3IdiPBtE4gkcfPliQVWg12fPzvmIMkk5QzYOVuvr1ozi5WsJZVP7i61MutoXSP76O3rOT2ViYdC8RDShow9jSx-t3h8ktMCPmfTTEkJ9rH-KtFpXvkGw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "SaaS"
       ]
     },
     {
@@ -242,17 +253,6 @@
       ]
     },
     {
-      "name": "Purplle",
-      "slug": "purplle",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/purplle",
-      "activeJobCount": 21,
-      "domain": "purplle.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/b781c95b6c07b60721124bab18b59f1a_192_160?Expires=1861920000&Signature=mi5p9Y7Fjezx65DcYTuC3VqyJzDPFXc-H5oeAeTeMDi7gGmkQxyoPCu6e1nInN9glSbrw6vM8XcNrzE1dsIGSbsW2ZlEc4XhTDDLjDapTvkOwE7kRFON9FP92k0VWo3II~gedEvzgCST8mV9HGg9h3kYOuNokNBGYHzy5gjjb5RkAxvJp-ZGXZWhp-fMFWIR-n463e7eTJo0jPa7HQ8zxZ-eDfIdZmME48hAeEXSHcZ8nQS4uDPMe0iL4NcJ0sk9qTHR08N-ri3rztInJX7zTQThhY3akj~HzOEICmeE9NJTgrh9IZbIPckQNyrgKwHfv4wIYy1ECF6DC9fUvMjjhQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "E-Commerce & D2C"
-      ]
-    },
-    {
       "name": "FamPay",
       "slug": "fampay",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/fampay",
@@ -264,21 +264,10 @@
       ]
     },
     {
-      "name": "Whatfix",
-      "slug": "whatfix",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/whatfix",
-      "activeJobCount": 20,
-      "domain": "whatfix.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/2a2d9dfa8468a3167d4da95500b360cc_224_160?Expires=1861920000&Signature=WhJEdUlmZHZKV3chPVyA1TB2oIE4RqJ0~6PjoR6OhIjzPHCSyZIPw36-f0lRAJOIXIyIq-8u-rCt-E7d7edLA2Iu6LmvDTQfbQ6cqKwrXl~n6FUzxZR1ECyxNYrEBNljk1O5L-0NcuZwYkAjMLuswIrZt-Kbv7T5CdaFsDCLgXmiNIFZoTUHhXEDwtiB51dH9~a~rSF9wHAhvX7fFo~oPn5ltf3al1IS6U2StZNaDSv12TLrvykwXwevs1Tvs1kgkk06KTc4YSaf3vFkLC3d6T1fV2kNrSP2HuxIlp10cnI-ShmIXc4e1GOnWkryiGwoc3GWYm1cEurAcPrPVfAw8A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "SaaS"
-      ]
-    },
-    {
       "name": "smallcase",
       "slug": "smallcase",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/smallcase",
-      "activeJobCount": 19,
+      "activeJobCount": 20,
       "domain": "smallcase.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/427652b699b6cc3ae2854544199d4beb_320_160?Expires=1861920000&Signature=qwPQVxnbtWWMujU5o20nyVzovmqCHN5itLFUNu7riOPV4zo8tAEwtoPVCFP5MALq1kMwyRrm1FwQEWI~QS63M9ksDP4XlKXRpihmXCDYoBkvO1RSA5hvozJzlOsX1eP4~bUGAlgNfbAvemi9B0eSgJPfXx7CM3vb3MAqRisYi~-pk5Bvul1dabScyA5mGRKRD3XUz0w2qwDcMn641QYeDNIQkyobwA3Q2k1O8WJPkCQYl6Olsivf6VIWKaOO-S90dg1~seaQawlKMN7NetroSwrGjBAiO~nXXY3L1OSsIw8f4Gw2fwcpa2sdkjZjMHGQP5GhSpkUruxyJs8dQv0nfQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -286,14 +275,14 @@
       ]
     },
     {
-      "name": "CoinSwitch Kuber",
-      "slug": "coinswitch-kuber",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/coinswitch-kuber",
-      "activeJobCount": 17,
-      "domain": "coinswitch.co",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/46188adaac525aa38e6b30e7e9a68ec8_320_160?Expires=1861920000&Signature=or0L48du~-4D5QXqfV44jHQaF~ezOpyvTKeB6Nzkl35g9ZWF4CuQxII9diXNDq3L9237GbwtYdC5Twsbf0J-v-zLZ54L4nl20bQbJFQ8nGHIuiJvxNSVWn5VB1jjVs8pMHFFWcfdNW74e--U6tDoXuG1PXRIbNu-PZ9JG18h-V3zpiR27NbFq2RPO0QtoZeZlPr0pKzMgP29WAQWCxBmmsrnOJ4LqhzBoluQGA7MfiysPG1StK7S-j3LXQZgOsaBMXXBhVSbfjvJxh4x9ieHTjw9uR8irvZp4PmQH7VdLIqiMvPBqIAwTRNYmtKOjQT2WuYI8JK74Ii1NMAD65KwUQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "name": "Whatfix",
+      "slug": "whatfix",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/whatfix",
+      "activeJobCount": 18,
+      "domain": "whatfix.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/2a2d9dfa8468a3167d4da95500b360cc_224_160?Expires=1861920000&Signature=WhJEdUlmZHZKV3chPVyA1TB2oIE4RqJ0~6PjoR6OhIjzPHCSyZIPw36-f0lRAJOIXIyIq-8u-rCt-E7d7edLA2Iu6LmvDTQfbQ6cqKwrXl~n6FUzxZR1ECyxNYrEBNljk1O5L-0NcuZwYkAjMLuswIrZt-Kbv7T5CdaFsDCLgXmiNIFZoTUHhXEDwtiB51dH9~a~rSF9wHAhvX7fFo~oPn5ltf3al1IS6U2StZNaDSv12TLrvykwXwevs1Tvs1kgkk06KTc4YSaf3vFkLC3d6T1fV2kNrSP2HuxIlp10cnI-ShmIXc4e1GOnWkryiGwoc3GWYm1cEurAcPrPVfAw8A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "FinTech"
+        "SaaS"
       ]
     },
     {
@@ -305,6 +294,17 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/3c13a8e7a803d6d21337ed845e00e0fd_320_160?Expires=1861920000&Signature=jXGf~8vz0TY~Aiar1MWIHQ~h8t-1CpjwkFIgTNrqx6YpzV9bSHzSTP2VMWBzQMOSc9ig8Ft3e58PbmlPBGYRGiRbTGX3DRJNGd5Ljr9A9enA4kTWPQGzO-Nj5dlp6-FYoLRBL7~qUZwpedLCGWU9kpnIxEiLnYCLFnRDmLc98aQoUr~b4gamrC-czKr-r9dAZUoDs9QPZJmfooJG89fZDFwvQ~iFdaC21y8Gjo9j4t4o1HLQtMR~BgGgPY5VkpaDTnpCxl8YPc1q76qCEm~bkzdM5JOg1NpDhBTYcSxRSHlYYFFVJmX~FcOYdwZwj~KFA9tX2FDHXkmqc3RFIExbiw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "SaaS"
+      ]
+    },
+    {
+      "name": "CoinSwitch Kuber",
+      "slug": "coinswitch-kuber",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/coinswitch-kuber",
+      "activeJobCount": 16,
+      "domain": "coinswitch.co",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/46188adaac525aa38e6b30e7e9a68ec8_320_160?Expires=1861920000&Signature=or0L48du~-4D5QXqfV44jHQaF~ezOpyvTKeB6Nzkl35g9ZWF4CuQxII9diXNDq3L9237GbwtYdC5Twsbf0J-v-zLZ54L4nl20bQbJFQ8nGHIuiJvxNSVWn5VB1jjVs8pMHFFWcfdNW74e--U6tDoXuG1PXRIbNu-PZ9JG18h-V3zpiR27NbFq2RPO0QtoZeZlPr0pKzMgP29WAQWCxBmmsrnOJ4LqhzBoluQGA7MfiysPG1StK7S-j3LXQZgOsaBMXXBhVSbfjvJxh4x9ieHTjw9uR8irvZp4PmQH7VdLIqiMvPBqIAwTRNYmtKOjQT2WuYI8JK74Ii1NMAD65KwUQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "FinTech"
       ]
     },
     {
@@ -342,22 +342,10 @@
       ]
     },
     {
-      "name": "Khatabook",
-      "slug": "khatabook",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/khatabook",
-      "activeJobCount": 13,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/f39241c4f81cfd03af9188709bdb6849_304_160?Expires=1861920000&Signature=qFoiqDT4Du7aALrmsnUw-Ti8r7g~21I5LYyoGiVUJ~MWGjJlFSgt1YQD6Li51nTAoVTk7z6n693QXNC~woz0SiDyYTVBfr~emO5iRMJLffOLDQk3bD2uneeq3VBrt3vPghl0Z-jkFjamnsZrXyfCfwSBMK3rj2V1rzmijaISbl6vhBIdxWpJOAdeO~SkuCe3mkfnNiIqtixjg13NzfS9e7ydn32WQ-hszQrDx1~~7-NnU~ZW~WOxQfb224J8V6YjBTLOixWF2KZcO90yjs~8COj3XNo6E4DwZywOWR1~WY7Bvmf~v9ziR258c-tz1RsXFizE~HmqXoYBE4isLbOY-w__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "FinTech",
-        "SaaS"
-      ]
-    },
-    {
       "name": "Cuemath",
       "slug": "cuemath",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/cuemath",
-      "activeJobCount": 12,
+      "activeJobCount": 14,
       "domain": "cuemath.com",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/02727a62530463f521384430a5e2e5b8_240_160?Expires=1861920000&Signature=RWcanp77HfQtyvuJhYRAzygltg09bjG0XD8mmx2dELtbEcfgqrO-sksvtdhvWpOPwoOBjsO5YrVsSwpRHH6a2r1IxtMUo80~1npmsMyS4QCsOVkTywyU9UI98bX0-~zTx0EY5rsyzYgm3DcOpCvvpHmm4bDyw9hIkj8p~ThLat49BHG-pCGmj0POJSy14ILQVZ6y43gNbtKTOgFZ1Y1GvebhWEOg34pV51PS59-ts1nZhdv90z0giSJrkh3OZ-MiHaKAVpQCfjwaTEqk79Rufu0YwRFaVjnSeabA30hR-H~b-Nn1HNgKz59HxuA8D2onq8bgySs4zMuL0Jk4XQ7Dcw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
@@ -387,14 +375,14 @@
       ]
     },
     {
-      "name": "CRED",
-      "slug": "cred",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/cred",
-      "activeJobCount": 10,
-      "domain": "cred.club",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/0f489dc78cd71c10ce7781731473f725_242_160?Expires=1861920000&Signature=GmZSUIAoEE4uqZj-kImj6rPcw9fCFWxVAAOUGq2DQ1epweYf5arDIuHCqoyJJNcpacix2kI3q2syOASgk0QEQWALU19KoZo2BQj5TnFNbyWmoMaIzrt0zi8gBQ2BQOL8tzMKVaWxavl2fPbfygecPOn0usLXjhD0M-93BEsxF5zg9XRxQ1ZiG9TS0T2MLlo5k7rOLJHp6M3CvHww7pGcmBwI4pS3d5nN4i92He9dJJlOptIbMRGtTsso-es0siY~YhcA5XVbBJQolIQQNRHDqCLvKp~gN3OIPo66AcYAzQ9XgaFYv8I9XleNAmk7VLcr6VU4d~1XZ5MBzwrmQNKHvQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "name": "Zomato",
+      "slug": "zomato",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/zomato",
+      "activeJobCount": 12,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/9512a6013d632c3218c345644e754b8e_224_160?Expires=1861920000&Signature=fh-dEaP7l4PyD0jSRKCYZmPLK06LJbcH9fPQMRkt7QlgKJENlg4iikCTAoVCnNMtjdTqroyN-KiArzm5qCBZI5Fc3i6aQAX4Xf-3lU2UmbsRidixTq9tQ~ekyoYPBScCMHIUcWKQlAWSs4ZoUzMkm-aGX4H6nY--fjdQ4YF1odTZmCWcEoJlOGIkVuMGvTICPebrh2nalDRhmVvfoLOFW-BBNHX8~7C8MDgkmcXkw9uOANBPz~hjMK7KjuHxqFCOKohlir6cORvGGzpy3u0RqKwaLUF0wc46P1pbnzzJcC3yCDSEccIS9qGZNQufGdL-lJJisegnB7tJPIdraH0JXQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "FinTech"
+        "FoodTech"
       ]
     },
     {
@@ -406,6 +394,18 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/326a3ba914f5f8e97658e9e7ae0f0401_156_160?Expires=1861920000&Signature=ECqaxfcYRV3bi-Ve5WiRo4gAuPAljKwoAhV~euz4C9pop-rB8Wy0ZjcyJte16VzeEB4cV72Wyv9rqTrhNbgfOoNhiRM~G06GOr1sd1rbpZY-xk-E0rO9Purm3lqPKav154z0ROwzBuS98m39E8E6RKqBbfE69Xh-Njl1FhAO0cdCVVGY6kVExPlCJk1x0lN-PtNH90V5J49CwL8xg~P7oJeLLAcwU8ZEssWFn7FuXCINKPdwpXPeIaQIK9p4s9E~Vbi-Ge9l9NSvf3Rp94w~3hoJ57VRRO~qsMhdKUykwcLTD5DWl4ZAm2BDnGo4eroB~Cz1VDz1qrlKf7BCuy7mQA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "Travel & Hospitality"
+      ]
+    },
+    {
+      "name": "Khatabook",
+      "slug": "khatabook",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/khatabook",
+      "activeJobCount": 10,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/f39241c4f81cfd03af9188709bdb6849_304_160?Expires=1861920000&Signature=qFoiqDT4Du7aALrmsnUw-Ti8r7g~21I5LYyoGiVUJ~MWGjJlFSgt1YQD6Li51nTAoVTk7z6n693QXNC~woz0SiDyYTVBfr~emO5iRMJLffOLDQk3bD2uneeq3VBrt3vPghl0Z-jkFjamnsZrXyfCfwSBMK3rj2V1rzmijaISbl6vhBIdxWpJOAdeO~SkuCe3mkfnNiIqtixjg13NzfS9e7ydn32WQ-hszQrDx1~~7-NnU~ZW~WOxQfb224J8V6YjBTLOixWF2KZcO90yjs~8COj3XNo6E4DwZywOWR1~WY7Bvmf~v9ziR258c-tz1RsXFizE~HmqXoYBE4isLbOY-w__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "FinTech",
+        "SaaS"
       ]
     },
     {
@@ -432,15 +432,14 @@
       ]
     },
     {
-      "name": "CarDekho",
-      "slug": "cardekho",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/cardekho",
+      "name": "CRED",
+      "slug": "cred",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/cred",
       "activeJobCount": 7,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/856f4d9f5e63b30b365d4c321b17fabe_320_160?Expires=1861920000&Signature=kzqgH-IBDFuTG9Enugj5~OjXXLAgqhu0JHmwPdk~MTGIyylAGBBMPs9yhV-2gm8MXqrwdnTHrjlKAYdL4ElqBxgQqTv-DGEjhvMl78vwIx0uEHtUEmQQ1bBZ4TJKUcjwiF-aQ5F~T0fMKEUkmKXXnR331mOBccDUWmneaVWodKXinn~yaC52IUE3OVlCVuHYNblvhShxaM-smFhMe9hlVzF~USgZjzoEAjAUkVHQhZTagQxANoPYVvp1KPtukL9btC8swtsbkHwhq7jZCH0yUjVgt22I3ulC3nRxEXj1OPKNXuOV73~V-Y1b5D3-hnlmL0lZ6ZGzafnjC~RCrKfy1A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "domain": "cred.club",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/0f489dc78cd71c10ce7781731473f725_242_160?Expires=1861920000&Signature=GmZSUIAoEE4uqZj-kImj6rPcw9fCFWxVAAOUGq2DQ1epweYf5arDIuHCqoyJJNcpacix2kI3q2syOASgk0QEQWALU19KoZo2BQj5TnFNbyWmoMaIzrt0zi8gBQ2BQOL8tzMKVaWxavl2fPbfygecPOn0usLXjhD0M-93BEsxF5zg9XRxQ1ZiG9TS0T2MLlo5k7rOLJHp6M3CvHww7pGcmBwI4pS3d5nN4i92He9dJJlOptIbMRGtTsso-es0siY~YhcA5XVbBJQolIQQNRHDqCLvKp~gN3OIPo66AcYAzQ9XgaFYv8I9XleNAmk7VLcr6VU4d~1XZ5MBzwrmQNKHvQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "Consumer Services",
-        "E-Commerce & D2C"
+        "FinTech"
       ]
     },
     {
@@ -477,58 +476,25 @@
       ]
     },
     {
-      "name": "K12 Techno Services",
-      "slug": "k12-techno-services",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/k12-techno-services",
-      "activeJobCount": 6,
+      "name": "BharatPe",
+      "slug": "bharatpe",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/bharatpe",
+      "activeJobCount": 5,
       "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/72faaac1863b248f9309d352f11ec130_112_160?Expires=1861920000&Signature=hbcCe4CI7fwU00Fwa2bz2EkfKM1DwFgHj9hMJJNdcvru2LjtwXmfgzs2HDQ1V6h8F6vX4OczB2xhkq0C7FQa4GNO-UbGLTBLGI3Y7ykZh-YM7RdL3rMBdwikRFg1BIHrZ8zwZFocNt0ok5jDL9PqolFSSkhM6coUrjPDfRHsidauBd3rDxLAgHjkgKaw5qJFEpLAg-9fT6ruFsw8QPbkCk6yQQ9yLt3ZCYhWGjeO-GoicO38FfF3mSZkDiMLZBUD~KZF9Jr70wPuGRlcTu2W3ako0a-YQCXNXzcxamWS6UxKIfxOjFE09hdtOPKJUHVQlevCo4hQMCjlxjIzqzQfhA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/d5e157b1058a02091585e034034ed79b_320_160?Expires=1861920000&Signature=hy2kKM9Dsa7XMqP7-SaDmGYyLaGRcRgiO4Tps1LECRDx9j5~abcZNJZdUKNsjAKfukgFPgNbkVHaJTweq0aGl4nzAmeyjKHHuUiQUNXDlyx75sT-s2O79qizaQxv~3FPHXMUSVGr69XjAymUKpH6~x85EB9i-9dcln4aLprBP3ggPbROXMh6WUtlq4qA9XKApJr-bFcGOeEOUOENluUF8y2MAo7gF1nPxcPKn5ijfQGU437ZMe-Q-~cr~TJI37sd4h2zyQCYSCVJZpyTHhuqqvQbgh4v6vwPmHmfNgjJybQDEuEWA3F19noFg2dJoDYU1wMHBO4aoiTv~Wm5rPbOpw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
-        "EdTech"
-      ]
-    },
-    {
-      "name": "SirionLabs",
-      "slug": "sirionlabs",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/sirionlabs",
-      "activeJobCount": 6,
-      "domain": "sirionlabs.com",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/7b123064597937062eb40ce8c34ed886_320_160?Expires=1861920000&Signature=nqK-Lb-XqyzzMUpdWoOME~965Hx9hk745U~MRFx66j4bUZiieCP7a7R57Qxnb2zotmcYkpNyXLLbU6Kx05ZMdcrT8LsRsfr8RwkbqQDjzVmimymgskM4cMYbDX3mb9C0x3ACaYhT3EhsCgrViHxSJDXZTo0FXGPRFP9CQSKaNYNrxTiExZoI1v9NkkZpHz3331yWps-a6cgLqLIYNHpsZxLXaZp64yNX5Kq5COI6Hb1tcJoCjDUosEO6~sOo4wzcwGhoHh~OKgmz1uMtd96utTSkUhS930~ZSCnMh1fuC62A3tj3demr9iYboPfJQICubZUvQkN610zDngwnMF5u1A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "SaaS"
+        "FinTech"
       ]
     },
     {
       "name": "DeHaat",
       "slug": "dehaat",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/dehaat",
-      "activeJobCount": 5,
+      "activeJobCount": 4,
       "domain": "",
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/1f80da0d8602e530d5e6bf274abced81_222_160?Expires=1861920000&Signature=AijPEgditggz2swswlbvbn9pPCgdjlJB594OFF3hj0jybGYw4tVQBJoYmLCTssGZaZ27gUewNR51K2tMQgTZu2TFuPzbFceHYBW4hb0HVFlboxwFs48AlJAMhEYcVij~EW~F9WSj1AXKlZEf5by9-S1ktyWryBbx8LGNYBig3Qx1HGGdnTy4dkZymkjpLKdv8t1JMGgHZafJNqGC3ETJnBEzFx6npXK7Y~yL5woyuDIpnq2ehDDLe7tZCw~xfJLFPC4Mwv7bU4GvB2KsDQ8fMNv72eKfcpA59PSbxB5mVRQ85mtke4zig7ehjmRvCcnIfLCXpQMEl6xGPINY28bIuQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "AgriTech"
-      ]
-    },
-    {
-      "name": "MobiKwik",
-      "slug": "mobikwik",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/mobikwik",
-      "activeJobCount": 5,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/dedcc4d9d0172bf57258da41e77b058b_256_160?Expires=1861920000&Signature=ebM-yoU3M9sb-fd0oZ8qOdi8lR7GsoUfCDoxANwMqGCk7iqOo0KYlpN1qRBMiOCdn3jAnxiI523Sxw~E0Te1ee04Pj6UYmFvIhfzT2ZANE-FEogWIGEAH7S7zIBojoAceAxjJ2doYfiy1efJzNpB3kHsLU0hyB2n6iR~MxtN9m28~TJF4F8~3tM2T4Bv-KNxYTesT6KnuFxdw4hDPyKwK9w9BTQgAMNCaN4HJZDsCm-VHR2OY8EM4eNKhc8cz8ZrJjYundF56UnX6gTcKJ9Ep9jfhaschvXfQantP3aO7QUr4274cMFPpvRl8zAIOWD3JuOPgJT22JZLT88mshdwNA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "FinTech"
-      ]
-    },
-    {
-      "name": "BharatPe",
-      "slug": "bharatpe",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/bharatpe",
-      "activeJobCount": 4,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/d5e157b1058a02091585e034034ed79b_320_160?Expires=1861920000&Signature=hy2kKM9Dsa7XMqP7-SaDmGYyLaGRcRgiO4Tps1LECRDx9j5~abcZNJZdUKNsjAKfukgFPgNbkVHaJTweq0aGl4nzAmeyjKHHuUiQUNXDlyx75sT-s2O79qizaQxv~3FPHXMUSVGr69XjAymUKpH6~x85EB9i-9dcln4aLprBP3ggPbROXMh6WUtlq4qA9XKApJr-bFcGOeEOUOENluUF8y2MAo7gF1nPxcPKn5ijfQGU437ZMe-Q-~cr~TJI37sd4h2zyQCYSCVJZpyTHhuqqvQbgh4v6vwPmHmfNgjJybQDEuEWA3F19noFg2dJoDYU1wMHBO4aoiTv~Wm5rPbOpw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "FinTech"
       ]
     },
     {
@@ -540,6 +506,28 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/e5823e043d5284bc1b4974912ebb6c67_240_160?Expires=1861920000&Signature=Lhf9OKX6aNZLSKuaQsZ~g1F1Iy~pXQMiltmEOH~0BVTm7caHaGo3opU7ZP80C8OefSuskk8cV0CKLIwqz8mD~ZPyTjDZgZFe4wmunvYmwvFArpUtZSKjhg9PQ7iThqxczwL6WLFUc6tRuIa9Z9ijUrBM4irN6vQbGYAbyyNdHCkDmqx3WP6due2yse4GNo5rDvBwecfws5FQoeA2J3PlMpnv5Dsyog~g9xfqlH9zVZSUYj17sO6o6go58vhOOh8MMEYen-hw658Awj5H1gAHIQm5jKbbNoBRj~XbGiY33Nx2DIESbG98H0cptRGd0pJERA6hv4iTCOD79-KeVok1zA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "EdTech",
+        "FinTech"
+      ]
+    },
+    {
+      "name": "K12 Techno Services",
+      "slug": "k12-techno-services",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/k12-techno-services",
+      "activeJobCount": 4,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/72faaac1863b248f9309d352f11ec130_112_160?Expires=1861920000&Signature=hbcCe4CI7fwU00Fwa2bz2EkfKM1DwFgHj9hMJJNdcvru2LjtwXmfgzs2HDQ1V6h8F6vX4OczB2xhkq0C7FQa4GNO-UbGLTBLGI3Y7ykZh-YM7RdL3rMBdwikRFg1BIHrZ8zwZFocNt0ok5jDL9PqolFSSkhM6coUrjPDfRHsidauBd3rDxLAgHjkgKaw5qJFEpLAg-9fT6ruFsw8QPbkCk6yQQ9yLt3ZCYhWGjeO-GoicO38FfF3mSZkDiMLZBUD~KZF9Jr70wPuGRlcTu2W3ako0a-YQCXNXzcxamWS6UxKIfxOjFE09hdtOPKJUHVQlevCo4hQMCjlxjIzqzQfhA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "EdTech"
+      ]
+    },
+    {
+      "name": "MobiKwik",
+      "slug": "mobikwik",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/mobikwik",
+      "activeJobCount": 4,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/dedcc4d9d0172bf57258da41e77b058b_256_160?Expires=1861920000&Signature=ebM-yoU3M9sb-fd0oZ8qOdi8lR7GsoUfCDoxANwMqGCk7iqOo0KYlpN1qRBMiOCdn3jAnxiI523Sxw~E0Te1ee04Pj6UYmFvIhfzT2ZANE-FEogWIGEAH7S7zIBojoAceAxjJ2doYfiy1efJzNpB3kHsLU0hyB2n6iR~MxtN9m28~TJF4F8~3tM2T4Bv-KNxYTesT6KnuFxdw4hDPyKwK9w9BTQgAMNCaN4HJZDsCm-VHR2OY8EM4eNKhc8cz8ZrJjYundF56UnX6gTcKJ9Ep9jfhaschvXfQantP3aO7QUr4274cMFPpvRl8zAIOWD3JuOPgJT22JZLT88mshdwNA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
         "FinTech"
       ]
     },
@@ -566,6 +554,17 @@
       ]
     },
     {
+      "name": "SirionLabs",
+      "slug": "sirionlabs",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/sirionlabs",
+      "activeJobCount": 4,
+      "domain": "sirionlabs.com",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/7b123064597937062eb40ce8c34ed886_320_160?Expires=1861920000&Signature=nqK-Lb-XqyzzMUpdWoOME~965Hx9hk745U~MRFx66j4bUZiieCP7a7R57Qxnb2zotmcYkpNyXLLbU6Kx05ZMdcrT8LsRsfr8RwkbqQDjzVmimymgskM4cMYbDX3mb9C0x3ACaYhT3EhsCgrViHxSJDXZTo0FXGPRFP9CQSKaNYNrxTiExZoI1v9NkkZpHz3331yWps-a6cgLqLIYNHpsZxLXaZp64yNX5Kq5COI6Hb1tcJoCjDUosEO6~sOo4wzcwGhoHh~OKgmz1uMtd96utTSkUhS930~ZSCnMh1fuC62A3tj3demr9iYboPfJQICubZUvQkN610zDngwnMF5u1A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "SaaS"
+      ]
+    },
+    {
       "name": "Animall",
       "slug": "animall",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/animall",
@@ -589,6 +588,18 @@
       ]
     },
     {
+      "name": "CarDekho",
+      "slug": "cardekho",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/cardekho",
+      "activeJobCount": 3,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/856f4d9f5e63b30b365d4c321b17fabe_320_160?Expires=1861920000&Signature=kzqgH-IBDFuTG9Enugj5~OjXXLAgqhu0JHmwPdk~MTGIyylAGBBMPs9yhV-2gm8MXqrwdnTHrjlKAYdL4ElqBxgQqTv-DGEjhvMl78vwIx0uEHtUEmQQ1bBZ4TJKUcjwiF-aQ5F~T0fMKEUkmKXXnR331mOBccDUWmneaVWodKXinn~yaC52IUE3OVlCVuHYNblvhShxaM-smFhMe9hlVzF~USgZjzoEAjAUkVHQhZTagQxANoPYVvp1KPtukL9btC8swtsbkHwhq7jZCH0yUjVgt22I3ulC3nRxEXj1OPKNXuOV73~V-Y1b5D3-hnlmL0lZ6ZGzafnjC~RCrKfy1A__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "Consumer Services",
+        "E-Commerce & D2C"
+      ]
+    },
+    {
       "name": "La Renon Healthcare",
       "slug": "la-renon-healthcare",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/la-renon-healthcare",
@@ -609,17 +620,6 @@
       "sectors": [
         "E-Commerce & D2C",
         "Manufacturing & Hardware"
-      ]
-    },
-    {
-      "name": "Octro",
-      "slug": "octro",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/octro",
-      "activeJobCount": 3,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/a77e12c8d41a80125cb112ee7f25d4aa_208_160?Expires=1861920000&Signature=QiEcmU8dXxjaAAqK3VfTr~mvyyyOwGkN5hUyL1ar4e3VOSKC4VbO4DfPN2D3EG8OPN2Ti3B0Lh5W04yKz0ji~4mDsjSlrvQrMu7ci5d0Us6ebOBbvPBfME6A20Pjyt3VZaaZjOqxVT0Q0ClyK7~O5WdS6r9wqE5dMNlxQn7iIV8b~MxDNVnQL0Dof9pttPYtybUzrmJKvD2~6x~OhlSSbyLiM~0-Z~XghM04FoQfL-UT-vcJq9ZRpd59Or4bBh70YcbndlY~WCa2RsEDlhm8cGYrCW~U8EW2YNybs8chpcihpGw7jVyw6qORfvN9qDRCusRGh03MexV6us21IyDzuQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "Media & Entertainment"
       ]
     },
     {
@@ -653,6 +653,17 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/c35680545ad0ebf5dddfb43107415a0b_160_160?Expires=1861920000&Signature=ppjrmzlJiqmxog~bFihaUHApcYVgcwxTwqF~P7dbtTYq9s48SPkRVFYKVHa3-0gp0dV8fOZuMFWAnrhLkblYreeq1euHBV0NrNsQyooDtiFtsRAJn5qgfJ9V4TWLP1KJMxMTotniL-5q9eSttweDacmEmgEIitKDVFlkgrUgNqwfZCn4il8iyPahvuvpMcxMVSFjozQq4pfgDuTI~EIHob~39tnQYxP0tTFA3OES~ISwC7lsBBxGK2Wvay3C6NJ5mPtVUPA8VyRQsG-usa17MoneVMZXwnz93kY291Mvgvc18V67S2EgbYe0NRzhQCkwKis63Eu~d84~rCNB8ES67g__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "Manufacturing & Hardware"
+      ]
+    },
+    {
+      "name": "India Shelter Finance",
+      "slug": "india-shelter-finance",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/india-shelter-finance",
+      "activeJobCount": 2,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/75164b542be66eddd5cb646c34c0bd8c_320_160?Expires=1861920000&Signature=b0oFAS0drP0ZZaojI6CtW8xt9wTxhE-RVEmH9fBcX0sv~lOp2SiuXtR5vCzsypCLDow2bkxWXDTh7zU-Yf5WS0vao9Q99JqqPcMTabfGpfSoBhru020CQ7bhQ6~~JRX3VvgmHjESFExpMvqIsMeJywVX0DMrp92fi~ngBhHaFkh7ikq9FldoRJ9S-BL3GziDEB7bFzzckjCLcAuzxObdOmkdBJbWsrpzXHBG7tjbyHLQuKciheay1uWyNLUe~85K9EKbbpiiiPzvGthm0z7A5BChxd18ErBRGqbCne0GUlQytreU1rvKzzz4Z4lcyTt2nbiZv~-U60-BUhsR6-gT6Q__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "FinTech"
       ]
     },
     {
@@ -701,6 +712,17 @@
       ]
     },
     {
+      "name": "Cloudnine Group of Hospitals",
+      "slug": "cloudnine-group-of-hospitals",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/cloudnine-group-of-hospitals",
+      "activeJobCount": 1,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/6c7cfdfa1c44f0483d24246be6380f9d_320_160?Expires=1861920000&Signature=k66ePtoXccfXlvyIyahwf8xUxlx5u2SSewODsTJyROpTWBmB84q5g4yVzgVuwtTKroVkVH7IAmcRNZbi1KywfOWClyQHsOZh2iYSkKJCaeN~ybdsumsIV3kAuJYdE67CfN4Y4AhrWXi8h7NReWsH9Pl-BmqzTFXbsGdHsFWDDw8Wk-8S~mZn0TCUsf3feXz78PbJP0GqcqicSJFKJBju1vCdB7SXzeX2cnoHi0wthQA9eKfu5Lou7TtMaXtzp45CtpHM96-tLH3wUugJnAJNGqn~vMXs5Dh-cx3bbOJFbFoOKUXVxz6YLFrnR2X63~TdHB-oEZ23tP5ZWuVB-bx6dw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "HealthTech"
+      ]
+    },
+    {
       "name": "Flynote",
       "slug": "flynote",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/flynote",
@@ -721,17 +743,6 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/4d4ce0d51d6b4ac7b7c1b1ad501cfa74_320_160?Expires=1861920000&Signature=E9MbZyqXzGG6jJYf7ZXDKL7D9hy~8p~LutmcXTLpJdxDSFHu2ZGOCFNbRp6U44BlK5hkvUicIjss4vW52FrMveHiy5JNKnUFyMC3Yg6HkkHMTx5xAN3REyi6kTJpFRF6n7ack30YVy2H0odyUBcjI8HKl6mU689m9~DcWDGuKAM5-7E0HCfPNZ7RmnzdG4oCSi6agbCwg5-5t~xOytzwxxPXz0qUsDZ1GhwdUDG9bL3k3ZjHm5PZjR~158HiDt7K3FDxkvZn6U5h~iFK4~~RjhQHnPjm49sdL1gNWc29vQOF46EeEv47fTNbpHg2jO-lTmesDvMM08jaeQdmZsiHPg__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "Consumer Services"
-      ]
-    },
-    {
-      "name": "India Shelter Finance",
-      "slug": "india-shelter-finance",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/india-shelter-finance",
-      "activeJobCount": 1,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/75164b542be66eddd5cb646c34c0bd8c_320_160?Expires=1861920000&Signature=b0oFAS0drP0ZZaojI6CtW8xt9wTxhE-RVEmH9fBcX0sv~lOp2SiuXtR5vCzsypCLDow2bkxWXDTh7zU-Yf5WS0vao9Q99JqqPcMTabfGpfSoBhru020CQ7bhQ6~~JRX3VvgmHjESFExpMvqIsMeJywVX0DMrp92fi~ngBhHaFkh7ikq9FldoRJ9S-BL3GziDEB7bFzzckjCLcAuzxObdOmkdBJbWsrpzXHBG7tjbyHLQuKciheay1uWyNLUe~85K9EKbbpiiiPzvGthm0z7A5BChxd18ErBRGqbCne0GUlQytreU1rvKzzz4Z4lcyTt2nbiZv~-U60-BUhsR6-gT6Q__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "FinTech"
       ]
     },
     {
@@ -847,17 +858,6 @@
       "sectors": [
         "EdTech",
         "SaaS"
-      ]
-    },
-    {
-      "name": "Cloudnine Group of Hospitals",
-      "slug": "cloudnine-group-of-hospitals",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/cloudnine-group-of-hospitals",
-      "activeJobCount": 0,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/6c7cfdfa1c44f0483d24246be6380f9d_320_160?Expires=1861920000&Signature=k66ePtoXccfXlvyIyahwf8xUxlx5u2SSewODsTJyROpTWBmB84q5g4yVzgVuwtTKroVkVH7IAmcRNZbi1KywfOWClyQHsOZh2iYSkKJCaeN~ybdsumsIV3kAuJYdE67CfN4Y4AhrWXi8h7NReWsH9Pl-BmqzTFXbsGdHsFWDDw8Wk-8S~mZn0TCUsf3feXz78PbJP0GqcqicSJFKJBju1vCdB7SXzeX2cnoHi0wthQA9eKfu5Lou7TtMaXtzp45CtpHM96-tLH3wUugJnAJNGqn~vMXs5Dh-cx3bbOJFbFoOKUXVxz6YLFrnR2X63~TdHB-oEZ23tP5ZWuVB-bx6dw__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
-        "HealthTech"
       ]
     },
     {
@@ -1073,6 +1073,17 @@
       ]
     },
     {
+      "name": "Octro",
+      "slug": "octro",
+      "jobsBoardUrl": "https://careers.peakxv.com/jobs/octro",
+      "activeJobCount": 0,
+      "domain": "",
+      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/a77e12c8d41a80125cb112ee7f25d4aa_208_160?Expires=1861920000&Signature=QiEcmU8dXxjaAAqK3VfTr~mvyyyOwGkN5hUyL1ar4e3VOSKC4VbO4DfPN2D3EG8OPN2Ti3B0Lh5W04yKz0ji~4mDsjSlrvQrMu7ci5d0Us6ebOBbvPBfME6A20Pjyt3VZaaZjOqxVT0Q0ClyK7~O5WdS6r9wqE5dMNlxQn7iIV8b~MxDNVnQL0Dof9pttPYtybUzrmJKvD2~6x~OhlSSbyLiM~0-Z~XghM04FoQfL-UT-vcJq9ZRpd59Or4bBh70YcbndlY~WCa2RsEDlhm8cGYrCW~U8EW2YNybs8chpcihpGw7jVyw6qORfvN9qDRCusRGh03MexV6us21IyDzuQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
+      "sectors": [
+        "Media & Entertainment"
+      ]
+    },
+    {
       "name": "OncoStem",
       "slug": "oncostem",
       "jobsBoardUrl": "https://careers.peakxv.com/jobs/oncostem",
@@ -1252,17 +1263,6 @@
       "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/98dcdb01fa103fa63a8bad6ffa5a86e5_256_160?Expires=1861920000&Signature=T6LSek2DCaJ8wPtl31yX5wNHWU7clibHyreg~m8gDjZy1hhaK9oDZY4x7M3WavIFitqALwXwEoA1AtHHK6E34JQdSYpuBlNAr22ZcBkOFlUdnhDsA9m~2ENHCqeBNtMhmc9WIgmtb~hDdBxtRSNyEMTwpwrWbvkV6LrdE5yXOB~Hyi8bN459isjYFWPoIiLU8Xn~7TnU~fXpMyA5zHIQ9Bq84NZVpPcI6MsHK~YHrhNd1bqq0rr8bjZaKDei6Agu30JHF1lpOdjGynppXIIgzKkAdFRdrdqQuiRk44pTKFiDIu-ZWbFp-9bsfr3JBCbQDAMHRhW3e04mmbx~n8A5SA__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
       "sectors": [
         "E-Commerce & D2C",
-        "FoodTech"
-      ]
-    },
-    {
-      "name": "Zomato",
-      "slug": "zomato",
-      "jobsBoardUrl": "https://careers.peakxv.com/jobs/zomato",
-      "activeJobCount": 0,
-      "domain": "",
-      "logoUrl": "https://dzh2zima160vx.cloudfront.net/logo/9512a6013d632c3218c345644e754b8e_224_160?Expires=1861920000&Signature=fh-dEaP7l4PyD0jSRKCYZmPLK06LJbcH9fPQMRkt7QlgKJENlg4iikCTAoVCnNMtjdTqroyN-KiArzm5qCBZI5Fc3i6aQAX4Xf-3lU2UmbsRidixTq9tQ~ekyoYPBScCMHIUcWKQlAWSs4ZoUzMkm-aGX4H6nY--fjdQ4YF1odTZmCWcEoJlOGIkVuMGvTICPebrh2nalDRhmVvfoLOFW-BBNHX8~7C8MDgkmcXkw9uOANBPz~hjMK7KjuHxqFCOKohlir6cORvGGzpy3u0RqKwaLUF0wc46P1pbnzzJcC3yCDSEccIS9qGZNQufGdL-lJJisegnB7tJPIdraH0JXQ__&Key-Pair-Id=APKAII5OVX4LZ3WT422Q",
-      "sectors": [
         "FoodTech"
       ]
     }
