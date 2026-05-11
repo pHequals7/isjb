@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-04-27",
+    "lastUpdated": "2026-05-11",
     "totalCompanies": 169,
     "source": "https://jobs.accel.com"
   },
@@ -9,15 +9,20 @@
       "name": "100ms",
       "slug": "100ms-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/100ms-2#content",
-      "activeJobCount": 17,
+      "activeJobCount": 10,
       "domain": "100ms.live",
       "logoUrl": "https://cdn.getro.com/companies/22722c7a-5937-4b6f-b173-34fe545c7a07-1766367161",
       "sectors": [
+        "Consumer Services",
+        "EdTech",
+        "HealthTech",
+        "Manufacturing & Hardware",
+        "Media & Entertainment",
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 2,
-      "latestJobDate": "2026-03-27"
+      "internshipCount": 1,
+      "latestJobDate": "2026-04-28"
     },
     {
       "name": "6sense",
@@ -32,7 +37,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-06"
     },
     {
       "name": "Aavenir",
@@ -59,7 +64,11 @@
       "domain": "acalvio.com",
       "logoUrl": "https://cdn.getro.com/companies/ef91e483-3888-48cb-839a-3ab106bf9b3c-1766194633",
       "sectors": [
-        "Cybersecurity"
+        "AI & Data",
+        "Consumer Services",
+        "Cybersecurity",
+        "Manufacturing & Hardware",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0
@@ -85,7 +94,7 @@
       "name": "ACKO",
       "slug": "acko-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/acko-2#content",
-      "activeJobCount": 8,
+      "activeJobCount": 7,
       "domain": "acko.com",
       "logoUrl": "https://cdn.getro.com/companies/c7df8904-b887-40da-b7b6-6763251b1a80-1760923907",
       "sectors": [
@@ -93,13 +102,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-11"
+      "latestJobDate": "2026-04-09"
     },
     {
       "name": "Agrostar",
       "slug": "agrostar-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/agrostar-2#content",
-      "activeJobCount": 2,
+      "activeJobCount": 4,
       "domain": "agrostar.in",
       "logoUrl": "https://cdn.getro.com/companies/f60328ff-1837-41d4-89ea-4305f74b8a9e-1761788625",
       "sectors": [
@@ -108,8 +117,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 1,
-      "latestJobDate": "2026-04-25"
+      "internshipCount": 2,
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "Airmeet",
@@ -151,7 +160,8 @@
       "domain": "amagi.com",
       "logoUrl": "https://cdn.getro.com/companies/5fdcb59e-9f17-433e-9b15-cc403c4b69fa-1761616132",
       "sectors": [
-        "Media & Entertainment"
+        "Media & Entertainment",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
@@ -205,7 +215,7 @@
       "name": "Arista Networks",
       "slug": "arista-networks-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/arista-networks-2#content",
-      "activeJobCount": 450,
+      "activeJobCount": 431,
       "domain": "arista.com",
       "logoUrl": "https://cdn.getro.com/companies/9e4f8402-ef48-5be2-902a-f823cf5c09cc-1748396184",
       "sectors": [
@@ -213,8 +223,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 4,
-      "latestJobDate": "2026-04-25"
+      "internshipCount": 7,
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "Axio Biosolutions",
@@ -246,13 +256,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-03-01"
+      "latestJobDate": "2026-01-30"
     },
     {
       "name": "Binocs ",
       "slug": "binocs-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/binocs-2#content",
-      "activeJobCount": 0,
+      "activeJobCount": 3,
       "domain": "binocs.co",
       "logoUrl": "https://cdn.getro.com/companies/0ad2325a-aa99-4aa3-b52b-6be5a36ab584-1761442903",
       "sectors": [
@@ -260,8 +270,9 @@
         "FinTech",
         "SaaS"
       ],
-      "hasInternships": false,
-      "internshipCount": 0
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2025-04-11"
     },
     {
       "name": "Bizongo",
@@ -284,7 +295,7 @@
       "name": "Blackbuck",
       "slug": "blackbuck",
       "jobsBoardUrl": "https://jobs.accel.com/companies/blackbuck#content",
-      "activeJobCount": 9,
+      "activeJobCount": 5,
       "domain": "blackbuck.com",
       "logoUrl": "https://cdn.getro.com/companies/663b2880-79e6-47dd-bc8d-11fce8393d96-1760751760",
       "sectors": [
@@ -296,7 +307,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-04-18"
     },
     {
       "name": "Bluestone",
@@ -367,7 +378,7 @@
       "name": "BrowserStack",
       "slug": "browserstack",
       "jobsBoardUrl": "https://jobs.accel.com/companies/browserstack#content",
-      "activeJobCount": 19,
+      "activeJobCount": 20,
       "domain": "browserstack.com",
       "logoUrl": "https://cdn.getro.com/companies/d5b88abe-45b9-451c-b292-ecf785a53b5e-1760664911",
       "sectors": [
@@ -376,13 +387,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-20"
+      "latestJobDate": "2026-05-07"
     },
     {
       "name": "Campaign Monitor",
       "slug": "campaign-monitor-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/campaign-monitor-2#content",
-      "activeJobCount": 2,
+      "activeJobCount": 1,
       "domain": "campaignmonitor.com",
       "logoUrl": "https://cdn.getro.com/companies/c50bb9be-22f2-4375-83a6-16b3c6e30a68-1760923841",
       "sectors": [
@@ -412,7 +423,7 @@
       "name": "Celonis",
       "slug": "celonis",
       "jobsBoardUrl": "https://jobs.accel.com/companies/celonis#content",
-      "activeJobCount": 192,
+      "activeJobCount": 204,
       "domain": "celonis.com",
       "logoUrl": "https://cdn.getro.com/companies/4367845f-764d-4f6a-9bc7-9b539f089945-1761269488",
       "sectors": [
@@ -420,22 +431,23 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 18,
-      "latestJobDate": "2026-04-26"
+      "internshipCount": 9,
+      "latestJobDate": "2026-05-09"
     },
     {
       "name": "Chargebee",
       "slug": "chargebee",
       "jobsBoardUrl": "https://jobs.accel.com/companies/chargebee#content",
-      "activeJobCount": 6,
+      "activeJobCount": 5,
       "domain": "chargebee.com",
       "logoUrl": "https://cdn.getro.com/companies/ff082f2b-3fde-4a06-a06b-616dfc670849-1761961150",
       "sectors": [
-        "FinTech"
+        "FinTech",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-15"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "CityMall",
@@ -456,15 +468,16 @@
       "name": "CleverTap",
       "slug": "clevertap-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/clevertap-2#content",
-      "activeJobCount": 42,
+      "activeJobCount": 38,
       "domain": "clevertap.com",
       "logoUrl": "https://cdn.getro.com/companies/9eb7e111-1ead-44a6-90d5-278e15b63810-1761355912",
       "sectors": [
-        "Consumer Services"
+        "Consumer Services",
+        "SaaS"
       ],
-      "hasInternships": true,
-      "internshipCount": 1,
-      "latestJobDate": "2026-04-24"
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Cloudera",
@@ -483,7 +496,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-27"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Cogoport",
@@ -504,7 +517,7 @@
       "name": "Cohesity",
       "slug": "cohesity",
       "jobsBoardUrl": "https://jobs.accel.com/companies/cohesity#content",
-      "activeJobCount": 192,
+      "activeJobCount": 167,
       "domain": "cohesity.com",
       "logoUrl": "https://cdn.getro.com/companies/5955a969-b559-4a71-95ce-39ead0cca556-1762047458",
       "sectors": [
@@ -513,7 +526,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 1,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-09"
     },
     {
       "name": "Consure Medical",
@@ -536,11 +549,13 @@
       "domain": "couchbase.com",
       "logoUrl": "https://cdn.getro.com/companies/dd0e9b99-9522-4780-8e95-3836f72886ef-1760751673",
       "sectors": [
+        "AI & Data",
+        "Consumer Services",
         "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-09"
     },
     {
       "name": "Coverfox Insurance",
@@ -575,7 +590,7 @@
       "name": "Credgenics",
       "slug": "credgenics-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/credgenics-2#content",
-      "activeJobCount": 5,
+      "activeJobCount": 4,
       "domain": "credgenics.com",
       "logoUrl": "https://cdn.getro.com/companies/0dd3f5fc-47ab-43ce-a13f-99b8f4361f6e-1761442904",
       "sectors": [
@@ -586,13 +601,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "Crown Castle",
       "slug": "crown-castle-2-5512fc5f-c566-4d89-a07a-def4ab5d7027",
       "jobsBoardUrl": "https://jobs.accel.com/companies/crown-castle-2-5512fc5f-c566-4d89-a07a-def4ab5d7027#content",
-      "activeJobCount": 4,
+      "activeJobCount": 9,
       "domain": "crowncastle.com",
       "logoUrl": "https://cdn.getro.com/companies/53e7d4a6-39b9-42c7-a5ef-fe96bbbeb894-1761701887",
       "sectors": [
@@ -601,7 +616,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-17"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Curefit - house of cult",
@@ -622,15 +637,15 @@
       "name": "Curefoods",
       "slug": "curefoods-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/curefoods-2#content",
-      "activeJobCount": 2,
+      "activeJobCount": 3,
       "domain": "curefoods.in",
       "logoUrl": "https://cdn.getro.com/companies/64e6216b-5756-5371-af55-d316f02d3db9-1748482417",
       "sectors": [
         "FoodTech"
       ],
-      "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-04-25"
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-05-04"
     },
     {
       "name": "Curejoy",
@@ -671,7 +686,7 @@
       "name": "Dezerv",
       "slug": "dezerv-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/dezerv-2#content",
-      "activeJobCount": 37,
+      "activeJobCount": 28,
       "domain": "dezerv.in",
       "logoUrl": "https://cdn.getro.com/companies/63dfc36d-d703-4557-b388-bf0654ff3d87-1761701869",
       "sectors": [
@@ -680,7 +695,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-26"
+      "latestJobDate": "2026-05-07"
     },
     {
       "name": "Digbi Health",
@@ -690,6 +705,7 @@
       "domain": "digbihealth.com",
       "logoUrl": "https://cdn.getro.com/companies/83d14ea3-6fe3-4ac3-b33d-15c84a608e78-1760233065",
       "sectors": [
+        "Consumer Services",
         "HealthTech"
       ],
       "hasInternships": false,
@@ -700,11 +716,12 @@
       "name": "Drip Capital",
       "slug": "drip-capital",
       "jobsBoardUrl": "https://jobs.accel.com/companies/drip-capital#content",
-      "activeJobCount": 23,
+      "activeJobCount": 21,
       "domain": "dripcapital.com",
       "logoUrl": "https://cdn.getro.com/companies/54016f61-cf24-460a-9ca7-da28094578f8-1760922997",
       "sectors": [
-        "FinTech"
+        "FinTech",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
@@ -734,6 +751,8 @@
       "domain": "entytle.com",
       "logoUrl": "https://cdn.getro.com/companies/77f357b1-17da-4c68-a695-c9ccd725bbe2-1769219098",
       "sectors": [
+        "AI & Data",
+        "Manufacturing & Hardware",
         "SaaS"
       ],
       "hasInternships": false,
@@ -773,7 +792,7 @@
       "name": "Facilio",
       "slug": "facilio",
       "jobsBoardUrl": "https://jobs.accel.com/companies/facilio#content",
-      "activeJobCount": 3,
+      "activeJobCount": 2,
       "domain": "facilio.com",
       "logoUrl": "https://cdn.getro.com/companies/1c66fd0e-7217-4d81-9651-46bdcbea379d-1761788115",
       "sectors": [
@@ -784,7 +803,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-03"
+      "latestJobDate": "2026-04-28"
     },
     {
       "name": "Fashinza",
@@ -822,7 +841,7 @@
       "name": "Fibr",
       "slug": "fibr-2-525dca2f-d0e4-469e-8d3f-7a6bf77d8f32",
       "jobsBoardUrl": "https://jobs.accel.com/companies/fibr-2-525dca2f-d0e4-469e-8d3f-7a6bf77d8f32#content",
-      "activeJobCount": 5,
+      "activeJobCount": 3,
       "domain": "fibr.ai",
       "logoUrl": "https://cdn.getro.com/companies/061110bc-6067-429d-91dd-f8aa5bf37547-1761528959",
       "sectors": [
@@ -852,7 +871,7 @@
       "name": "Forescout ",
       "slug": "forescout",
       "jobsBoardUrl": "https://jobs.accel.com/companies/forescout#content",
-      "activeJobCount": 34,
+      "activeJobCount": 23,
       "domain": "forescout.com",
       "logoUrl": "https://cdn.getro.com/companies/e8b8c1da-c5cb-4405-8ff2-e74d7aa38cfa-1760664782",
       "sectors": [
@@ -862,8 +881,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 6,
-      "latestJobDate": "2026-04-17"
+      "internshipCount": 2,
+      "latestJobDate": "2026-05-07"
     },
     {
       "name": "Forus Health",
@@ -873,7 +892,9 @@
       "domain": "forushealth.com",
       "logoUrl": "https://cdn.getro.com/companies/e5aa0c42-b8be-5571-aa98-0ed9872763c0-1748741868",
       "sectors": [
-        "HealthTech"
+        "AI & Data",
+        "HealthTech",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0
@@ -882,7 +903,7 @@
       "name": "Freshworks",
       "slug": "freshworks",
       "jobsBoardUrl": "https://jobs.accel.com/companies/freshworks#content",
-      "activeJobCount": 40,
+      "activeJobCount": 26,
       "domain": "freshworks.com",
       "logoUrl": "https://cdn.getro.com/companies/ed1bf45d-0348-4334-ab27-5c2bc542bd3b-1760577852",
       "sectors": [
@@ -892,7 +913,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 1,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Fundly.ai",
@@ -912,15 +933,19 @@
       "name": "G2",
       "slug": "g2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/g2#content",
-      "activeJobCount": 36,
+      "activeJobCount": 30,
       "domain": "g2.com",
       "logoUrl": "https://cdn.getro.com/companies/0b39cfb5-0254-508d-8966-a9f21086430a-1747618039",
       "sectors": [
-        "Consumer Services"
+        "AI & Data",
+        "Consumer Services",
+        "E-Commerce & D2C",
+        "Logistics",
+        "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 2,
-      "latestJobDate": "2026-04-22"
+      "internshipCount": 1,
+      "latestJobDate": "2026-05-09"
     },
     {
       "name": "GutWellness Club",
@@ -993,6 +1018,11 @@
       "domain": "hotelogix.com",
       "logoUrl": "https://cdn.getro.com/companies/7268fa1f-76ff-4924-96dc-16b2403842b6-1761355975",
       "sectors": [
+        "Consumer Services",
+        "Cybersecurity",
+        "FinTech",
+        "Real Estate",
+        "SaaS",
         "Travel & Hospitality"
       ],
       "hasInternships": false,
@@ -1017,7 +1047,7 @@
       "name": "Hudl",
       "slug": "hudl",
       "jobsBoardUrl": "https://jobs.accel.com/companies/hudl#content",
-      "activeJobCount": 105,
+      "activeJobCount": 96,
       "domain": "hudl.com",
       "logoUrl": "https://cdn.getro.com/companies/470236b5-bda0-455f-8dc9-aca981e01ef5-1760837315",
       "sectors": [
@@ -1027,8 +1057,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 3,
-      "latestJobDate": "2026-04-24"
+      "internshipCount": 1,
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "Indifi Technologies",
@@ -1079,15 +1109,18 @@
       "name": "Ironclad",
       "slug": "ironclad",
       "jobsBoardUrl": "https://jobs.accel.com/companies/ironclad#content",
-      "activeJobCount": 45,
+      "activeJobCount": 51,
       "domain": "ironcladapp.com",
       "logoUrl": "https://cdn.getro.com/companies/0cb9acb1-0cc7-4588-a508-6762034a4560-1763948356",
       "sectors": [
-        "Consumer Services"
+        "AI & Data",
+        "Consumer Services",
+        "Manufacturing & Hardware",
+        "SaaS"
       ],
       "hasInternships": true,
       "internshipCount": 1,
-      "latestJobDate": "2026-04-19"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Jetapult ",
@@ -1108,7 +1141,7 @@
       "name": "Jifflenow",
       "slug": "jifflenow-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/jifflenow-2#content",
-      "activeJobCount": 156,
+      "activeJobCount": 140,
       "domain": "jifflenow.com",
       "logoUrl": "https://cdn.getro.com/companies/ff40479b-ece0-4c6d-8d61-eebfa563b025-1761355981",
       "sectors": [
@@ -1118,8 +1151,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 9,
-      "latestJobDate": "2026-04-25"
+      "internshipCount": 7,
+      "latestJobDate": "2026-05-07"
     },
     {
       "name": "Jify",
@@ -1139,7 +1172,7 @@
       "name": "Jiraaf",
       "slug": "jiraaf",
       "jobsBoardUrl": "https://jobs.accel.com/companies/jiraaf#content",
-      "activeJobCount": 1,
+      "activeJobCount": 0,
       "domain": "jiraaf.com",
       "logoUrl": "https://cdn.getro.com/companies/b730320d-39f0-4923-b3ef-370bb26105a7-1761701877",
       "sectors": [
@@ -1147,8 +1180,7 @@
         "Real Estate"
       ],
       "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "internshipCount": 0
     },
     {
       "name": "KGEN",
@@ -1163,8 +1195,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 1,
-      "latestJobDate": "2026-04-24"
+      "internshipCount": 2,
+      "latestJobDate": "2026-05-07"
     },
     {
       "name": "Kirusa",
@@ -1218,7 +1250,11 @@
       "domain": "lookout.com",
       "logoUrl": "https://cdn.getro.com/companies/49eddc37-e4d5-4d7c-9842-e277767352be-1761961184",
       "sectors": [
-        "Cybersecurity"
+        "AI & Data",
+        "Consumer Services",
+        "Cybersecurity",
+        "Logistics",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
@@ -1232,6 +1268,9 @@
       "domain": "kubric.io",
       "logoUrl": "https://cdn.getro.com/companies/7aeee392-569c-5426-81c7-2a5e9c1ad46e-1749272101",
       "sectors": [
+        "Consumer Services",
+        "E-Commerce & D2C",
+        "Manufacturing & Hardware",
         "SaaS"
       ],
       "hasInternships": false,
@@ -1258,7 +1297,7 @@
       "name": "Meragi",
       "slug": "meragi-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/meragi-2#content",
-      "activeJobCount": 21,
+      "activeJobCount": 20,
       "domain": "meragi.com",
       "logoUrl": "https://cdn.getro.com/companies/d07a0924-3323-4719-b8f6-7b4e066b88be-1766108140",
       "sectors": [
@@ -1266,14 +1305,14 @@
         "Media & Entertainment"
       ],
       "hasInternships": true,
-      "internshipCount": 4,
-      "latestJobDate": "2026-04-22"
+      "internshipCount": 5,
+      "latestJobDate": "2026-05-04"
     },
     {
       "name": "Mihup",
       "slug": "mihup-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/mihup-2#content",
-      "activeJobCount": 7,
+      "activeJobCount": 6,
       "domain": "mihup.ai",
       "logoUrl": "https://cdn.getro.com/companies/67c35302-25e2-4ea9-be31-453ced11edb1-1761701883",
       "sectors": [
@@ -1284,13 +1323,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-03-19"
+      "latestJobDate": "2026-05-05"
     },
     {
       "name": "Mindtickle",
       "slug": "mindtickle",
       "jobsBoardUrl": "https://jobs.accel.com/companies/mindtickle#content",
-      "activeJobCount": 33,
+      "activeJobCount": 35,
       "domain": "mindtickle.com",
       "logoUrl": "https://cdn.getro.com/companies/26ed51b2-ecd4-4a96-8e90-5d8d92da7398-1760577255",
       "sectors": [
@@ -1298,21 +1337,20 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-23"
+      "latestJobDate": "2026-04-30"
     },
     {
       "name": "Mirana Toys",
       "slug": "mirana-toys-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/mirana-toys-2#content",
-      "activeJobCount": 1,
+      "activeJobCount": 0,
       "domain": "miranatoys.com",
       "logoUrl": "https://cdn.getro.com/companies/fd15bb9f-546a-483c-babb-f2b3dc964124-1766108151",
       "sectors": [
         "Media & Entertainment"
       ],
       "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-04-25"
+      "internshipCount": 0
     },
     {
       "name": "Moglix",
@@ -1334,15 +1372,15 @@
       "name": "moneyview",
       "slug": "moneyview",
       "jobsBoardUrl": "https://jobs.accel.com/companies/moneyview#content",
-      "activeJobCount": 15,
+      "activeJobCount": 11,
       "domain": "moneyview.in",
       "logoUrl": "https://cdn.getro.com/companies/61ba2884-ba73-4a5e-a886-da0d548be78b-1762998104",
       "sectors": [
         "FinTech"
       ],
-      "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "MyGlamm",
@@ -1406,7 +1444,7 @@
       "name": "Netskope",
       "slug": "netskope",
       "jobsBoardUrl": "https://jobs.accel.com/companies/netskope#content",
-      "activeJobCount": 130,
+      "activeJobCount": 131,
       "domain": "netskope.com",
       "logoUrl": "https://cdn.getro.com/companies/03a1b624-721e-42bb-9628-97eb6c29e0ca-1761183734",
       "sectors": [
@@ -1416,7 +1454,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-26"
+      "latestJobDate": "2026-05-09"
     },
     {
       "name": "Newme",
@@ -1439,7 +1477,7 @@
       "name": "Nimble Storage",
       "slug": "nimble-storage-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/nimble-storage-2#content",
-      "activeJobCount": 1429,
+      "activeJobCount": 1409,
       "domain": "nimblestorage.com",
       "logoUrl": "https://cdn.getro.com/companies/d826a889-2543-42ca-bbdc-ec8109b2e264-1766367126",
       "sectors": [
@@ -1450,8 +1488,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 92,
-      "latestJobDate": "2026-04-27"
+      "internshipCount": 80,
+      "latestJobDate": "2026-05-09"
     },
     {
       "name": "Ninjacart",
@@ -1518,7 +1556,7 @@
       "name": "Onsitego",
       "slug": "onsitego-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/onsitego-2#content",
-      "activeJobCount": 12,
+      "activeJobCount": 11,
       "domain": "onsitego.com",
       "logoUrl": "https://cdn.getro.com/companies/f54b8621-47ba-48a2-83bb-9e6fbfa53bcc-1761356005",
       "sectors": [
@@ -1529,7 +1567,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-22"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Openhouse",
@@ -1581,7 +1619,7 @@
       "name": "Plex Systems, Inc.",
       "slug": "plex-systems-inc-2-9ae9ad5c-be0b-48be-bcb0-f1ecda4be810",
       "jobsBoardUrl": "https://jobs.accel.com/companies/plex-systems-inc-2-9ae9ad5c-be0b-48be-bcb0-f1ecda4be810#content",
-      "activeJobCount": 473,
+      "activeJobCount": 462,
       "domain": "plex.com",
       "logoUrl": "https://cdn.getro.com/companies/8d7c5c88-4791-543a-af1b-3e07634480cd-1748135964",
       "sectors": [
@@ -1592,14 +1630,14 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 15,
-      "latestJobDate": "2026-04-24"
+      "internshipCount": 17,
+      "latestJobDate": "2026-05-09"
     },
     {
       "name": "Portea Medical",
       "slug": "portea-medical-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/portea-medical-2#content",
-      "activeJobCount": 7,
+      "activeJobCount": 5,
       "domain": "portea.com",
       "logoUrl": "https://cdn.getro.com/companies/46becfce-3f69-4c05-b303-afda65606eb3-1761356005",
       "sectors": [
@@ -1608,17 +1646,19 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-03-10"
+      "latestJobDate": "2025-12-26"
     },
     {
       "name": "Power2SME",
       "slug": "power2sme-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/power2sme-2#content",
-      "activeJobCount": 7,
+      "activeJobCount": 5,
       "domain": "power2sme.com",
       "logoUrl": "https://cdn.getro.com/companies/ff0034aa-17a0-4691-9714-b8d32825579b-1761356014",
       "sectors": [
-        "Consumer Services"
+        "Consumer Services",
+        "E-Commerce & D2C",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
@@ -1672,7 +1712,7 @@
       "name": "Probe42",
       "slug": "probe42",
       "jobsBoardUrl": "https://jobs.accel.com/companies/probe42#content",
-      "activeJobCount": 2,
+      "activeJobCount": 1,
       "domain": "probe42.in",
       "logoUrl": "https://cdn.getro.com/companies/5bf77227-8e83-4c5e-af0e-d29dd7b1b613-1761356015",
       "sectors": [
@@ -1682,7 +1722,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-09"
+      "latestJobDate": "2026-05-05"
     },
     {
       "name": "Productiv",
@@ -1692,6 +1732,8 @@
       "domain": "productiv.com",
       "logoUrl": "https://cdn.getro.com/companies/1840edd4-afb2-4ef1-b43e-5588d14766a1-1760319619",
       "sectors": [
+        "AI & Data",
+        "Consumer Services",
         "SaaS"
       ],
       "hasInternships": false,
@@ -1755,7 +1797,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "Recommercex",
@@ -1787,9 +1829,9 @@
         "SaaS",
         "Travel & Hospitality"
       ],
-      "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "hasInternships": true,
+      "internshipCount": 2,
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "RetainIQ  ",
@@ -1811,7 +1853,7 @@
       "name": "Rigi",
       "slug": "rigi-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/rigi-2#content",
-      "activeJobCount": 4,
+      "activeJobCount": 2,
       "domain": "rigi.club",
       "logoUrl": "https://cdn.getro.com/companies/747e8e4e-1083-5a83-8244-08e8874a6e0f-1748482536",
       "sectors": [
@@ -1819,15 +1861,15 @@
         "Media & Entertainment",
         "SaaS"
       ],
-      "hasInternships": true,
-      "internshipCount": 3,
-      "latestJobDate": "2026-03-25"
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-05-06"
     },
     {
       "name": "Riverbed Technology",
       "slug": "riverbed-technology",
       "jobsBoardUrl": "https://jobs.accel.com/companies/riverbed-technology#content",
-      "activeJobCount": 35,
+      "activeJobCount": 42,
       "domain": "riverbed.com",
       "logoUrl": "https://cdn.getro.com/companies/c0b6b9a3-3baa-4391-8e15-e917c927a41e-1760924403",
       "sectors": [
@@ -1838,13 +1880,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-22"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Rupeek",
       "slug": "rupeek-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/rupeek-2#content",
-      "activeJobCount": 18,
+      "activeJobCount": 15,
       "domain": "rupeek.com",
       "logoUrl": "https://cdn.getro.com/companies/731ae0ee-ce4f-4db2-91b5-81d26d27575f-1761356020",
       "sectors": [
@@ -1854,7 +1896,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "S4S Technologies",
@@ -1900,7 +1942,7 @@
       "name": "Sarla Aviation",
       "slug": "sarla-aviation",
       "jobsBoardUrl": "https://jobs.accel.com/companies/sarla-aviation#content",
-      "activeJobCount": 24,
+      "activeJobCount": 23,
       "domain": "sarla-aviation.com",
       "logoUrl": "https://cdn.getro.com/companies/03e0a123-6781-4908-848f-8bef2dcd15e0-1762997950",
       "sectors": [
@@ -1908,8 +1950,8 @@
         "Manufacturing & Hardware"
       ],
       "hasInternships": true,
-      "internshipCount": 2,
-      "latestJobDate": "2026-04-17"
+      "internshipCount": 1,
+      "latestJobDate": "2026-05-04"
     },
     {
       "name": "Sayre Therapeutics",
@@ -1929,7 +1971,7 @@
       "name": "Scimplify",
       "slug": "scimplify-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/scimplify-2#content",
-      "activeJobCount": 41,
+      "activeJobCount": 42,
       "domain": "scimplify.com",
       "logoUrl": "https://cdn.getro.com/companies/ad7637ca-0084-4688-acd9-7217ff3cec7c-1762393212",
       "sectors": [
@@ -1939,7 +1981,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 2,
-      "latestJobDate": "2026-04-20"
+      "latestJobDate": "2026-04-29"
     },
     {
       "name": "Scripbox",
@@ -1953,13 +1995,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-02-20"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "SentinelOne",
       "slug": "sentinelone",
       "jobsBoardUrl": "https://jobs.accel.com/companies/sentinelone#content",
-      "activeJobCount": 118,
+      "activeJobCount": 130,
       "domain": "sentinelone.com",
       "logoUrl": "https://cdn.getro.com/companies/5610ba29-eccc-41ff-9262-53fdc44c0721-1761875287",
       "sectors": [
@@ -1967,8 +2009,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 21,
-      "latestJobDate": "2026-04-27"
+      "internshipCount": 17,
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Shivalik Bank ",
@@ -1978,6 +2020,7 @@
       "domain": "shivalikbank.com",
       "logoUrl": "https://cdn.getro.com/companies/a1d85e12-f870-4dca-a29b-0ca6ad7da13b-1761356030",
       "sectors": [
+        "Consumer Services",
         "FinTech"
       ],
       "hasInternships": false,
@@ -2034,7 +2077,7 @@
       "name": "Skeps",
       "slug": "skeps-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/skeps-2#content",
-      "activeJobCount": 2,
+      "activeJobCount": 20,
       "domain": "skeps.com",
       "logoUrl": "https://cdn.getro.com/companies/0df09c5a-5aeb-4b10-b71f-d868fccadba0-1761701899",
       "sectors": [
@@ -2045,13 +2088,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2025-06-25"
+      "latestJobDate": "2026-04-30"
     },
     {
       "name": "Slack",
       "slug": "slack",
       "jobsBoardUrl": "https://jobs.accel.com/companies/slack#content",
-      "activeJobCount": 12,
+      "activeJobCount": 10,
       "domain": "slack.com",
       "logoUrl": "https://cdn.getro.com/companies/e31c8d7a-b910-4f40-86a6-ce3790564d7f-1763084407",
       "sectors": [
@@ -2059,23 +2102,24 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-22"
+      "latestJobDate": "2026-04-28"
     },
     {
       "name": "Socure",
       "slug": "socure",
       "jobsBoardUrl": "https://jobs.accel.com/companies/socure#content",
-      "activeJobCount": 90,
+      "activeJobCount": 99,
       "domain": "socure.com",
       "logoUrl": "https://cdn.getro.com/companies/cbf6c90b-2d7b-4c32-8254-e7d9bbddf162-1760751532",
       "sectors": [
+        "AI & Data",
         "Cybersecurity",
         "FinTech",
         "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-25"
+      "latestJobDate": "2026-05-09"
     },
     {
       "name": "Spacejoy",
@@ -2098,7 +2142,7 @@
       "name": "Spinny",
       "slug": "spinny",
       "jobsBoardUrl": "https://jobs.accel.com/companies/spinny#content",
-      "activeJobCount": 2,
+      "activeJobCount": 1,
       "domain": "spinny.com",
       "logoUrl": "https://cdn.getro.com/companies/94576e65-be03-4138-8369-e472e4d6f50b-1760837649",
       "sectors": [
@@ -2107,7 +2151,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2025-04-21"
+      "latestJobDate": "2025-04-19"
     },
     {
       "name": "SplashLearn",
@@ -2128,7 +2172,7 @@
       "name": "Spotify",
       "slug": "spotify-3",
       "jobsBoardUrl": "https://jobs.accel.com/companies/spotify-3#content",
-      "activeJobCount": 14,
+      "activeJobCount": 9,
       "domain": "spotify.com",
       "logoUrl": "https://cdn.getro.com/companies/b2237f4f-9453-4882-87ba-718ba8ced3c2-1760319591",
       "sectors": [
@@ -2138,27 +2182,30 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-10"
+      "latestJobDate": "2026-05-04"
     },
     {
       "name": "Sprinto ",
       "slug": "sprinto-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/sprinto-2#content",
-      "activeJobCount": 21,
+      "activeJobCount": 23,
       "domain": "sprinto.com",
       "logoUrl": "https://cdn.getro.com/companies/20bfd522-8f85-4834-ae79-1b992dc30588-1761616137",
       "sectors": [
+        "Consumer Services",
+        "Cybersecurity",
+        "Manufacturing & Hardware",
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 3,
-      "latestJobDate": "2026-04-24"
+      "internshipCount": 2,
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Spyne",
       "slug": "spyne-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/spyne-2#content",
-      "activeJobCount": 25,
+      "activeJobCount": 22,
       "domain": "spyne.ai",
       "logoUrl": "https://cdn.getro.com/companies/3d3035a8-b4b4-412d-b7a3-26e1a3b4fa98-1761356043",
       "sectors": [
@@ -2169,8 +2216,8 @@
         "SaaS"
       ],
       "hasInternships": true,
-      "internshipCount": 1,
-      "latestJobDate": "2026-04-22"
+      "internshipCount": 2,
+      "latestJobDate": "2026-05-05"
     },
     {
       "name": "Stanza Living",
@@ -2191,15 +2238,18 @@
       "name": "Sumo Logic",
       "slug": "sumo-logic-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/sumo-logic-2#content",
-      "activeJobCount": 41,
+      "activeJobCount": 48,
       "domain": "sumologic.com",
       "logoUrl": "https://cdn.getro.com/companies/f8bcfafe-69f9-4032-81cf-e3bb4ea9ed7c-1761615691",
       "sectors": [
+        "AI & Data",
+        "Consumer Services",
+        "Cybersecurity",
         "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-23"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "SureWaves",
@@ -2221,7 +2271,7 @@
       "name": "Swiggy",
       "slug": "swiggy",
       "jobsBoardUrl": "https://jobs.accel.com/companies/swiggy#content",
-      "activeJobCount": 101,
+      "activeJobCount": 89,
       "domain": "swiggy.com",
       "logoUrl": "https://cdn.getro.com/companies/0bcb3696-8a8d-447e-9550-336b3923c309-1760578458",
       "sectors": [
@@ -2231,29 +2281,28 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-02"
+      "latestJobDate": "2026-05-02"
     },
     {
       "name": "Teabox",
       "slug": "teabox-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/teabox-2#content",
-      "activeJobCount": 3,
+      "activeJobCount": 4,
       "domain": "teabox.com",
       "logoUrl": "https://cdn.getro.com/companies/62f54586-6f7c-400d-94a1-fb5699b708e7-1769046279",
       "sectors": [
-        "Consumer Services",
         "E-Commerce & D2C",
         "FoodTech"
       ],
-      "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-04-22"
+      "hasInternships": true,
+      "internshipCount": 1,
+      "latestJobDate": "2026-05-06"
     },
     {
       "name": "Tenable",
       "slug": "tenable-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/tenable-2#content",
-      "activeJobCount": 64,
+      "activeJobCount": 63,
       "domain": "tenable.com",
       "logoUrl": "https://cdn.getro.com/companies/98e29b71-7f47-4612-8d05-6ae85aa24acd-1761961132",
       "sectors": [
@@ -2264,7 +2313,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-22"
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "Testsigma",
@@ -2288,7 +2337,9 @@
       "domain": "tracxn.com",
       "logoUrl": "https://cdn.getro.com/companies/8019f7ca-bd46-467c-ab7c-bf6411b889a5-1761356105",
       "sectors": [
-        "FinTech"
+        "AI & Data",
+        "FinTech",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0
@@ -2297,7 +2348,7 @@
       "name": "Trifacta",
       "slug": "trifacta-com",
       "jobsBoardUrl": "https://jobs.accel.com/companies/trifacta-com#content",
-      "activeJobCount": 72,
+      "activeJobCount": 71,
       "domain": "trifacta.com",
       "logoUrl": "https://cdn.getro.com/companies/c875e4fc-eb98-40f1-9aa3-308beaf5a7a4-1761096453",
       "sectors": [
@@ -2308,7 +2359,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "Trinkerr",
@@ -2336,7 +2387,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 3,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "Uni Cards ",
@@ -2460,15 +2511,18 @@
       "name": "Wibmo",
       "slug": "wibmo-2",
       "jobsBoardUrl": "https://jobs.accel.com/companies/wibmo-2#content",
-      "activeJobCount": 148,
+      "activeJobCount": 151,
       "domain": "wibmo.co",
       "logoUrl": "https://cdn.getro.com/companies/8c63e319-9d7e-4527-a102-c85139e8e94a-1761702029",
       "sectors": [
+        "Consumer Services",
+        "Cybersecurity",
+        "FinTech",
         "SaaS"
       ],
       "hasInternships": true,
       "internshipCount": 4,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Wiom",
@@ -2508,7 +2562,7 @@
       "name": "Zenoti",
       "slug": "zenoti",
       "jobsBoardUrl": "https://jobs.accel.com/companies/zenoti#content",
-      "activeJobCount": 64,
+      "activeJobCount": 59,
       "domain": "zenoti.com",
       "logoUrl": "https://cdn.getro.com/companies/0e6c7a28-bbb5-49e4-9d5b-fd6947d3649f-1760837339",
       "sectors": [
@@ -2517,13 +2571,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-22"
+      "latestJobDate": "2026-05-10"
     },
     {
       "name": "Zetwerk",
       "slug": "zetwerk",
       "jobsBoardUrl": "https://jobs.accel.com/companies/zetwerk#content",
-      "activeJobCount": 38,
+      "activeJobCount": 39,
       "domain": "zetwerk.com",
       "logoUrl": "https://cdn.getro.com/companies/16e3564d-2c6f-46db-a6b7-43ef9519c071-1761615700",
       "sectors": [
@@ -2534,21 +2588,23 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-03-29"
+      "latestJobDate": "2026-05-05"
     },
     {
       "name": "Zinier",
       "slug": "zinier",
       "jobsBoardUrl": "https://jobs.accel.com/companies/zinier#content",
-      "activeJobCount": 37,
+      "activeJobCount": 35,
       "domain": "zinier.com",
       "logoUrl": "https://cdn.getro.com/companies/ebfd8a11-6f60-4602-b205-d51d65e78bb5-1760406138",
       "sectors": [
+        "AI & Data",
+        "Consumer Services",
         "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-27"
+      "latestJobDate": "2026-05-08"
     },
     {
       "name": "Zolve",
