@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-11",
+    "lastUpdated": "2026-05-25",
     "totalCompanies": 35,
     "source": "https://jobs.generalcatalyst.com"
   },
@@ -51,7 +51,7 @@
       "name": "Cashflo",
       "slug": "cashflo",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cashflo#content",
-      "activeJobCount": 15,
+      "activeJobCount": 16,
       "domain": "cashflo.io",
       "logoUrl": "https://cdn.getro.com/companies/259eac4c-cb45-4a1c-8e11-7a8b2ff9cc71-1761013505",
       "sectors": [
@@ -63,7 +63,7 @@
       ],
       "hasInternships": true,
       "internshipCount": 1,
-      "latestJobDate": "2026-05-04"
+      "latestJobDate": "2026-05-14"
     },
     {
       "name": "Chai Shots",
@@ -116,7 +116,7 @@
       "name": "CRED",
       "slug": "cred",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/cred#content",
-      "activeJobCount": 6,
+      "activeJobCount": 8,
       "domain": "cred.club",
       "logoUrl": "https://cdn.getro.com/companies/82e8649a-9e83-4027-9328-b887bfc0750c-1762047574",
       "sectors": [
@@ -126,13 +126,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-20"
+      "latestJobDate": "2026-05-20"
     },
     {
       "name": "Eightfold",
       "slug": "eightfold",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/eightfold#content",
-      "activeJobCount": 65,
+      "activeJobCount": 58,
       "domain": "eightfold.ai",
       "logoUrl": "https://cdn.getro.com/companies/11694eb4-805b-4f66-a6a5-f79662713bab-1760406126",
       "sectors": [
@@ -142,7 +142,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-05-09"
+      "latestJobDate": "2026-05-23"
     },
     {
       "name": "Fitmint",
@@ -165,7 +165,7 @@
       "name": "Fivetran",
       "slug": "fivetran",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/fivetran#content",
-      "activeJobCount": 150,
+      "activeJobCount": 134,
       "domain": "fivetran.com",
       "logoUrl": "https://cdn.getro.com/companies/399d4e0f-c5cf-473a-8aba-3c8d1a1f1374-1761183679",
       "sectors": [
@@ -174,7 +174,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-05-08"
+      "latestJobDate": "2026-05-23"
     },
     {
       "name": "GetSupp",
@@ -225,7 +225,7 @@
       "name": "Loop Health",
       "slug": "loop-health",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/loop-health#content",
-      "activeJobCount": 32,
+      "activeJobCount": 33,
       "domain": "loophealth.com",
       "logoUrl": "https://cdn.getro.com/companies/aecb599a-f58b-4e81-9be9-214e0d445ad9-1760578066",
       "sectors": [
@@ -236,7 +236,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-05-08"
+      "latestJobDate": "2026-05-17"
     },
     {
       "name": "Magma",
@@ -259,7 +259,7 @@
       "name": "Meolaa",
       "slug": "meolaa",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/meolaa#content",
-      "activeJobCount": 1,
+      "activeJobCount": 0,
       "domain": "meolaa.com",
       "logoUrl": "https://cdn.getro.com/companies/ec41b9d6-9b88-4a77-8e15-5496beb2db45-1760012152",
       "sectors": [
@@ -269,36 +269,34 @@
         "SaaS"
       ],
       "hasInternships": false,
-      "internshipCount": 0,
-      "latestJobDate": "2026-04-15"
+      "internshipCount": 0
     },
     {
       "name": "Nurix",
       "slug": "nurix",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/nurix#content",
-      "activeJobCount": 6,
+      "activeJobCount": 5,
       "domain": "nurix.ai",
       "logoUrl": "https://cdn.getro.com/companies/799e8df4-eae3-4813-836a-c72a4044fc91-1767749870",
       "sectors": [
         "AI & Data",
-        "Consumer Services",
         "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-24"
+      "latestJobDate": "2026-03-19"
     },
     {
       "name": "Omli Technologies",
       "slug": "omli-technologies",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/omli-technologies#content",
-      "activeJobCount": 6,
+      "activeJobCount": 5,
       "domain": "omli.in",
       "logoUrl": "https://cdn.getro.com/companies/47ab6a46-2042-4336-9a3f-7ee3131d960a-1766060343",
       "sectors": [],
       "hasInternships": true,
       "internshipCount": 2,
-      "latestJobDate": "2026-05-10"
+      "latestJobDate": "2026-05-22"
     },
     {
       "name": "Orange Health Labs",
@@ -320,7 +318,7 @@
       "name": "Ossium Health",
       "slug": "ossium-health",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/ossium-health#content",
-      "activeJobCount": 24,
+      "activeJobCount": 29,
       "domain": "ossiumhealth.com",
       "logoUrl": "https://cdn.getro.com/companies/afcdc28e-7872-4656-87e4-1d43c7c7fa19-1761269682",
       "sectors": [
@@ -328,13 +326,13 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-05-06"
+      "latestJobDate": "2026-05-22"
     },
     {
       "name": "Ping Identity",
       "slug": "ping-identity",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/ping-identity#content",
-      "activeJobCount": 67,
+      "activeJobCount": 54,
       "domain": "pingidentity.com",
       "logoUrl": "https://cdn.getro.com/companies/450ecb6c-4b31-4854-8ea1-9f58a1260756-1761875171",
       "sectors": [
@@ -344,7 +342,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-05-07"
+      "latestJobDate": "2026-05-19"
     },
     {
       "name": "Primus",
@@ -379,7 +377,7 @@
       "name": "Prosimo.io",
       "slug": "prosimo-io-2",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/prosimo-io-2#content",
-      "activeJobCount": 76,
+      "activeJobCount": 88,
       "domain": "prosimo.io",
       "logoUrl": "https://cdn.getro.com/companies/3e686810-ce0c-4257-93ea-72ecd12bc7ca-1761183660",
       "sectors": [
@@ -389,7 +387,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-05-10"
+      "latestJobDate": "2026-05-22"
     },
     {
       "name": "Raphe mPhibr",
@@ -423,7 +421,7 @@
       "name": "Singular",
       "slug": "singular",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/singular#content",
-      "activeJobCount": 12,
+      "activeJobCount": 17,
       "domain": "singular.net",
       "logoUrl": "https://cdn.getro.com/companies/d2d76bbe-650e-49f6-9e2a-06197078baeb-1761615498",
       "sectors": [
@@ -434,7 +432,7 @@
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-04-22"
+      "latestJobDate": "2026-05-22"
     },
     {
       "name": "Spinny",
@@ -445,7 +443,10 @@
       "logoUrl": "https://cdn.getro.com/companies/94576e65-be03-4138-8369-e472e4d6f50b-1760837649",
       "sectors": [
         "Consumer Services",
-        "E-Commerce & D2C"
+        "E-Commerce & D2C",
+        "FinTech",
+        "Logistics",
+        "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
@@ -471,21 +472,24 @@
       "name": "The Honest Company",
       "slug": "the-honest-company",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/the-honest-company#content",
-      "activeJobCount": 6,
+      "activeJobCount": 7,
       "domain": "honest.com",
       "logoUrl": "https://cdn.getro.com/companies/c6d2daf4-380d-4d64-9b23-31520da7ebf2-1761874957",
       "sectors": [
+        "Consumer Services",
+        "E-Commerce & D2C",
+        "Manufacturing & Hardware",
         "SaaS"
       ],
       "hasInternships": false,
       "internshipCount": 0,
-      "latestJobDate": "2026-05-01"
+      "latestJobDate": "2026-05-19"
     },
     {
       "name": "ThoughtSpot",
       "slug": "thoughtspot",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/thoughtspot#content",
-      "activeJobCount": 102,
+      "activeJobCount": 97,
       "domain": "thoughtspot.com",
       "logoUrl": "https://cdn.getro.com/companies/5c78aef6-e91a-462a-adfa-bb7dc917b551-1761012570",
       "sectors": [
@@ -493,9 +497,9 @@
         "Cybersecurity",
         "SaaS"
       ],
-      "hasInternships": true,
-      "internshipCount": 1,
-      "latestJobDate": "2026-05-08"
+      "hasInternships": false,
+      "internshipCount": 0,
+      "latestJobDate": "2026-05-22"
     },
     {
       "name": "Uni Cards ",
@@ -531,7 +535,7 @@
       "name": "Zepto",
       "slug": "zepto",
       "jobsBoardUrl": "https://jobs.generalcatalyst.com/companies/zepto#content",
-      "activeJobCount": 0,
+      "activeJobCount": 1,
       "domain": "zeptonow.com",
       "logoUrl": "https://cdn.getro.com/companies/806c6bd8-d0db-44e3-a573-8d0647387d3a-1760837571",
       "sectors": [
@@ -542,7 +546,8 @@
         "SaaS"
       ],
       "hasInternships": false,
-      "internshipCount": 0
+      "internshipCount": 0,
+      "latestJobDate": "2026-05-11"
     }
   ]
 }
